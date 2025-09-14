@@ -1,0 +1,92 @@
+# Core dependencies
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+lxml>=4.9.0
+
+# Database
+sqlite3  # Built-in Python module
+
+# Data processing
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Web scraping
+selenium>=4.15.0
+fake-useragent>=1.4.0
+
+# Progress tracking and utilities
+tqdm>=4.66.0
+psutil>=5.9.0
+
+# Configuration
+python-dotenv>=1.0.0
+
+# Caching (optional but recommended)
+redis>=5.0.0
+
+# Text processing and similarity
+difflib  # Built-in Python module
+re  # Built-in Python module
+
+# Date/time handling
+datetime  # Built-in Python module
+
+# JSON handling
+json  # Built-in Python module
+
+# Path handling
+pathlib  # Built-in Python module
+
+# Logging
+logging  # Built-in Python module
+
+# Type hints
+typing  # Built-in Python module
+
+# XML processing
+xml.etree.ElementTree  # Built-in Python module
+
+# URL handling
+urllib.parse  # Built-in Python module
+
+# HTML processing
+html  # Built-in Python module
+
+# Hash generation
+hashlib  # Built-in Python module
+
+# Enum support
+enum  # Built-in Python module
+
+# Dataclass support
+dataclasses  # Built-in Python module
+
+# Time operations
+time  # Built-in Python module
+
+# System operations
+os  # Built-in Python module
+sys  # Built-in Python module
+
+# Argument parsing
+argparse  # Built-in Python module
+
+# Optional: For advanced text processing and AI analysis
+# openai>=1.0.0  # For DeepSeek API integration (if needed later)
+# scikit-learn>=1.3.0  # For advanced text similarity
+# nltk>=3.8.0  # For NLP tasks
+# spacy>=3.7.0  # For advanced NLP
+
+# Optional: For advanced data export
+# openpyxl>=3.1.0  # Excel export
+# xlsxwriter>=3.1.0  # Excel export alternative
+
+# Optional: For visualization (if needed)
+# matplotlib>=3.7.0
+# seaborn>=0.12.0
+# plotly>=5.17.0
+
+# Development dependencies (optional)
+# pytest>=7.4.0  # Testing
+# black>=23.0.0  # Code formatting
+# flake8>=6.0.0  # Linting

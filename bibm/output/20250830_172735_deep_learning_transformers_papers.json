@@ -1,0 +1,1380 @@
+{
+  "metadata": {
+    "search_keyword": "deep learning transformers",
+    "total_results": 40,
+    "scraped_at": "2025-08-30T17:27:35.383021",
+    "scraper_version": "1.0"
+  },
+  "results": [
+    {
+      "title": "A comprehensive survey on applications of transformers for deep learning tasks",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0957417423031688",
+      "snippet": "… Transformer models spanning from 2017 to 2022. Our survey encompasses the identification of the top five application domains for Transformer-… of highly impactful Transformer-based …",
+      "publication_info": {
+        "summary": "S Islam, H Elmekki, A Elsebai, J Bentahar… - Expert Systems with …, 2024 - Elsevier",
+        "authors": [
+          {
+            "name": "S Islam",
+            "link": "https://scholar.google.com/citations?user=tB6uqAkAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=tB6uqAkAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "tB6uqAkAAAAJ"
+          },
+          {
+            "name": "H Elmekki",
+            "link": "https://scholar.google.com/citations?user=Jwi21i8AAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=Jwi21i8AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "Jwi21i8AAAAJ"
+          },
+          {
+            "name": "J Bentahar",
+            "link": "https://scholar.google.com/citations?user=kEZryy8AAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=kEZryy8AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "kEZryy8AAAAJ"
+          }
+        ]
+      },
+      "authors": [
+        "S Islam",
+        "H Elmekki",
+        "J Bentahar"
+      ],
+      "year": 2024,
+      "citation_count": 398,
+      "venue": "S Islam, H Elmekki, A Elsebai, J Bentahar…",
+      "search_keyword": "deep learning transformers",
+      "scraped_at": "2025-08-30T17:27:33.639628",
+      "abstract": "… Transformer models spanning from 2017 to 2022. Our survey encompasses the identification of the top five application domains for Transformer-… of highly impactful Transformer-based …"
+    },
+    {
+      "title": "Object detection using deep learning, CNNs and vision transformers: A review",
+      "link": "https://ieeexplore.ieee.org/abstract/document/10098596/",
+      "snippet": "… of deep neural network models. This paper examines more closely how object detection has evolved in the era of deep learning … , anchor-free, and transformer-based detectors. Those …",
+      "publication_info": {
+        "summary": "AB Amjoud, M Amrouch - IEEE Access, 2023 - ieeexplore.ieee.org",
+        "authors": [
+          {
+            "name": "AB Amjoud",
+            "link": "https://scholar.google.com/citations?user=hL4weX4AAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=hL4weX4AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "hL4weX4AAAAJ"
+          },
+          {
+            "name": "M Amrouch",
+            "link": "https://scholar.google.com/citations?user=QtLtqsEAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=QtLtqsEAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "QtLtqsEAAAAJ"
+          }
+        ]
+      },
+      "authors": [
+        "AB Amjoud",
+        "M Amrouch"
+      ],
+      "year": 2023,
+      "citation_count": 288,
+      "venue": "AB Amjoud, M Amrouch",
+      "search_keyword": "deep learning transformers",
+      "scraped_at": "2025-08-30T17:27:33.639644",
+      "abstract": "… of deep neural network models. This paper examines more closely how object detection has evolved in the era of deep learning … , anchor-free, and transformer-based detectors. Those …"
+    },
+    {
+      "title": "Transformer-based deep learning for predicting protein properties in the life sciences",
+      "link": "https://elifesciences.org/articles/82819",
+      "snippet": "… Transformer model. We review recent developments and the use of large-scale Transformer … We review shortcomings of other deep learning models and explain how the Transformer …",
+      "publication_info": {
+        "summary": "A Chandra, L Tünnermann, T Löfstedt, R Gratz - Elife, 2023 - elifesciences.org",
+        "authors": [
+          {
+            "name": "A Chandra",
+            "link": "https://scholar.google.com/citations?user=7WKMPpQAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=7WKMPpQAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "7WKMPpQAAAAJ"
+          },
+          {
+            "name": "T Löfstedt",
+            "link": "https://scholar.google.com/citations?user=VpUFw68AAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=VpUFw68AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "VpUFw68AAAAJ"
+          },
+          {
+            "name": "R Gratz",
+            "link": "https://scholar.google.com/citations?user=WKuG5NgAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=WKuG5NgAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "WKuG5NgAAAAJ"
+          }
+        ]
+      },
+      "authors": [
+        "A Chandra",
+        "T Löfstedt",
+        "R Gratz"
+      ],
+      "year": 2023,
+      "citation_count": 158,
+      "venue": "A Chandra, L Tünnermann, T Löfstedt, R Gratz",
+      "search_keyword": "deep learning transformers",
+      "scraped_at": "2025-08-30T17:27:33.639650",
+      "abstract": "… Transformer model. We review recent developments and the use of large-scale Transformer … We review shortcomings of other deep learning models and explain how the Transformer …"
+    },
+    {
+      "title": "A deep learning approach for robust detection of bots in twitter using transformers",
+      "link": "https://ieeexplore.ieee.org/abstract/document/9385071/",
+      "snippet": "… In this paper, we present a multilingual approach for addressing the bot identification task in Twitter via Deep learning (DL) approaches to support end-users when checking the …",
+      "publication_info": {
+        "summary": "D Martín-Gutiérrez, G Hernández-Peñaloza… - IEEe …, 2021 - ieeexplore.ieee.org",
+        "authors": [
+          {
+            "name": "G Hernández-Peñaloza",
+            "link": "https://scholar.google.com/citations?user=ST4g1v4AAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=ST4g1v4AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "ST4g1v4AAAAJ"
+          }
+        ]
+      },
+      "authors": [
+        "G Hernández-Peñaloza"
+      ],
+      "year": 2021,
+      "citation_count": 72,
+      "venue": "D Martín-Gutiérrez, G Hernández-Peñaloza…",
+      "search_keyword": "deep learning transformers",
+      "scraped_at": "2025-08-30T17:27:33.639655",
+      "abstract": "… In this paper, we present a multilingual approach for addressing the bot identification task in Twitter via Deep learning (DL) approaches to support end-users when checking the …"
+    },
+    {
+      "title": "DeepTraSynergy: drug combinations using multimodal deep learning with transformers",
+      "link": "https://academic.oup.com/bioinformatics/article-abstract/39/8/btad438/7226508",
+      "snippet": "… Hence, we propose a new deep learning-based approach for drug combination synergy … To learn the feature representation of drugs, we have utilized transformers. It is worth noting that …",
+      "publication_info": {
+        "summary": "F Rafiei, H Zeraati, K Abbasi, JB Ghasemi… - …, 2023 - academic.oup.com",
+        "authors": [
+          {
+            "name": "F Rafiei",
+            "link": "https://scholar.google.com/citations?user=43V5wLIAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=43V5wLIAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "43V5wLIAAAAJ"
+          },
+          {
+            "name": "H Zeraati",
+            "link": "https://scholar.google.com/citations?user=UiFJ_10AAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=UiFJ_10AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "UiFJ_10AAAAJ"
+          },
+          {
+            "name": "K Abbasi",
+            "link": "https://scholar.google.com/citations?user=bciVaS4AAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=bciVaS4AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "bciVaS4AAAAJ"
+          },
+          {
+            "name": "JB Ghasemi",
+            "link": "https://scholar.google.com/citations?user=R8AafDIAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=R8AafDIAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "R8AafDIAAAAJ"
+          }
+        ]
+      },
+      "authors": [
+        "F Rafiei",
+        "H Zeraati",
+        "K Abbasi",
+        "JB Ghasemi"
+      ],
+      "year": 2023,
+      "citation_count": 65,
+      "venue": "F Rafiei, H Zeraati, K Abbasi, JB Ghasemi…",
+      "search_keyword": "deep learning transformers",
+      "scraped_at": "2025-08-30T17:27:33.639659",
+      "abstract": "… Hence, we propose a new deep learning-based approach for drug combination synergy … To learn the feature representation of drugs, we have utilized transformers. It is worth noting that …"
+    },
+    {
+      "title": "Learning deep learning: Theory and practice of neural networks, computer vision, natural language processing, and transformers using TensorFlow",
+      "link": "https://books.google.com/books?hl=en&lr=&id=wNnPEAAAQBAJ&oi=fnd&pg=PT24&dq=deep+learning+transformers&ots=SXJSi4Ay3r&sig=ofVHp-qT0A64IQFceErkN57YWo4",
+      "snippet": "… Let us begin by pointing out that we find Deep Learning important. You will learn about the perceptron and other artificial neurons. They are the fundamental building blocks of deep …",
+      "publication_info": {
+        "summary": "M Ekman - 2021 - books.google.com"
+      },
+      "authors": [],
+      "year": 2021,
+      "citation_count": 134,
+      "venue": "M Ekman",
+      "search_keyword": "deep learning transformers",
+      "scraped_at": "2025-08-30T17:27:33.639661",
+      "abstract": "… Let us begin by pointing out that we find Deep Learning important. You will learn about the perceptron and other artificial neurons. They are the fundamental building blocks of deep …"
+    },
+    {
+      "title": "A survey of deep learning: From activations to transformers",
+      "link": "https://arxiv.org/abs/2302.00722",
+      "snippet": "… multiple aspects of deep learning such as learning, layers and … such as transformers and supervised-learning. However, taking a … the recent progress of deep learning from a holistic …",
+      "publication_info": {
+        "summary": "J Schneider, M Vlachos - arXiv preprint arXiv:2302.00722, 2023 - arxiv.org",
+        "authors": [
+          {
+            "name": "J Schneider",
+            "link": "https://scholar.google.com/citations?user=hgXFYMUAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=hgXFYMUAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "hgXFYMUAAAAJ"
+          },
+          {
+            "name": "M Vlachos",
+            "link": "https://scholar.google.com/citations?user=7t99g38AAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=7t99g38AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "7t99g38AAAAJ"
+          }
+        ]
+      },
+      "authors": [
+        "J Schneider",
+        "M Vlachos"
+      ],
+      "year": 2023,
+      "citation_count": 13,
+      "venue": "J Schneider, M Vlachos",
+      "search_keyword": "deep learning transformers",
+      "scraped_at": "2025-08-30T17:27:33.639665",
+      "abstract": "… multiple aspects of deep learning such as learning, layers and … such as transformers and supervised-learning. However, taking a … the recent progress of deep learning from a holistic …"
+    },
+    {
+      "title": "Transformers for machine learning: a deep dive",
+      "link": "https://www.taylorfrancis.com/books/mono/10.1201/9781003170082/transformers-machine-learning-uday-kamath-wael-emara-kenneth-graham",
+      "snippet": "… transformer architecture to tackle longer sequences with limited memory, to build transformer … This work is a critical milestone in deep learning history, proving the utility of convolution op…",
+      "publication_info": {
+        "summary": "U Kamath, K Graham, W Emara - 2022 - taylorfrancis.com",
+        "authors": [
+          {
+            "name": "U Kamath",
+            "link": "https://scholar.google.com/citations?user=u6kw0IcAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=u6kw0IcAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "u6kw0IcAAAAJ"
+          },
+          {
+            "name": "W Emara",
+            "link": "https://scholar.google.com/citations?user=12aSwEQAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=12aSwEQAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "12aSwEQAAAAJ"
+          }
+        ]
+      },
+      "authors": [
+        "U Kamath",
+        "W Emara"
+      ],
+      "year": 2022,
+      "citation_count": 59,
+      "venue": "U Kamath, K Graham, W Emara",
+      "search_keyword": "deep learning transformers",
+      "scraped_at": "2025-08-30T17:27:33.639668",
+      "abstract": "… transformer architecture to tackle longer sequences with limited memory, to build transformer … This work is a critical milestone in deep learning history, proving the utility of convolution op…"
+    },
+    {
+      "title": "Material transformers: deep learning language models for generative materials design",
+      "link": "https://iopscience.iop.org/article/10.1088/2632-2153/acadcd/meta",
+      "snippet": "… Here we propose to use the deep learning language models (LMs) for the … learning models such as BERT [6] and generative pre-trained transformer-3 (GPT-3) [7] are able to learn …",
+      "publication_info": {
+        "summary": "N Fu, L Wei, Y Song, Q Li, R Xin… - Machine Learning …, 2023 - iopscience.iop.org",
+        "authors": [
+          {
+            "name": "N Fu",
+            "link": "https://scholar.google.com/citations?user=P40L6Q4AAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=P40L6Q4AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "P40L6Q4AAAAJ"
+          },
+          {
+            "name": "L Wei",
+            "link": "https://scholar.google.com/citations?user=RKh9YAIAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=RKh9YAIAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "RKh9YAIAAAAJ"
+          },
+          {
+            "name": "Y Song",
+            "link": "https://scholar.google.com/citations?user=ENE-qG4AAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=ENE-qG4AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "ENE-qG4AAAAJ"
+          },
+          {
+            "name": "Q Li",
+            "link": "https://scholar.google.com/citations?user=foAV9yYAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=foAV9yYAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "foAV9yYAAAAJ"
+          },
+          {
+            "name": "R Xin",
+            "link": "https://scholar.google.com/citations?user=_p6vIAoAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=_p6vIAoAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "_p6vIAoAAAAJ"
+          }
+        ]
+      },
+      "authors": [
+        "N Fu",
+        "L Wei",
+        "Y Song",
+        "Q Li",
+        "R Xin"
+      ],
+      "year": 2023,
+      "citation_count": 47,
+      "venue": "N Fu, L Wei, Y Song, Q Li, R Xin…",
+      "search_keyword": "deep learning transformers",
+      "scraped_at": "2025-08-30T17:27:33.639672",
+      "abstract": "… Here we propose to use the deep learning language models (LMs) for the … learning models such as BERT [6] and generative pre-trained transformer-3 (GPT-3) [7] are able to learn …"
+    },
+    {
+      "title": "Deep learning-based network intrusion detection using multiple image transformers",
+      "link": "https://www.mdpi.com/2076-3417/13/5/2754",
+      "snippet": "… using vision-based deep learning models by further expanding … deep-learning-based intrusion detection by converting the dataset into 2D images through various image transformers …",
+      "publication_info": {
+        "summary": "T Kim, W Pak - Applied Sciences, 2023 - mdpi.com"
+      },
+      "authors": [],
+      "year": 2023,
+      "citation_count": 39,
+      "venue": "T Kim, W Pak",
+      "search_keyword": "deep learning transformers",
+      "scraped_at": "2025-08-30T17:27:33.639675",
+      "abstract": "… using vision-based deep learning models by further expanding … deep-learning-based intrusion detection by converting the dataset into 2D images through various image transformers …"
+    },
+    {
+      "title": "Designing a composite deep learning based differential protection scheme of power transformers",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1568494619307562",
+      "snippet": "… This paper proposes a novel differential protection scheme based on deep neural networks (… fault in power transformers, as the most challenging issue in power transformers protection. …",
+      "publication_info": {
+        "summary": "S Afrasiabi, M Afrasiabi, B Parang… - Applied Soft Computing, 2020 - Elsevier",
+        "authors": [
+          {
+            "name": "S Afrasiabi",
+            "link": "https://scholar.google.com/citations?user=pwriTQMAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=pwriTQMAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "pwriTQMAAAAJ"
+          },
+          {
+            "name": "B Parang",
+            "link": "https://scholar.google.com/citations?user=9-9VjAIAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=9-9VjAIAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "9-9VjAIAAAAJ"
+          }
+        ]
+      },
+      "authors": [
+        "S Afrasiabi",
+        "B Parang"
+      ],
+      "year": 2020,
+      "citation_count": 76,
+      "venue": "S Afrasiabi, M Afrasiabi, B Parang…",
+      "search_keyword": "deep learning transformers",
+      "scraped_at": "2025-08-30T17:27:33.639678",
+      "abstract": "… This paper proposes a novel differential protection scheme based on deep neural networks (… fault in power transformers, as the most challenging issue in power transformers protection. …"
+    },
+    {
+      "title": "Multimodal deep learning for integrating chest radiographs and clinical parameters: a case for transformers",
+      "link": "https://pubs.rsna.org/doi/abs/10.1148/radiol.230806",
+      "snippet": "… However, transformers have one notable shortcoming; that is… study was to develop a transformer model specifically tailored to … diagnostic performance of the transformer model would …",
+      "publication_info": {
+        "summary": "F Khader, G Müller-Franzes, T Wang, T Han… - Radiology, 2023 - pubs.rsna.org",
+        "authors": [
+          {
+            "name": "F Khader",
+            "link": "https://scholar.google.com/citations?user=to8g5LsAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=to8g5LsAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "to8g5LsAAAAJ"
+          },
+          {
+            "name": "G Müller-Franzes",
+            "link": "https://scholar.google.com/citations?user=22MFHWsAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=22MFHWsAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "22MFHWsAAAAJ"
+          },
+          {
+            "name": "T Han",
+            "link": "https://scholar.google.com/citations?user=Hxm_OpAAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=Hxm_OpAAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "Hxm_OpAAAAAJ"
+          }
+        ]
+      },
+      "authors": [
+        "F Khader",
+        "G Müller-Franzes",
+        "T Han"
+      ],
+      "year": 2023,
+      "citation_count": 62,
+      "venue": "F Khader, G Müller-Franzes, T Wang, T Han…",
+      "search_keyword": "deep learning transformers",
+      "scraped_at": "2025-08-30T17:27:33.639681",
+      "abstract": "… However, transformers have one notable shortcoming; that is… study was to develop a transformer model specifically tailored to … diagnostic performance of the transformer model would …"
+    },
+    {
+      "title": "Transformer-based deep learning models for the sentiment analysis of social media data",
+      "link": "https://www.sciencedirect.com/science/article/pii/S2590005622000224",
+      "snippet": "Sentiment analysis (SA) is a widely used contextual mining technique for extracting useful and subjective information from text-based data. It applies on Natural Language Processing (…",
+      "publication_info": {
+        "summary": "ST Kokab, S Asghar, S Naz - Array, 2022 - Elsevier",
+        "authors": [
+          {
+            "name": "S Asghar",
+            "link": "https://scholar.google.com/citations?user=R1PS7bQAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=R1PS7bQAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "R1PS7bQAAAAJ"
+          }
+        ]
+      },
+      "authors": [
+        "S Asghar"
+      ],
+      "year": 2022,
+      "citation_count": 197,
+      "venue": "ST Kokab, S Asghar, S Naz",
+      "search_keyword": "deep learning transformers",
+      "scraped_at": "2025-08-30T17:27:33.639684",
+      "abstract": "Sentiment analysis (SA) is a widely used contextual mining technique for extracting useful and subjective information from text-based data. It applies on Natural Language Processing (…"
+    },
+    {
+      "title": "Effective IoT-based deep learning platform for online fault diagnosis of power transformers against cyberattacks and data uncertainties",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0263224121015475",
+      "snippet": "… main challenge against the diagnosis of the transformer status. This paper introduces a new … with deep learning against cyberattacks for online monitoring of the power transformer status…",
+      "publication_info": {
+        "summary": "M Elsisi, MQ Tran, K Mahmoud, DEA Mansour… - Measurement, 2022 - Elsevier",
+        "authors": [
+          {
+            "name": "M Elsisi",
+            "link": "https://scholar.google.com/citations?user=-HQp4U4AAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=-HQp4U4AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "-HQp4U4AAAAJ"
+          },
+          {
+            "name": "MQ Tran",
+            "link": "https://scholar.google.com/citations?user=Pq54YBQAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=Pq54YBQAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "Pq54YBQAAAAJ"
+          },
+          {
+            "name": "K Mahmoud",
+            "link": "https://scholar.google.com/citations?user=sK7BoQgAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=sK7BoQgAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "sK7BoQgAAAAJ"
+          },
+          {
+            "name": "DEA Mansour",
+            "link": "https://scholar.google.com/citations?user=ipPnP1IAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=ipPnP1IAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "ipPnP1IAAAAJ"
+          }
+        ]
+      },
+      "authors": [
+        "M Elsisi",
+        "MQ Tran",
+        "K Mahmoud",
+        "DEA Mansour"
+      ],
+      "year": 2022,
+      "citation_count": 171,
+      "venue": "M Elsisi, MQ Tran, K Mahmoud, DEA Mansour…",
+      "search_keyword": "deep learning transformers",
+      "scraped_at": "2025-08-30T17:27:33.639687",
+      "abstract": "… main challenge against the diagnosis of the transformer status. This paper introduces a new … with deep learning against cyberattacks for online monitoring of the power transformer status…"
+    },
+    {
+      "title": "Transformers in machine learning: literature review",
+      "link": "https://jppipa.unram.ac.id/index.php/jppipa/article/view/5040",
+      "snippet": "… Transformers are widely used in various studies with various objects. The transformer is one of the deep learning architectures that can be modified. Transformers are also mechanisms …",
+      "publication_info": {
+        "summary": "T Thoyyibah, W Haryono, AU Zailani… - Jurnal Penelitian …, 2023 - jppipa.unram.ac.id",
+        "authors": [
+          {
+            "name": "T Thoyyibah",
+            "link": "https://scholar.google.com/citations?user=Y470cC0AAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=Y470cC0AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "Y470cC0AAAAJ"
+          },
+          {
+            "name": "W Haryono",
+            "link": "https://scholar.google.com/citations?user=BqKg2GAAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=BqKg2GAAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "BqKg2GAAAAAJ"
+          },
+          {
+            "name": "AU Zailani",
+            "link": "https://scholar.google.com/citations?user=Sdp705AAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=Sdp705AAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "Sdp705AAAAAJ"
+          }
+        ]
+      },
+      "authors": [
+        "T Thoyyibah",
+        "W Haryono",
+        "AU Zailani"
+      ],
+      "year": 2023,
+      "citation_count": 10,
+      "venue": "T Thoyyibah, W Haryono, AU Zailani…",
+      "search_keyword": "deep learning transformers",
+      "scraped_at": "2025-08-30T17:27:33.639691",
+      "abstract": "… Transformers are widely used in various studies with various objects. The transformer is one of the deep learning architectures that can be modified. Transformers are also mechanisms …"
+    },
+    {
+      "title": "VGG-TSwinformer: Transformer-based deep learning model for early Alzheimer's disease prediction",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0169260722006721",
+      "snippet": "… However, due to the inherent disadvantage of deep learning in dealing with longitudinal … of deep learning for longitudinal analysis of MCI, and the majority of existing deep learning …",
+      "publication_info": {
+        "summary": "Z Hu, Z Wang, Y Jin, W Hou - Computer Methods and Programs in …, 2023 - Elsevier"
+      },
+      "authors": [],
+      "year": 2023,
+      "citation_count": 141,
+      "venue": "Z Hu, Z Wang, Y Jin, W Hou",
+      "search_keyword": "deep learning transformers",
+      "scraped_at": "2025-08-30T17:27:33.639694",
+      "abstract": "… However, due to the inherent disadvantage of deep learning in dealing with longitudinal … of deep learning for longitudinal analysis of MCI, and the majority of existing deep learning …"
+    },
+    {
+      "title": "Comparative analysis of deep learning architectures and vision transformers for musical key estimation",
+      "link": "https://www.mdpi.com/2078-2489/14/10/527",
+      "snippet": "… deep encoder strategy by leveraging vision transformers. The primary objective of this study is to explore the feasibility of estimating musical keys using vision transformers … transformer …",
+      "publication_info": {
+        "summary": "M Garg, P Gajjar, P Shah, M Shukla, B Acharya… - Information, 2023 - mdpi.com",
+        "authors": [
+          {
+            "name": "M Garg",
+            "link": "https://scholar.google.com/citations?user=P2tSFDAAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=P2tSFDAAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "P2tSFDAAAAAJ"
+          },
+          {
+            "name": "P Gajjar",
+            "link": "https://scholar.google.com/citations?user=_kQ-b-kAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=_kQ-b-kAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "_kQ-b-kAAAAJ"
+          },
+          {
+            "name": "P Shah",
+            "link": "https://scholar.google.com/citations?user=1bi7cAMAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=1bi7cAMAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "1bi7cAMAAAAJ"
+          },
+          {
+            "name": "M Shukla",
+            "link": "https://scholar.google.com/citations?user=NLS_SBYAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=NLS_SBYAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "NLS_SBYAAAAJ"
+          },
+          {
+            "name": "B Acharya",
+            "link": "https://scholar.google.com/citations?user=qk1hGRwAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=qk1hGRwAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "qk1hGRwAAAAJ"
+          }
+        ]
+      },
+      "authors": [
+        "M Garg",
+        "P Gajjar",
+        "P Shah",
+        "M Shukla",
+        "B Acharya"
+      ],
+      "year": 2023,
+      "citation_count": 11,
+      "venue": "M Garg, P Gajjar, P Shah, M Shukla, B Acharya…",
+      "search_keyword": "deep learning transformers",
+      "scraped_at": "2025-08-30T17:27:33.639698",
+      "abstract": "… deep encoder strategy by leveraging vision transformers. The primary objective of this study is to explore the feasibility of estimating musical keys using vision transformers … transformer …"
+    },
+    {
+      "title": "Survey on automated short answer grading with deep learning: from word embeddings to transformers",
+      "link": "https://arxiv.org/abs/2204.03503",
+      "snippet": "… , deep learning-based methods, are organized according to the mechanisms used to learn … works based on classical machine learning and deep learning approaches, respectively. …",
+      "publication_info": {
+        "summary": "S Haller, A Aldea, C Seifert, N Strisciuglio - arXiv preprint arXiv …, 2022 - arxiv.org",
+        "authors": [
+          {
+            "name": "A Aldea",
+            "link": "https://scholar.google.com/citations?user=Bi3W2SQAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=Bi3W2SQAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "Bi3W2SQAAAAJ"
+          },
+          {
+            "name": "C Seifert",
+            "link": "https://scholar.google.com/citations?user=aK6ZccUAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=aK6ZccUAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "aK6ZccUAAAAJ"
+          },
+          {
+            "name": "N Strisciuglio",
+            "link": "https://scholar.google.com/citations?user=7cgpfGYAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=7cgpfGYAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "7cgpfGYAAAAJ"
+          }
+        ]
+      },
+      "authors": [
+        "A Aldea",
+        "C Seifert",
+        "N Strisciuglio"
+      ],
+      "year": 2022,
+      "citation_count": 68,
+      "venue": "S Haller, A Aldea, C Seifert, N Strisciuglio",
+      "search_keyword": "deep learning transformers",
+      "scraped_at": "2025-08-30T17:27:33.639703",
+      "abstract": "… , deep learning-based methods, are organized according to the mechanisms used to learn … works based on classical machine learning and deep learning approaches, respectively. …"
+    },
+    {
+      "title": "From rule-based models to deep learning transformers architectures for natural language processing and sign language translation systems: survey, taxonomy and …",
+      "link": "https://link.springer.com/article/10.1007/s10462-024-10895-z",
+      "snippet": "… Furthermore, we present a Transformer-based translation … cover machine translation evolution or transformer architectures. It … We investigate both machine-learning and deep-learning …",
+      "publication_info": {
+        "summary": "N Shahin, L Ismail - Artificial Intelligence Review, 2024 - Springer",
+        "authors": [
+          {
+            "name": "N Shahin",
+            "link": "https://scholar.google.com/citations?user=S-57xjYAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=S-57xjYAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "S-57xjYAAAAJ"
+          },
+          {
+            "name": "L Ismail",
+            "link": "https://scholar.google.com/citations?user=TY-2fcUAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=TY-2fcUAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "TY-2fcUAAAAJ"
+          }
+        ]
+      },
+      "authors": [
+        "N Shahin",
+        "L Ismail"
+      ],
+      "year": 2024,
+      "citation_count": 26,
+      "venue": "N Shahin, L Ismail",
+      "search_keyword": "deep learning transformers",
+      "scraped_at": "2025-08-30T17:27:33.639706",
+      "abstract": "… Furthermore, we present a Transformer-based translation … cover machine translation evolution or transformer architectures. It … We investigate both machine-learning and deep-learning …"
+    },
+    {
+      "title": "Prediction model of measurement errors in current transformers based on deep learning",
+      "link": "https://pubs.aip.org/aip/rsi/article/95/4/044704/3283084",
+      "snippet": "… In order to solve the above-mentioned problems, this article uses data-driven and deep learning methods to make predictions for the measurement accuracy of current transformers. A …",
+      "publication_info": {
+        "summary": "Z Li, J Cui, H Lu, F Zhou, Y Diao, Z Li - Review of Scientific Instruments, 2024 - pubs.aip.org"
+      },
+      "authors": [],
+      "year": 2024,
+      "citation_count": 16,
+      "venue": "Z Li, J Cui, H Lu, F Zhou, Y Diao, Z Li",
+      "search_keyword": "deep learning transformers",
+      "scraped_at": "2025-08-30T17:27:33.639709",
+      "abstract": "… In order to solve the above-mentioned problems, this article uses data-driven and deep learning methods to make predictions for the measurement accuracy of current transformers. A …"
+    },
+    {
+      "title": "The NLP cookbook: modern recipes for transformer based deep learning architectures",
+      "link": "https://ieeexplore.ieee.org/abstract/document/9422763/",
+      "snippet": "… This feat is primarily attributed due to the seminal Transformer architecture, leading to designs such as BERT, GPT (I, II, III), etc. Although these large-size models have achieved …",
+      "publication_info": {
+        "summary": "S Singh, A Mahmood - Ieee Access, 2021 - ieeexplore.ieee.org",
+        "authors": [
+          {
+            "name": "S Singh",
+            "link": "https://scholar.google.com/citations?user=s5ngry4AAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=s5ngry4AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "s5ngry4AAAAJ"
+          },
+          {
+            "name": "A Mahmood",
+            "link": "https://scholar.google.com/citations?user=1JND73sAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=1JND73sAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "1JND73sAAAAJ"
+          }
+        ]
+      },
+      "authors": [
+        "S Singh",
+        "A Mahmood"
+      ],
+      "year": 2021,
+      "citation_count": 198,
+      "venue": "S Singh, A Mahmood",
+      "search_keyword": "deep learning transformers",
+      "scraped_at": "2025-08-30T17:27:35.382607",
+      "abstract": "… This feat is primarily attributed due to the seminal Transformer architecture, leading to designs such as BERT, GPT (I, II, III), etc. Although these large-size models have achieved …"
+    },
+    {
+      "title": "From modern CNNs to vision transformers: Assessing the performance, robustness, and classification strategies of deep learning models in histopathology",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1361841523000701",
+      "snippet": "… models, including recent vision transformers, and convolutional neural networks such as: ConvNeXt, ResNet (BiT), Inception, ViT and Swin transformer, with and without supervised or …",
+      "publication_info": {
+        "summary": "M Springenberg, A Frommholz, M Wenzel… - Medical image …, 2023 - Elsevier",
+        "authors": [
+          {
+            "name": "M Springenberg",
+            "link": "https://scholar.google.com/citations?user=Xp-QvpsAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=Xp-QvpsAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "Xp-QvpsAAAAJ"
+          },
+          {
+            "name": "A Frommholz",
+            "link": "https://scholar.google.com/citations?user=LJMFQNEAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=LJMFQNEAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "LJMFQNEAAAAJ"
+          },
+          {
+            "name": "M Wenzel",
+            "link": "https://scholar.google.com/citations?user=iEss3jQAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=iEss3jQAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "iEss3jQAAAAJ"
+          }
+        ]
+      },
+      "authors": [
+        "M Springenberg",
+        "A Frommholz",
+        "M Wenzel"
+      ],
+      "year": 2023,
+      "citation_count": 78,
+      "venue": "M Springenberg, A Frommholz, M Wenzel…",
+      "search_keyword": "deep learning transformers",
+      "scraped_at": "2025-08-30T17:27:35.382627",
+      "abstract": "… models, including recent vision transformers, and convolutional neural networks such as: ConvNeXt, ResNet (BiT), Inception, ViT and Swin transformer, with and without supervised or …"
+    },
+    {
+      "title": "Transformers in vision: A survey",
+      "link": "https://dl.acm.org/doi/abs/10.1145/3505244",
+      "snippet": "… vision transformers. Where ever possible, we draw parallels between the Transformers used in … can “altogether” replace standard convolutions in deep neural networks on large-scale …",
+      "publication_info": {
+        "summary": "S Khan, M Naseer, M Hayat, SW Zamir… - ACM computing …, 2022 - dl.acm.org",
+        "authors": [
+          {
+            "name": "S Khan",
+            "link": "https://scholar.google.com/citations?user=M59O9lkAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=M59O9lkAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "M59O9lkAAAAJ"
+          },
+          {
+            "name": "M Naseer",
+            "link": "https://scholar.google.com/citations?user=tM9xKA8AAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=tM9xKA8AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "tM9xKA8AAAAJ"
+          },
+          {
+            "name": "M Hayat",
+            "link": "https://scholar.google.com/citations?user=Mx8MbWYAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=Mx8MbWYAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "Mx8MbWYAAAAJ"
+          },
+          {
+            "name": "SW Zamir",
+            "link": "https://scholar.google.com/citations?user=POoai-QAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=POoai-QAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "POoai-QAAAAJ"
+          }
+        ]
+      },
+      "authors": [
+        "S Khan",
+        "M Naseer",
+        "M Hayat",
+        "SW Zamir"
+      ],
+      "year": 2022,
+      "citation_count": 3764,
+      "venue": "S Khan, M Naseer, M Hayat, SW Zamir…",
+      "search_keyword": "deep learning transformers",
+      "scraped_at": "2025-08-30T17:27:35.382636",
+      "abstract": "… vision transformers. Where ever possible, we draw parallels between the Transformers used in … can “altogether” replace standard convolutions in deep neural networks on large-scale …"
+    },
+    {
+      "title": "Deep learning and vision transformers-based framework for breast cancer and subtype identification",
+      "link": "https://link.springer.com/article/10.1007/s00521-025-10984-2",
+      "snippet": "… This study utilizes a deep learning framework for advanced, … of these two, and a Vision Transformer-based model—were fine-… The Vision Transformer-based model outperformed other …",
+      "publication_info": {
+        "summary": "I Jahan, MEH Chowdhury, S Vranic… - Neural Computing and …, 2025 - Springer",
+        "authors": [
+          {
+            "name": "I Jahan",
+            "link": "https://scholar.google.com/citations?user=h35-HpsAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=h35-HpsAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "h35-HpsAAAAJ"
+          },
+          {
+            "name": "MEH Chowdhury",
+            "link": "https://scholar.google.com/citations?user=BrBVR_UAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=BrBVR_UAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "BrBVR_UAAAAJ"
+          },
+          {
+            "name": "S Vranic",
+            "link": "https://scholar.google.com/citations?user=9FowakAAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=9FowakAAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "9FowakAAAAAJ"
+          }
+        ]
+      },
+      "authors": [
+        "I Jahan",
+        "MEH Chowdhury",
+        "S Vranic"
+      ],
+      "year": 2025,
+      "citation_count": 9,
+      "venue": "I Jahan, MEH Chowdhury, S Vranic…",
+      "search_keyword": "deep learning transformers",
+      "scraped_at": "2025-08-30T17:27:35.382643",
+      "abstract": "… This study utilizes a deep learning framework for advanced, … of these two, and a Vision Transformer-based model—were fine-… The Vision Transformer-based model outperformed other …"
+    },
+    {
+      "title": "Deep learning approaches based on transformer architectures for image captioning tasks",
+      "link": "https://ieeexplore.ieee.org/abstract/document/9739703/",
+      "snippet": "… to the use of transformer-based architectures for computer vision. The authors of this work proposed an architecture that uses the transformer encoder reusing configurations from the …",
+      "publication_info": {
+        "summary": "R Castro, I Pineda, W Lim… - IEEE Access, 2022 - ieeexplore.ieee.org",
+        "authors": [
+          {
+            "name": "R Castro",
+            "link": "https://scholar.google.com/citations?user=SlVd_N4AAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=SlVd_N4AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "SlVd_N4AAAAJ"
+          },
+          {
+            "name": "I Pineda",
+            "link": "https://scholar.google.com/citations?user=_-gI7vkAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=_-gI7vkAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "_-gI7vkAAAAJ"
+          }
+        ]
+      },
+      "authors": [
+        "R Castro",
+        "I Pineda"
+      ],
+      "year": 2022,
+      "citation_count": 54,
+      "venue": "R Castro, I Pineda, W Lim…",
+      "search_keyword": "deep learning transformers",
+      "scraped_at": "2025-08-30T17:27:35.382650",
+      "abstract": "… to the use of transformer-based architectures for computer vision. The authors of this work proposed an architecture that uses the transformer encoder reusing configurations from the …"
+    },
+    {
+      "title": "A deep learning framework using convolution neural network for classification of impulse fault patterns in transformers with increased accuracy",
+      "link": "https://ieeexplore.ieee.org/abstract/document/8315313/",
+      "snippet": "… localization of faults of transformer winding under impulse test. … method based on deep learning using convolution neural … for impulse fault classification of transformer as the main focus …",
+      "publication_info": {
+        "summary": "D Dey, B Chatterjee, S Dalai, S Munshi… - … on Dielectrics and …, 2018 - ieeexplore.ieee.org",
+        "authors": [
+          {
+            "name": "D Dey",
+            "link": "https://scholar.google.com/citations?user=tlzV8CAAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=tlzV8CAAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "tlzV8CAAAAAJ"
+          },
+          {
+            "name": "S Dalai",
+            "link": "https://scholar.google.com/citations?user=R8O8BAgAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=R8O8BAgAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "R8O8BAgAAAAJ"
+          },
+          {
+            "name": "S Munshi",
+            "link": "https://scholar.google.com/citations?user=4QDUROsAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=4QDUROsAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "4QDUROsAAAAJ"
+          }
+        ]
+      },
+      "authors": [
+        "D Dey",
+        "S Dalai",
+        "S Munshi"
+      ],
+      "year": 2018,
+      "citation_count": 77,
+      "venue": "D Dey, B Chatterjee, S Dalai, S Munshi…",
+      "search_keyword": "deep learning transformers",
+      "scraped_at": "2025-08-30T17:27:35.382657",
+      "abstract": "… localization of faults of transformer winding under impulse test. … method based on deep learning using convolution neural … for impulse fault classification of transformer as the main focus …"
+    },
+    {
+      "title": "AVFakeNet: A unified end-to-end Dense Swin Transformer deep learning model for audio–visual​ deepfakes detection",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1568494623001424",
+      "snippet": "… More specifically, our unified AVFakeNet model is a novel Dense Swin Transformer Net (… extraction block employs a customized swin transformer module. We have performed extensive …",
+      "publication_info": {
+        "summary": "H Ilyas, A Javed, KM Malik - Applied Soft Computing, 2023 - Elsevier",
+        "authors": [
+          {
+            "name": "H Ilyas",
+            "link": "https://scholar.google.com/citations?user=2rWYO7cAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=2rWYO7cAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "2rWYO7cAAAAJ"
+          },
+          {
+            "name": "A Javed",
+            "link": "https://scholar.google.com/citations?user=057gJdYAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=057gJdYAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "057gJdYAAAAJ"
+          },
+          {
+            "name": "KM Malik",
+            "link": "https://scholar.google.com/citations?user=MZGQT2wAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=MZGQT2wAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "MZGQT2wAAAAJ"
+          }
+        ]
+      },
+      "authors": [
+        "H Ilyas",
+        "A Javed",
+        "KM Malik"
+      ],
+      "year": 2023,
+      "citation_count": 152,
+      "venue": "H Ilyas, A Javed, KM Malik",
+      "search_keyword": "deep learning transformers",
+      "scraped_at": "2025-08-30T17:27:35.382669",
+      "abstract": "… More specifically, our unified AVFakeNet model is a novel Dense Swin Transformer Net (… extraction block employs a customized swin transformer module. We have performed extensive …"
+    },
+    {
+      "title": "Deep learning in EEG-based BCIs: A comprehensive review of transformer models, advantages, challenges, and applications",
+      "link": "https://ieeexplore.ieee.org/abstract/document/10305163/",
+      "snippet": "… of deep learning techniques, specifically transformers, has shown promising development in research and application domains. Transformers… into the application of transformers in BCIs, …",
+      "publication_info": {
+        "summary": "B Abibullaev, A Keutayeva, A Zollanvari - IEEe Access, 2023 - ieeexplore.ieee.org",
+        "authors": [
+          {
+            "name": "B Abibullaev",
+            "link": "https://scholar.google.com/citations?user=KvECkz0AAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=KvECkz0AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "KvECkz0AAAAJ"
+          },
+          {
+            "name": "A Keutayeva",
+            "link": "https://scholar.google.com/citations?user=3-MEnzYAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=3-MEnzYAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "3-MEnzYAAAAJ"
+          },
+          {
+            "name": "A Zollanvari",
+            "link": "https://scholar.google.com/citations?user=vUbAcUMAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=vUbAcUMAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "vUbAcUMAAAAJ"
+          }
+        ]
+      },
+      "authors": [
+        "B Abibullaev",
+        "A Keutayeva",
+        "A Zollanvari"
+      ],
+      "year": 2023,
+      "citation_count": 82,
+      "venue": "B Abibullaev, A Keutayeva, A Zollanvari",
+      "search_keyword": "deep learning transformers",
+      "scraped_at": "2025-08-30T17:27:35.382675",
+      "abstract": "… of deep learning techniques, specifically transformers, has shown promising development in research and application domains. Transformers… into the application of transformers in BCIs, …"
+    },
+    {
+      "title": "Sentiment analysis: Predicting product reviews for E-commerce recommendations using deep learning and transformers",
+      "link": "https://www.mdpi.com/2227-7390/12/15/2403",
+      "snippet": "… Our study provides an extensive benchmark comparison of different deep learning models, … , such as bi-directional encoder representations from transformers (BERT) and its derivatives, …",
+      "publication_info": {
+        "summary": "O Bellar, A Baina, M Ballafkih - Mathematics, 2024 - mdpi.com"
+      },
+      "authors": [],
+      "year": 2024,
+      "citation_count": 15,
+      "venue": "O Bellar, A Baina, M Ballafkih",
+      "search_keyword": "deep learning transformers",
+      "scraped_at": "2025-08-30T17:27:35.382681",
+      "abstract": "… Our study provides an extensive benchmark comparison of different deep learning models, … , such as bi-directional encoder representations from transformers (BERT) and its derivatives, …"
+    },
+    {
+      "title": "Toward foundational deep learning models for medical imaging in the new era of transformer networks",
+      "link": "https://pubs.rsna.org/doi/abs/10.1148/ryai.210284",
+      "snippet": "… A method to overcome this issue may be federated learning, … to transformer networks, it has been shown that transformers … becomes more important with large transformer models. …",
+      "publication_info": {
+        "summary": "MJ Willemink, HR Roth, V Sandfort - Radiology: Artificial Intelligence, 2022 - pubs.rsna.org",
+        "authors": [
+          {
+            "name": "MJ Willemink",
+            "link": "https://scholar.google.com/citations?user=82gFvkMAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=82gFvkMAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "82gFvkMAAAAJ"
+          },
+          {
+            "name": "HR Roth",
+            "link": "https://scholar.google.com/citations?user=pzNwAsEAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=pzNwAsEAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "pzNwAsEAAAAJ"
+          },
+          {
+            "name": "V Sandfort",
+            "link": "https://scholar.google.com/citations?user=KkWO7UIAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=KkWO7UIAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "KkWO7UIAAAAJ"
+          }
+        ]
+      },
+      "authors": [
+        "MJ Willemink",
+        "HR Roth",
+        "V Sandfort"
+      ],
+      "year": 2022,
+      "citation_count": 65,
+      "venue": "MJ Willemink, HR Roth, V Sandfort",
+      "search_keyword": "deep learning transformers",
+      "scraped_at": "2025-08-30T17:27:35.382687",
+      "abstract": "… A method to overcome this issue may be federated learning, … to transformer networks, it has been shown that transformers … becomes more important with large transformer models. …"
+    },
+    {
+      "title": "Deepfake detection with deep learning: Convolutional neural networks versus transformers",
+      "link": "https://ieeexplore.ieee.org/abstract/document/10225004/",
+      "snippet": "… In this work, we study the evolutions of deep learning architectures, particularly CNNs and Transformers. We identified eight promising deep learning architectures, designed and …",
+      "publication_info": {
+        "summary": "VLL Thing - 2023 IEEE International Conference on Cyber …, 2023 - ieeexplore.ieee.org",
+        "authors": [
+          {
+            "name": "VLL Thing",
+            "link": "https://scholar.google.com/citations?user=qkk-eNcAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=qkk-eNcAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "qkk-eNcAAAAJ"
+          }
+        ]
+      },
+      "authors": [
+        "VLL Thing"
+      ],
+      "year": 2023,
+      "citation_count": 26,
+      "venue": "VLL Thing",
+      "search_keyword": "deep learning transformers",
+      "scraped_at": "2025-08-30T17:27:35.382693",
+      "abstract": "… In this work, we study the evolutions of deep learning architectures, particularly CNNs and Transformers. We identified eight promising deep learning architectures, designed and …"
+    },
+    {
+      "title": "What Comes After Transformers? A Selective Survey Connecting Ideas in Deep LearningGPT",
+      "link": "https://link.springer.com/chapter/10.1007/978-3-031-87330-0_4",
+      "snippet": "… This paper provided an overview of the deep learning design space with a focus on transformers and their potential successors. Important works from various significant areas that have …",
+      "publication_info": {
+        "summary": "J Schneider - International Conference on Agents and Artificial …, 2025 - Springer",
+        "authors": [
+          {
+            "name": "J Schneider",
+            "link": "https://scholar.google.com/citations?user=hgXFYMUAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=hgXFYMUAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "hgXFYMUAAAAJ"
+          }
+        ]
+      },
+      "authors": [
+        "J Schneider"
+      ],
+      "year": 2025,
+      "citation_count": 6,
+      "venue": "J Schneider",
+      "search_keyword": "deep learning transformers",
+      "scraped_at": "2025-08-30T17:27:35.382699",
+      "abstract": "… This paper provided an overview of the deep learning design space with a focus on transformers and their potential successors. Important works from various significant areas that have …"
+    },
+    {
+      "title": "A deep learning based approach for automated plant disease classification using vision transformer",
+      "link": "https://www.nature.com/articles/s41598-022-15163-0",
+      "snippet": "… A lightweight deep learning approach is proposed based on the Vision Transformer (ViT) for real-time automated plant disease classification. In addition to the ViT, the classical …",
+      "publication_info": {
+        "summary": "Y Borhani, J Khoramdel, E Najafi - Scientific Reports, 2022 - nature.com",
+        "authors": [
+          {
+            "name": "Y Borhani",
+            "link": "https://scholar.google.com/citations?user=gregrnMAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=gregrnMAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "gregrnMAAAAJ"
+          },
+          {
+            "name": "J Khoramdel",
+            "link": "https://scholar.google.com/citations?user=hUDjP2EAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=hUDjP2EAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "hUDjP2EAAAAJ"
+          },
+          {
+            "name": "E Najafi",
+            "link": "https://scholar.google.com/citations?user=z14ukLwAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=z14ukLwAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "z14ukLwAAAAJ"
+          }
+        ]
+      },
+      "authors": [
+        "Y Borhani",
+        "J Khoramdel",
+        "E Najafi"
+      ],
+      "year": 2022,
+      "citation_count": 235,
+      "venue": "Y Borhani, J Khoramdel, E Najafi",
+      "search_keyword": "deep learning transformers",
+      "scraped_at": "2025-08-30T17:27:35.382705",
+      "abstract": "… A lightweight deep learning approach is proposed based on the Vision Transformer (ViT) for real-time automated plant disease classification. In addition to the ViT, the classical …"
+    },
+    {
+      "title": "Is the aspect ratio of cells important in deep learning? A robust comparison of deep learning methods for multi-scale cytopathology cell image classification: From …",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0010482521008209",
+      "snippet": "… Deep learning methods require a fixed dimension of … , 22 deep learning models are used to classify the standard and scaled datasets. The results of the study indicate that deep learning …",
+      "publication_info": {
+        "summary": "W Liu, C Li, MM Rahaman, T Jiang, H Sun, X Wu… - Computers in biology …, 2022 - Elsevier",
+        "authors": [
+          {
+            "name": "C Li",
+            "link": "https://scholar.google.com/citations?user=pF4AS_EAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=pF4AS_EAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "pF4AS_EAAAAJ"
+          },
+          {
+            "name": "MM Rahaman",
+            "link": "https://scholar.google.com/citations?user=gH9Yb9UAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=gH9Yb9UAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "gH9Yb9UAAAAJ"
+          }
+        ]
+      },
+      "authors": [
+        "C Li",
+        "MM Rahaman"
+      ],
+      "year": 2022,
+      "citation_count": 77,
+      "venue": "W Liu, C Li, MM Rahaman, T Jiang, H Sun, X Wu…",
+      "search_keyword": "deep learning transformers",
+      "scraped_at": "2025-08-30T17:27:35.382712",
+      "abstract": "… Deep learning methods require a fixed dimension of … , 22 deep learning models are used to classify the standard and scaled datasets. The results of the study indicate that deep learning …"
+    },
+    {
+      "title": "Extended vision transformer (ExViT) for land use and land cover classification: A multimodal deep learning framework",
+      "link": "https://ieeexplore.ieee.org/abstract/document/10147258/",
+      "snippet": "… mechanism-driven deep models, like Vision Transformer (ViT) as … However, current Transformer-based approaches in the … To this end, we propose a novel multimodal deep learning …",
+      "publication_info": {
+        "summary": "J Yao, B Zhang, C Li, D Hong… - IEEE Transactions on …, 2023 - ieeexplore.ieee.org",
+        "authors": [
+          {
+            "name": "J Yao",
+            "link": "https://scholar.google.com/citations?user=1SHd5ygAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=1SHd5ygAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "1SHd5ygAAAAJ"
+          },
+          {
+            "name": "B Zhang",
+            "link": "https://scholar.google.com/citations?user=nHup8tQAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=nHup8tQAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "nHup8tQAAAAJ"
+          },
+          {
+            "name": "D Hong",
+            "link": "https://scholar.google.com/citations?user=n7gL0_IAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=n7gL0_IAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "n7gL0_IAAAAJ"
+          }
+        ]
+      },
+      "authors": [
+        "J Yao",
+        "B Zhang",
+        "D Hong"
+      ],
+      "year": 2023,
+      "citation_count": 310,
+      "venue": "J Yao, B Zhang, C Li, D Hong…",
+      "search_keyword": "deep learning transformers",
+      "scraped_at": "2025-08-30T17:27:35.382719",
+      "abstract": "… mechanism-driven deep models, like Vision Transformer (ViT) as … However, current Transformer-based approaches in the … To this end, we propose a novel multimodal deep learning …"
+    },
+    {
+      "title": "Deepnet: Scaling transformers to 1,000 layers",
+      "link": "https://ieeexplore.ieee.org/abstract/document/10496231/",
+      "snippet": "… deep Transformers. Our analysis begins with the observation: better initialization methods stabilize the training of Transformer. … His current research interests include deep learning and …",
+      "publication_info": {
+        "summary": "H Wang, S Ma, L Dong, S Huang… - IEEE Transactions on …, 2024 - ieeexplore.ieee.org",
+        "authors": [
+          {
+            "name": "H Wang",
+            "link": "https://scholar.google.com/citations?user=u0tc8ioAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=u0tc8ioAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "u0tc8ioAAAAJ"
+          },
+          {
+            "name": "S Ma",
+            "link": "https://scholar.google.com/citations?user=J44tjDMAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=J44tjDMAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "J44tjDMAAAAJ"
+          },
+          {
+            "name": "L Dong",
+            "link": "https://scholar.google.com/citations?user=wEfQgPgAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=wEfQgPgAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "wEfQgPgAAAAJ"
+          },
+          {
+            "name": "S Huang",
+            "link": "https://scholar.google.com/citations?user=w_QWEo8AAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=w_QWEo8AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "w_QWEo8AAAAJ"
+          }
+        ]
+      },
+      "authors": [
+        "H Wang",
+        "S Ma",
+        "L Dong",
+        "S Huang"
+      ],
+      "year": 2024,
+      "citation_count": 222,
+      "venue": "H Wang, S Ma, L Dong, S Huang…",
+      "search_keyword": "deep learning transformers",
+      "scraped_at": "2025-08-30T17:27:35.382725",
+      "abstract": "… deep Transformers. Our analysis begins with the observation: better initialization methods stabilize the training of Transformer. … His current research interests include deep learning and …"
+    },
+    {
+      "title": "TrDosePred: A deep learning dose prediction algorithm based on transformers for head and neck cancer radiotherapy",
+      "link": "https://aapm.onlinelibrary.wiley.com/doi/abs/10.1002/acm2.13942",
+      "snippet": "… size in the swin transformer, which makes it more suitable for the medical image analysis. … 3D swin transformer blocks are elaborated in Figure 1d. Each 3D swin transformer block …",
+      "publication_info": {
+        "summary": "C Hu, H Wang, W Zhang, Y Xie… - Journal of Applied …, 2023 - Wiley Online Library",
+        "authors": [
+          {
+            "name": "Y Xie",
+            "link": "https://scholar.google.com/citations?user=KfrVZewAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=KfrVZewAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "KfrVZewAAAAJ"
+          }
+        ]
+      },
+      "authors": [
+        "Y Xie"
+      ],
+      "year": 2023,
+      "citation_count": 26,
+      "venue": "C Hu, H Wang, W Zhang, Y Xie…",
+      "search_keyword": "deep learning transformers",
+      "scraped_at": "2025-08-30T17:27:35.382733",
+      "abstract": "… size in the swin transformer, which makes it more suitable for the medical image analysis. … 3D swin transformer blocks are elaborated in Figure 1d. Each 3D swin transformer block …"
+    },
+    {
+      "title": "A survey of visual transformers",
+      "link": "https://ieeexplore.ieee.org/abstract/document/10088164/",
+      "snippet": "… 1, Transformers have gradually emerged as the predominant deep learning models for … The most recent dominant models are the self-supervised Transformers, which are pretrained …",
+      "publication_info": {
+        "summary": "Y Liu, Y Zhang, Y Wang, F Hou, J Yuan… - … and learning …, 2023 - ieeexplore.ieee.org",
+        "authors": [
+          {
+            "name": "Y Liu",
+            "link": "https://scholar.google.com/citations?user=ock4qjYAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=ock4qjYAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "ock4qjYAAAAJ"
+          },
+          {
+            "name": "Y Zhang",
+            "link": "https://scholar.google.com/citations?user=vxfJSJIAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=vxfJSJIAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "vxfJSJIAAAAJ"
+          },
+          {
+            "name": "Y Wang",
+            "link": "https://scholar.google.com/citations?user=ykYrXtAAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=ykYrXtAAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "ykYrXtAAAAAJ"
+          },
+          {
+            "name": "F Hou",
+            "link": "https://scholar.google.com/citations?user=gp-OCDoAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=gp-OCDoAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "gp-OCDoAAAAJ"
+          },
+          {
+            "name": "J Yuan",
+            "link": "https://scholar.google.com/citations?user=S1JGPCMAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=S1JGPCMAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "S1JGPCMAAAAJ"
+          }
+        ]
+      },
+      "authors": [
+        "Y Liu",
+        "Y Zhang",
+        "Y Wang",
+        "F Hou",
+        "J Yuan"
+      ],
+      "year": 2023,
+      "citation_count": 582,
+      "venue": "Y Liu, Y Zhang, Y Wang, F Hou, J Yuan…",
+      "search_keyword": "deep learning transformers",
+      "scraped_at": "2025-08-30T17:27:35.382740",
+      "abstract": "… 1, Transformers have gradually emerged as the predominant deep learning models for … The most recent dominant models are the self-supervised Transformers, which are pretrained …"
+    },
+    {
+      "title": "Transformers from an optimization perspective",
+      "link": "https://proceedings.neurips.cc/paper_files/paper/2022/hash/efd1e27afcb94addd03b9e14c8d9f78f-Abstract-Conference.html",
+      "snippet": "… Deep learning models such as the Transformer are often constructed by heuristics and … Transformer model, such that descent steps along this energy correspond with the Transformer …",
+      "publication_info": {
+        "summary": "Y Yang, DP Wipf - Advances in Neural Information …, 2022 - proceedings.neurips.cc",
+        "authors": [
+          {
+            "name": "Y Yang",
+            "link": "https://scholar.google.com/citations?user=EmL0jD0AAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=EmL0jD0AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "EmL0jD0AAAAJ"
+          },
+          {
+            "name": "DP Wipf",
+            "link": "https://scholar.google.com/citations?user=YJx1WSgAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=YJx1WSgAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "YJx1WSgAAAAJ"
+          }
+        ]
+      },
+      "authors": [
+        "Y Yang",
+        "DP Wipf"
+      ],
+      "year": 2022,
+      "citation_count": 38,
+      "venue": "Y Yang, DP Wipf",
+      "search_keyword": "deep learning transformers",
+      "scraped_at": "2025-08-30T17:27:35.382746",
+      "abstract": "… Deep learning models such as the Transformer are often constructed by heuristics and … Transformer model, such that descent steps along this energy correspond with the Transformer …"
+    },
+    {
+      "title": "Bidirectional encoder representations from transformers and deep learning model for analyzing smartphone-related tweets",
+      "link": "https://peerj.com/articles/cs-1432/",
+      "snippet": "… learning and deep learning approaches have been applied for sentiment analysis, but classification accuracy is low. This study utilizes a transformer… machine and deep learning models …",
+      "publication_info": {
+        "summary": "R Sudheesh, M Mujahid, F Rustam, B Mallampati… - PeerJ Computer …, 2023 - peerj.com",
+        "authors": [
+          {
+            "name": "M Mujahid",
+            "link": "https://scholar.google.com/citations?user=Tfi-xB0AAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=Tfi-xB0AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "Tfi-xB0AAAAJ"
+          },
+          {
+            "name": "F Rustam",
+            "link": "https://scholar.google.com/citations?user=B_dGtHQAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=B_dGtHQAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "B_dGtHQAAAAJ"
+          }
+        ]
+      },
+      "authors": [
+        "M Mujahid",
+        "F Rustam"
+      ],
+      "year": 2023,
+      "citation_count": 20,
+      "venue": "R Sudheesh, M Mujahid, F Rustam, B Mallampati…",
+      "search_keyword": "deep learning transformers",
+      "scraped_at": "2025-08-30T17:27:35.382753",
+      "abstract": "… learning and deep learning approaches have been applied for sentiment analysis, but classification accuracy is low. This study utilizes a transformer… machine and deep learning models …"
+    }
+  ]
+}

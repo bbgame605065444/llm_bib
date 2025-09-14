@@ -1,0 +1,641 @@
+{
+  "metadata": {
+    "search_keyword": "attention mechanism",
+    "total_results": 20,
+    "scraped_at": "2025-08-30T16:45:46.694284",
+    "scraper_version": "1.0"
+  },
+  "results": [
+    {
+      "title": "A review on the attention mechanism of deep learning",
+      "link": "https://www.sciencedirect.com/science/article/pii/S092523122100477X",
+      "snippet": "… -art attention models proposed in recent years. Toward a better general understanding of attention mechanisms, we define a unified model that is suitable for most attention structures. …",
+      "publication_info": {
+        "summary": "Z Niu, G Zhong, H Yu - Neurocomputing, 2021 - Elsevier",
+        "authors": [
+          {
+            "name": "G Zhong",
+            "link": "https://scholar.google.com/citations?user=HqKD-fwAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=HqKD-fwAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "HqKD-fwAAAAJ"
+          },
+          {
+            "name": "H Yu",
+            "link": "https://scholar.google.com/citations?user=K9bBXkYAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=K9bBXkYAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "K9bBXkYAAAAJ"
+          }
+        ]
+      },
+      "authors": [
+        "G Zhong",
+        "H Yu"
+      ],
+      "year": 2021,
+      "citation_count": 3215,
+      "venue": "Z Niu, G Zhong, H Yu",
+      "search_keyword": "attention mechanism",
+      "scraped_at": "2025-08-30T16:45:46.694121",
+      "abstract": "… -art attention models proposed in recent years. Toward a better general understanding of attention mechanisms, we define a unified model that is suitable for most attention structures. …"
+    },
+    {
+      "title": "Attention mechanisms in computer vision: A survey",
+      "link": "https://ieeexplore.ieee.org/abstract/document/10897531/",
+      "snippet": "… In this survey, we provide a comprehensive review of various attention mechanisms in … We also suggest future directions for attention mechanism research. Keywords attention; …",
+      "publication_info": {
+        "summary": "MH Guo, TX Xu, JJ Liu, ZN Liu, PT Jiang… - Computational visual …, 2022 - ieeexplore.ieee.org",
+        "authors": [
+          {
+            "name": "MH Guo",
+            "link": "https://scholar.google.com/citations?user=DnXVAgcAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=DnXVAgcAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "DnXVAgcAAAAJ"
+          },
+          {
+            "name": "TX Xu",
+            "link": "https://scholar.google.com/citations?user=zHp0rMIAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=zHp0rMIAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "zHp0rMIAAAAJ"
+          },
+          {
+            "name": "JJ Liu",
+            "link": "https://scholar.google.com/citations?user=lpFrrs8AAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=lpFrrs8AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "lpFrrs8AAAAJ"
+          },
+          {
+            "name": "ZN Liu",
+            "link": "https://scholar.google.com/citations?user=wjPqa9EAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=wjPqa9EAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "wjPqa9EAAAAJ"
+          },
+          {
+            "name": "PT Jiang",
+            "link": "https://scholar.google.com/citations?user=85QJ_i4AAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=85QJ_i4AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "85QJ_i4AAAAJ"
+          }
+        ]
+      },
+      "authors": [
+        "MH Guo",
+        "TX Xu",
+        "JJ Liu",
+        "ZN Liu",
+        "PT Jiang"
+      ],
+      "year": 2022,
+      "citation_count": 2398,
+      "venue": "MH Guo, TX Xu, JJ Liu, ZN Liu, PT Jiang…",
+      "search_keyword": "attention mechanism",
+      "scraped_at": "2025-08-30T16:45:46.694138",
+      "abstract": "… In this survey, we provide a comprehensive review of various attention mechanisms in … We also suggest future directions for attention mechanism research. Keywords attention; …"
+    },
+    {
+      "title": "Attention mechanism in neural networks: where it comes and where it goes",
+      "link": "https://link.springer.com/article/10.1007/s00521-022-07366-3",
+      "snippet": "… attention mechanisms over the years, and recent trends. We begin with the first attempts to integrate the visual attention … neural networks armed with attention mechanisms. One of them …",
+      "publication_info": {
+        "summary": "D Soydaner - Neural Computing and Applications, 2022 - Springer",
+        "authors": [
+          {
+            "name": "D Soydaner",
+            "link": "https://scholar.google.com/citations?user=FPXh-WkAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=FPXh-WkAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "FPXh-WkAAAAJ"
+          }
+        ]
+      },
+      "authors": [
+        "D Soydaner"
+      ],
+      "year": 2022,
+      "citation_count": 313,
+      "venue": "D Soydaner",
+      "search_keyword": "attention mechanism",
+      "scraped_at": "2025-08-30T16:45:46.694143",
+      "abstract": "… attention mechanisms over the years, and recent trends. We begin with the first attempts to integrate the visual attention … neural networks armed with attention mechanisms. One of them …"
+    },
+    {
+      "title": "Research progress in attention mechanism in deep learning",
+      "link": "http://cje.ustb.edu.cn/en/article/doi/10.13374/j.issn2095-9389.2021.01.30.005",
+      "snippet": "… attention mechanism is then provided to a certain extent, and roles of attention mechanism … Finally, this survey identified the future direction and challenges of the attention mechanism. …",
+      "publication_info": {
+        "summary": "J LIU, J LIU, X LUO - Chinese Journal of Engineering, 2021 - cje.ustb.edu.cn",
+        "authors": [
+          {
+            "name": "J LIU",
+            "link": "https://scholar.google.com/citations?user=Lw5L1GYAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=Lw5L1GYAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "Lw5L1GYAAAAJ"
+          },
+          {
+            "name": "X LUO",
+            "link": "https://scholar.google.com/citations?user=Y6iZkJkAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=Y6iZkJkAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "Y6iZkJkAAAAJ"
+          }
+        ]
+      },
+      "authors": [
+        "J LIU",
+        "X LUO"
+      ],
+      "year": 2021,
+      "citation_count": 111,
+      "venue": "J LIU, J LIU, X LUO",
+      "search_keyword": "attention mechanism",
+      "scraped_at": "2025-08-30T16:45:46.694147",
+      "abstract": "… attention mechanism is then provided to a certain extent, and roles of attention mechanism … Finally, this survey identified the future direction and challenges of the attention mechanism. …"
+    },
+    {
+      "title": "Attention branch network: Learning of attention mechanism for visual explanation",
+      "link": "http://openaccess.thecvf.com/content_CVPR_2019/html/Fukui_Attention_Branch_Network_Learning_of_Attention_Mechanism_for_Visual_Explanation_CVPR_2019_paper.html",
+      "snippet": "… In this work, we propose Attention Branch Network (… attention mechanism. ABN can be applicable to several image recognition tasks by introducing a branch for the attention mechanism …",
+      "publication_info": {
+        "summary": "H Fukui, T Hirakawa, T Yamashita… - Proceedings of the …, 2019 - openaccess.thecvf.com",
+        "authors": [
+          {
+            "name": "H Fukui",
+            "link": "https://scholar.google.com/citations?user=SBb5fEcAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=SBb5fEcAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "SBb5fEcAAAAJ"
+          },
+          {
+            "name": "T Yamashita",
+            "link": "https://scholar.google.com/citations?user=hkguTPgAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=hkguTPgAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "hkguTPgAAAAJ"
+          }
+        ]
+      },
+      "authors": [
+        "H Fukui",
+        "T Yamashita"
+      ],
+      "year": 2019,
+      "citation_count": 648,
+      "venue": "H Fukui, T Hirakawa, T Yamashita…",
+      "search_keyword": "attention mechanism",
+      "scraped_at": "2025-08-30T16:45:46.694151",
+      "abstract": "… In this work, we propose Attention Branch Network (… attention mechanism. ABN can be applicable to several image recognition tasks by introducing a branch for the attention mechanism …"
+    },
+    {
+      "title": "A general survey on attention mechanisms in deep learning",
+      "link": "https://ieeexplore.ieee.org/abstract/document/9609539/",
+      "snippet": "… In this section, attention mechanisms are explained and categorized according to the presented taxonomy. Section 4 provides an overview of performance measures and methods for …",
+      "publication_info": {
+        "summary": "G Brauwers, F Frasincar - IEEE transactions on knowledge and …, 2021 - ieeexplore.ieee.org",
+        "authors": [
+          {
+            "name": "F Frasincar",
+            "link": "https://scholar.google.com/citations?user=fzsYCecAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=fzsYCecAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "fzsYCecAAAAJ"
+          }
+        ]
+      },
+      "authors": [
+        "F Frasincar"
+      ],
+      "year": 2021,
+      "citation_count": 579,
+      "venue": "G Brauwers, F Frasincar",
+      "search_keyword": "attention mechanism",
+      "scraped_at": "2025-08-30T16:45:46.694155",
+      "abstract": "… In this section, attention mechanisms are explained and categorized according to the presented taxonomy. Section 4 provides an overview of performance measures and methods for …"
+    },
+    {
+      "title": "An overview of the attention mechanisms in computer vision",
+      "link": "https://iopscience.iop.org/article/10.1088/1742-6596/1693/1/012173/meta",
+      "snippet": "… breakthroughs of attention mechanisms have been made in … attention mechanisms can improve the performance of models, and they are also consistent with the perceptual mechanism …",
+      "publication_info": {
+        "summary": "X Yang - Journal of physics: Conference series, 2020 - iopscience.iop.org"
+      },
+      "authors": [],
+      "year": 2020,
+      "citation_count": 161,
+      "venue": "X Yang",
+      "search_keyword": "attention mechanism",
+      "scraped_at": "2025-08-30T16:45:46.694158",
+      "abstract": "… breakthroughs of attention mechanisms have been made in … attention mechanisms can improve the performance of models, and they are also consistent with the perceptual mechanism …"
+    },
+    {
+      "title": "Deep learning attention mechanism in medical image analysis: Basics and beyonds",
+      "link": "https://www.sciltp.com/journals/ijndi/article/view/173",
+      "snippet": "… Section 3, Section 4, and Section 5 respectively introduce the application of channel attention mechanism, hybrid attention mechanism, and transformer in medical image tasks. In …",
+      "publication_info": {
+        "summary": "X Li, M Li, P Yan, G Li, Y Jiang, H Luo… - International Journal of …, 2023 - sciltp.com",
+        "authors": [
+          {
+            "name": "X Li",
+            "link": "https://scholar.google.com/citations?user=HBxeAp8AAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=HBxeAp8AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "HBxeAp8AAAAJ"
+          },
+          {
+            "name": "Y Jiang",
+            "link": "https://scholar.google.com/citations?user=7xxeOfcAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=7xxeOfcAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "7xxeOfcAAAAJ"
+          },
+          {
+            "name": "H Luo",
+            "link": "https://scholar.google.com/citations?user=DNDtXD0AAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=DNDtXD0AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "DNDtXD0AAAAJ"
+          }
+        ]
+      },
+      "authors": [
+        "X Li",
+        "Y Jiang",
+        "H Luo"
+      ],
+      "year": 2023,
+      "citation_count": 229,
+      "venue": "X Li, M Li, P Yan, G Li, Y Jiang, H Luo…",
+      "search_keyword": "attention mechanism",
+      "scraped_at": "2025-08-30T16:45:46.694162",
+      "abstract": "… Section 3, Section 4, and Section 5 respectively introduce the application of channel attention mechanism, hybrid attention mechanism, and transformer in medical image tasks. In …"
+    },
+    {
+      "title": "Attention mechanisms for vision in a dynamic world",
+      "link": "https://www.computer.org/csdl/proceedings-article/icpr/1988/00028419/12OmNxveNK3",
+      "snippet": "… How can control mechanisms for dynamic vision … attention mechanisms. In each case I consider relatedmechanisms in human vision, and the implement ation ofthese mechanisms in …",
+      "publication_info": {
+        "summary": "PJ Burt - 9th international conference on pattern recognition, 1988 - computer.org",
+        "authors": [
+          {
+            "name": "PJ Burt",
+            "link": "https://scholar.google.com/citations?user=8Y3eqXIAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=8Y3eqXIAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "8Y3eqXIAAAAJ"
+          }
+        ]
+      },
+      "authors": [
+        "PJ Burt"
+      ],
+      "year": 1988,
+      "citation_count": 210,
+      "venue": "PJ Burt",
+      "search_keyword": "attention mechanism",
+      "scraped_at": "2025-08-30T16:45:46.694165",
+      "abstract": "… How can control mechanisms for dynamic vision … attention mechanisms. In each case I consider relatedmechanisms in human vision, and the implement ation ofthese mechanisms in …"
+    },
+    {
+      "title": "Attention mechanisms and their applications to complex systems",
+      "link": "https://www.mdpi.com/1099-4300/23/3/283",
+      "snippet": "… years, attention mechanisms have emerged as a promising solution to these problems. In this review, we describe the key aspects of attention mechanisms and some relevant attention …",
+      "publication_info": {
+        "summary": "A Hernández, JM Amigó - Entropy, 2021 - mdpi.com",
+        "authors": [
+          {
+            "name": "A Hernández",
+            "link": "https://scholar.google.com/citations?user=gX8raCUAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=gX8raCUAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "gX8raCUAAAAJ"
+          },
+          {
+            "name": "JM Amigó",
+            "link": "https://scholar.google.com/citations?user=TIJc8QkAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=TIJc8QkAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "TIJc8QkAAAAJ"
+          }
+        ]
+      },
+      "authors": [
+        "A Hernández",
+        "JM Amigó"
+      ],
+      "year": 2021,
+      "citation_count": 115,
+      "venue": "A Hernández, JM Amigó",
+      "search_keyword": "attention mechanism",
+      "scraped_at": "2025-08-30T16:45:46.694168",
+      "abstract": "… years, attention mechanisms have emerged as a promising solution to these problems. In this review, we describe the key aspects of attention mechanisms and some relevant attention …"
+    },
+    {
+      "title": "Object detection based on an adaptive attention mechanism",
+      "link": "https://www.nature.com/articles/s41598-020-67529-x",
+      "snippet": "… attention mechanism was proposed to build up attention units … attention units, namely, an adaptive channel-wise attention … domain attention unit and an adaptive spatial-wise attention …",
+      "publication_info": {
+        "summary": "W Li, K Liu, L Zhang, F Cheng - Scientific Reports, 2020 - nature.com",
+        "authors": [
+          {
+            "name": "W Li",
+            "link": "https://scholar.google.com/citations?user=E9LF2j8AAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=E9LF2j8AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "E9LF2j8AAAAJ"
+          }
+        ]
+      },
+      "authors": [
+        "W Li"
+      ],
+      "year": 2020,
+      "citation_count": 153,
+      "venue": "W Li, K Liu, L Zhang, F Cheng",
+      "search_keyword": "attention mechanism",
+      "scraped_at": "2025-08-30T16:45:46.694171",
+      "abstract": "… attention mechanism was proposed to build up attention units … attention units, namely, an adaptive channel-wise attention … domain attention unit and an adaptive spatial-wise attention …"
+    },
+    {
+      "title": "An empirical study of spatial attention mechanisms in deep networks",
+      "link": "http://openaccess.thecvf.com/content_ICCV_2019/html/Zhu_An_Empirical_Study_of_Spatial_Attention_Mechanisms_in_Deep_Networks_ICCV_2019_paper.html",
+      "snippet": "… Towards disentangling the effects of different attention factors and mechanisms, … attention, in which various elements of attention mechanisms are ablated within a generalized attention …",
+      "publication_info": {
+        "summary": "X Zhu, D Cheng, Z Zhang, S Lin… - Proceedings of the IEEE …, 2019 - openaccess.thecvf.com",
+        "authors": [
+          {
+            "name": "X Zhu",
+            "link": "https://scholar.google.com/citations?user=02RXI00AAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=02RXI00AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "02RXI00AAAAJ"
+          },
+          {
+            "name": "D Cheng",
+            "link": "https://scholar.google.com/citations?user=xzr7na8AAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=xzr7na8AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "xzr7na8AAAAJ"
+          },
+          {
+            "name": "S Lin",
+            "link": "https://scholar.google.com/citations?user=c3PYmxUAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=c3PYmxUAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "c3PYmxUAAAAJ"
+          }
+        ]
+      },
+      "authors": [
+        "X Zhu",
+        "D Cheng",
+        "S Lin"
+      ],
+      "year": 2019,
+      "citation_count": 723,
+      "venue": "X Zhu, D Cheng, Z Zhang, S Lin…",
+      "search_keyword": "attention mechanism",
+      "scraped_at": "2025-08-30T16:45:46.694174",
+      "abstract": "… Towards disentangling the effects of different attention factors and mechanisms, … attention, in which various elements of attention mechanisms are ablated within a generalized attention …"
+    },
+    {
+      "title": "Global attention mechanism: Retain information to enhance channel-spatial interactions",
+      "link": "https://arxiv.org/abs/2112.05561",
+      "snippet": "… To magnify cross-dimension interactions, we propose an attention mechanism that is … We adopt the sequential channel-spatial attention mechanism from CBAM and redesign the …",
+      "publication_info": {
+        "summary": "Y Liu, Z Shao, N Hoffmann - arXiv preprint arXiv:2112.05561, 2021 - arxiv.org",
+        "authors": [
+          {
+            "name": "Y Liu",
+            "link": "https://scholar.google.com/citations?user=y8qhTUoAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=y8qhTUoAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "y8qhTUoAAAAJ"
+          },
+          {
+            "name": "Z Shao",
+            "link": "https://scholar.google.com/citations?user=jEZ7nX8AAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=jEZ7nX8AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "jEZ7nX8AAAAJ"
+          },
+          {
+            "name": "N Hoffmann",
+            "link": "https://scholar.google.com/citations?user=8iDQeTwAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=8iDQeTwAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "8iDQeTwAAAAJ"
+          }
+        ]
+      },
+      "authors": [
+        "Y Liu",
+        "Z Shao",
+        "N Hoffmann"
+      ],
+      "year": 2021,
+      "citation_count": 961,
+      "venue": "Y Liu, Z Shao, N Hoffmann",
+      "search_keyword": "attention mechanism",
+      "scraped_at": "2025-08-30T16:45:46.694178",
+      "abstract": "… To magnify cross-dimension interactions, we propose an attention mechanism that is … We adopt the sequential channel-spatial attention mechanism from CBAM and redesign the …"
+    },
+    {
+      "title": "An introductory survey on attention mechanisms in NLP problems",
+      "link": "https://link.springer.com/chapter/10.1007/978-3-030-29513-4_31",
+      "snippet": "… translation for automatic token alignment, attention mechanism, a simple method that can … and conduct an introductory summary of the attention mechanism in different NLP problems, …",
+      "publication_info": {
+        "summary": "D Hu - Proceedings of SAI intelligent systems conference, 2019 - Springer"
+      },
+      "authors": [],
+      "year": 2019,
+      "citation_count": 398,
+      "venue": "D Hu",
+      "search_keyword": "attention mechanism",
+      "scraped_at": "2025-08-30T16:45:46.694180",
+      "abstract": "… translation for automatic token alignment, attention mechanism, a simple method that can … and conduct an introductory summary of the attention mechanism in different NLP problems, …"
+    },
+    {
+      "title": "Attention mechanism-based CNN for facial expression recognition",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0925231220309838",
+      "snippet": "… In this paper, we propose a novel end-to-end network with attention mechanism for automatic facial expression recognition. The new network architecture consists of four parts, ie, the …",
+      "publication_info": {
+        "summary": "J Li, K Jin, D Zhou, N Kubota, Z Ju - Neurocomputing, 2020 - Elsevier",
+        "authors": [
+          {
+            "name": "J Li",
+            "link": "https://scholar.google.com/citations?user=VmHLF3oAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=VmHLF3oAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "VmHLF3oAAAAJ"
+          },
+          {
+            "name": "N Kubota",
+            "link": "https://scholar.google.com/citations?user=91umd98AAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=91umd98AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "91umd98AAAAJ"
+          },
+          {
+            "name": "Z Ju",
+            "link": "https://scholar.google.com/citations?user=x-xQ1MoAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=x-xQ1MoAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "x-xQ1MoAAAAJ"
+          }
+        ]
+      },
+      "authors": [
+        "J Li",
+        "N Kubota",
+        "Z Ju"
+      ],
+      "year": 2020,
+      "citation_count": 375,
+      "venue": "J Li, K Jin, D Zhou, N Kubota, Z Ju",
+      "search_keyword": "attention mechanism",
+      "scraped_at": "2025-08-30T16:45:46.694183",
+      "abstract": "… In this paper, we propose a novel end-to-end network with attention mechanism for automatic facial expression recognition. The new network architecture consists of four parts, ie, the …"
+    },
+    {
+      "title": "External noise distinguishes attention mechanisms",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0042698997002733",
+      "snippet": "… of the model under each of the three attention mechanisms. We then apply the general method to the study of attention mechanisms in a location-cued orientation discrimination task. …",
+      "publication_info": {
+        "summary": "ZL Lu, BA Dosher - Vision research, 1998 - Elsevier",
+        "authors": [
+          {
+            "name": "ZL Lu",
+            "link": "https://scholar.google.com/citations?user=dBz3AIEAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=dBz3AIEAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "dBz3AIEAAAAJ"
+          }
+        ]
+      },
+      "authors": [
+        "ZL Lu"
+      ],
+      "year": 1998,
+      "citation_count": 739,
+      "venue": "ZL Lu, BA Dosher",
+      "search_keyword": "attention mechanism",
+      "scraped_at": "2025-08-30T16:45:46.694185",
+      "abstract": "… of the model under each of the three attention mechanisms. We then apply the general method to the study of attention mechanisms in a location-cued orientation discrimination task. …"
+    },
+    {
+      "title": "Attention flows: Analyzing and comparing attention mechanisms in language models",
+      "link": "https://ieeexplore.ieee.org/abstract/document/9224153/",
+      "snippet": "… Attention Flows supports the analysis of a single model, as well as … Attention Flows to study attention mechanisms in various sentence understanding tasks and highlight how attention …",
+      "publication_info": {
+        "summary": "JF DeRose, J Wang, M Berger - IEEE Transactions on …, 2020 - ieeexplore.ieee.org"
+      },
+      "authors": [],
+      "year": 2020,
+      "citation_count": 119,
+      "venue": "JF DeRose, J Wang, M Berger",
+      "search_keyword": "attention mechanism",
+      "scraped_at": "2025-08-30T16:45:46.694190",
+      "abstract": "… Attention Flows supports the analysis of a single model, as well as … Attention Flows to study attention mechanisms in various sentence understanding tasks and highlight how attention …"
+    },
+    {
+      "title": "Effect of attention mechanism in deep learning-based remote sensing image processing: A systematic literature review",
+      "link": "https://www.mdpi.com/2072-4292/13/15/2965",
+      "snippet": "… attention mechanisms and how … attention mechanism on deep learning-based RS image processing. We identified and analyzed the advances in the corresponding attention mechanism…",
+      "publication_info": {
+        "summary": "S Ghaffarian, J Valente, M Van Der Voort… - Remote Sensing, 2021 - mdpi.com",
+        "authors": [
+          {
+            "name": "S Ghaffarian",
+            "link": "https://scholar.google.com/citations?user=SXXPObAAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=SXXPObAAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "SXXPObAAAAAJ"
+          },
+          {
+            "name": "J Valente",
+            "link": "https://scholar.google.com/citations?user=C01mErgAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=C01mErgAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "C01mErgAAAAJ"
+          }
+        ]
+      },
+      "authors": [
+        "S Ghaffarian",
+        "J Valente"
+      ],
+      "year": 2021,
+      "citation_count": 189,
+      "venue": "S Ghaffarian, J Valente, M Van Der Voort…",
+      "search_keyword": "attention mechanism",
+      "scraped_at": "2025-08-30T16:45:46.694195",
+      "abstract": "… attention mechanisms and how … attention mechanism on deep learning-based RS image processing. We identified and analyzed the advances in the corresponding attention mechanism…"
+    },
+    {
+      "title": "Pay attention to the activations: A modular attention mechanism for fine-grained image recognition",
+      "link": "https://ieeexplore.ieee.org/abstract/document/8762109/",
+      "snippet": "… mented with our attention mechanism (WARN) consistently … In addition, we show that the proposed attention mechanism … proposed attention modules, confirming that the attention gates …",
+      "publication_info": {
+        "summary": "P Rodriguez, D Velazquez, G Cucurull… - IEEE Transactions …, 2019 - ieeexplore.ieee.org",
+        "authors": [
+          {
+            "name": "P Rodriguez",
+            "link": "https://scholar.google.com/citations?user=IwBx73wAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=IwBx73wAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "IwBx73wAAAAJ"
+          },
+          {
+            "name": "D Velazquez",
+            "link": "https://scholar.google.com/citations?user=A005Xm8AAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=A005Xm8AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "A005Xm8AAAAJ"
+          },
+          {
+            "name": "G Cucurull",
+            "link": "https://scholar.google.com/citations?user=dEtv5r4AAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=dEtv5r4AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "dEtv5r4AAAAJ"
+          }
+        ]
+      },
+      "authors": [
+        "P Rodriguez",
+        "D Velazquez",
+        "G Cucurull"
+      ],
+      "year": 2019,
+      "citation_count": 106,
+      "venue": "P Rodriguez, D Velazquez, G Cucurull…",
+      "search_keyword": "attention mechanism",
+      "scraped_at": "2025-08-30T16:45:46.694198",
+      "abstract": "… mented with our attention mechanism (WARN) consistently … In addition, we show that the proposed attention mechanism … proposed attention modules, confirming that the attention gates …"
+    },
+    {
+      "title": "Attention mechanism in intelligent fault diagnosis of machinery: A review of technique and application",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0263224122008077",
+      "snippet": "… The application of Attention Mechanism in … Attention Mechanism and select the appropriate technique, this paper reviews the relevant research and applications of Attention Mechanism …",
+      "publication_info": {
+        "summary": "H Lv, J Chen, T Pan, T Zhang, Y Feng, S Liu - Measurement, 2022 - Elsevier",
+        "authors": [
+          {
+            "name": "J Chen",
+            "link": "https://scholar.google.com/citations?user=wEGyDvkAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=wEGyDvkAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "wEGyDvkAAAAJ"
+          },
+          {
+            "name": "T Pan",
+            "link": "https://scholar.google.com/citations?user=3ASWSrMAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=3ASWSrMAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "3ASWSrMAAAAJ"
+          },
+          {
+            "name": "T Zhang",
+            "link": "https://scholar.google.com/citations?user=iuebnG8AAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=iuebnG8AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "iuebnG8AAAAJ"
+          },
+          {
+            "name": "Y Feng",
+            "link": "https://scholar.google.com/citations?user=hsaX22sAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=hsaX22sAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "hsaX22sAAAAJ"
+          },
+          {
+            "name": "S Liu",
+            "link": "https://scholar.google.com/citations?user=qKOUAFYAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=qKOUAFYAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "qKOUAFYAAAAJ"
+          }
+        ]
+      },
+      "authors": [
+        "J Chen",
+        "T Pan",
+        "T Zhang",
+        "Y Feng",
+        "S Liu"
+      ],
+      "year": 2022,
+      "citation_count": 196,
+      "venue": "H Lv, J Chen, T Pan, T Zhang, Y Feng, S Liu",
+      "search_keyword": "attention mechanism",
+      "scraped_at": "2025-08-30T16:45:46.694201",
+      "abstract": "… The application of Attention Mechanism in … Attention Mechanism and select the appropriate technique, this paper reviews the relevant research and applications of Attention Mechanism …"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+requests
+beautifulsoup4
+lxml
+gradio
+opencv-python
+moviepy
+openai-whisper
+torch
+pillow
+transformers
+pydub
+ollama
+open_clip_torch
+numpy

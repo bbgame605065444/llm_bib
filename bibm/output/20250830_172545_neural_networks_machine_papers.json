@@ -1,0 +1,1916 @@
+{
+  "metadata": {
+    "search_keyword": "neural networks machine learning",
+    "total_results": 60,
+    "scraped_at": "2025-08-30T17:25:45.515270",
+    "scraper_version": "1.0"
+  },
+  "results": [
+    {
+      "title": "Introduction to machine learning, neural networks, and deep learning",
+      "link": "https://iovs.arvojournals.org/article.aspx?articleid=2762344",
+      "snippet": "… This review summarizes machine learning and deep learning methodology for the … artificial neural network (ANN) is a machine learning algorithm inspired by biological neural networks. …",
+      "publication_info": {
+        "summary": "RY Choi, AS Coyner… - … vision science & …, 2020 - iovs.arvojournals.org",
+        "authors": [
+          {
+            "name": "AS Coyner",
+            "link": "https://scholar.google.com/citations?user=BLyHJhIAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=BLyHJhIAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "BLyHJhIAAAAJ"
+          }
+        ]
+      },
+      "authors": [
+        "AS Coyner"
+      ],
+      "year": 2020,
+      "citation_count": 1419,
+      "venue": "RY Choi, AS Coyner…",
+      "search_keyword": "neural networks machine learning",
+      "scraped_at": "2025-08-30T17:25:41.431862",
+      "abstract": "… This review summarizes machine learning and deep learning methodology for the … artificial neural network (ANN) is a machine learning algorithm inspired by biological neural networks. …"
+    },
+    {
+      "title": "Artificial neural networks-based machine learning for wireless networks: A tutorial",
+      "link": "https://ieeexplore.ieee.org/abstract/document/8755300/",
+      "snippet": "… wireless networks can leverage intelligent, data-driven functions enabled by the integration of machine learning (… tutorial that overviews how artificial neural networks (ANNs)-based ML …",
+      "publication_info": {
+        "summary": "M Chen, U Challita, W Saad, C Yin… - … Surveys & Tutorials, 2019 - ieeexplore.ieee.org",
+        "authors": [
+          {
+            "name": "M Chen",
+            "link": "https://scholar.google.com/citations?user=Pe3kIocAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=Pe3kIocAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "Pe3kIocAAAAJ"
+          },
+          {
+            "name": "U Challita",
+            "link": "https://scholar.google.com/citations?user=MaO8grEAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=MaO8grEAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "MaO8grEAAAAJ"
+          },
+          {
+            "name": "W Saad",
+            "link": "https://scholar.google.com/citations?user=kYDNA0UAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=kYDNA0UAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "kYDNA0UAAAAJ"
+          },
+          {
+            "name": "C Yin",
+            "link": "https://scholar.google.com/citations?user=dy_63i0AAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=dy_63i0AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "dy_63i0AAAAJ"
+          }
+        ]
+      },
+      "authors": [
+        "M Chen",
+        "U Challita",
+        "W Saad",
+        "C Yin"
+      ],
+      "year": 2019,
+      "citation_count": 1229,
+      "venue": "M Chen, U Challita, W Saad, C Yin…",
+      "search_keyword": "neural networks machine learning",
+      "scraped_at": "2025-08-30T17:25:41.431878",
+      "abstract": "… wireless networks can leverage intelligent, data-driven functions enabled by the integration of machine learning (… tutorial that overviews how artificial neural networks (ANNs)-based ML …"
+    },
+    {
+      "title": "Deep machine learning and neural networks: An overview",
+      "link": "http://download.garuda.kemdikbud.go.id/article.php?article=1494389&val=151&title=Deep%20Machine%20Learning%20and%20Neural%20Networks%20An%20Overview",
+      "snippet": "… Neural network is used to implement the machine learning or to … to all machine learning paradigm and application area of deep machine learning and different types of neural networks …",
+      "publication_info": {
+        "summary": "C Mishra, DL Gupta - IAES …, 2017 - download.garuda.kemdikbud.go.id",
+        "authors": [
+          {
+            "name": "C Mishra",
+            "link": "https://scholar.google.com/citations?user=WmRPHhIAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=WmRPHhIAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "WmRPHhIAAAAJ"
+          },
+          {
+            "name": "DL Gupta",
+            "link": "https://scholar.google.com/citations?user=quBdE0MAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=quBdE0MAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "quBdE0MAAAAJ"
+          }
+        ]
+      },
+      "authors": [
+        "C Mishra",
+        "DL Gupta"
+      ],
+      "year": 2017,
+      "citation_count": 134,
+      "venue": "C Mishra, DL Gupta",
+      "search_keyword": "neural networks machine learning",
+      "scraped_at": "2025-08-30T17:25:41.431883",
+      "abstract": "… Neural network is used to implement the machine learning or to … to all machine learning paradigm and application area of deep machine learning and different types of neural networks …"
+    },
+    {
+      "title": "New approach for the diagnosis of extractions with neural network machine learning",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0889540615011683",
+      "snippet": "… This study suggests that artificial intelligence expert systems with neural network machine learning could be useful in orthodontics. Improved performance was achieved by components …",
+      "publication_info": {
+        "summary": "SK Jung, TW Kim - American Journal of Orthodontics and Dentofacial …, 2016 - Elsevier",
+        "authors": [
+          {
+            "name": "SK Jung",
+            "link": "https://scholar.google.com/citations?user=iremunwAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=iremunwAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "iremunwAAAAJ"
+          },
+          {
+            "name": "TW Kim",
+            "link": "https://scholar.google.com/citations?user=YKxWFT0AAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=YKxWFT0AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "YKxWFT0AAAAJ"
+          }
+        ]
+      },
+      "authors": [
+        "SK Jung",
+        "TW Kim"
+      ],
+      "year": 2016,
+      "citation_count": 305,
+      "venue": "SK Jung, TW Kim",
+      "search_keyword": "neural networks machine learning",
+      "scraped_at": "2025-08-30T17:25:41.431888",
+      "abstract": "… This study suggests that artificial intelligence expert systems with neural network machine learning could be useful in orthodontics. Improved performance was achieved by components …"
+    },
+    {
+      "title": "Computer systems that learn: classification and prediction methods from statistics, neural nets, machine learning, and expert systems",
+      "link": "https://dl.acm.org/doi/abs/10.5555/102700",
+      "snippet": "… We introduce a supervised learning algorithm that gives neural network classification algorithms the capability of learning incrementally from new data without forgetting what has been …",
+      "publication_info": {
+        "summary": "SM Weiss, CA Kulikowski - 1991 - dl.acm.org",
+        "authors": [
+          {
+            "name": "CA Kulikowski",
+            "link": "https://scholar.google.com/citations?user=VwPMy18AAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=VwPMy18AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "VwPMy18AAAAJ"
+          }
+        ]
+      },
+      "authors": [
+        "CA Kulikowski"
+      ],
+      "year": 1991,
+      "citation_count": 3274,
+      "venue": "SM Weiss, CA Kulikowski",
+      "search_keyword": "neural networks machine learning",
+      "scraped_at": "2025-08-30T17:25:41.431892",
+      "abstract": "… We introduce a supervised learning algorithm that gives neural network classification algorithms the capability of learning incrementally from new data without forgetting what has been …"
+    },
+    {
+      "title": "Machine learning with neural networks: an introduction for scientists and engineers",
+      "link": "https://books.google.com/books?hl=en&lr=&id=DQlIEAAAQBAJ&oi=fnd&pg=PP1&dq=neural+networks+machine+learning&ots=5QxiKwML5w&sig=1xUfISD8aVlIWg2kAjVIIz5Z3Jo",
+      "snippet": "… the important topic of machine learning with neural networks. In … of modern machine learning with artificial neural networks, for … on the state-of-the-art in machine learning research. …",
+      "publication_info": {
+        "summary": "B Mehlig - 2021 - books.google.com",
+        "authors": [
+          {
+            "name": "B Mehlig",
+            "link": "https://scholar.google.com/citations?user=k5NgF9EAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=k5NgF9EAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "k5NgF9EAAAAJ"
+          }
+        ]
+      },
+      "authors": [
+        "B Mehlig"
+      ],
+      "year": 2021,
+      "citation_count": 258,
+      "venue": "B Mehlig",
+      "search_keyword": "neural networks machine learning",
+      "scraped_at": "2025-08-30T17:25:41.431895",
+      "abstract": "… the important topic of machine learning with neural networks. In … of modern machine learning with artificial neural networks, for … on the state-of-the-art in machine learning research. …"
+    },
+    {
+      "title": "Machine learning, artificial neural networks and social research",
+      "link": "https://link.springer.com/article/10.1007/s11135-020-01037-y",
+      "snippet": "… Machine learning (ML), and particularly algorithms based on artificial neural networks (ANNs), constitute a field of research lying at the intersection of different disciplines such as …",
+      "publication_info": {
+        "summary": "G Di Franco, M Santurro - Quality & quantity, 2021 - Springer",
+        "authors": [
+          {
+            "name": "G Di Franco",
+            "link": "https://scholar.google.com/citations?user=sunFmYMAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=sunFmYMAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "sunFmYMAAAAJ"
+          }
+        ]
+      },
+      "authors": [
+        "G Di Franco"
+      ],
+      "year": 2021,
+      "citation_count": 189,
+      "venue": "G Di Franco, M Santurro",
+      "search_keyword": "neural networks machine learning",
+      "scraped_at": "2025-08-30T17:25:41.431899",
+      "abstract": "… Machine learning (ML), and particularly algorithms based on artificial neural networks (ANNs), constitute a field of research lying at the intersection of different disciplines such as …"
+    },
+    {
+      "title": "Machine learning for wireless networks with artificial intelligence: A tutorial on neural networks",
+      "link": "https://www.researchgate.net/profile/Samir-Touzani/post/Have_anyone_had_experience_in_Real_Time_Location_System_RTLS_for_Indoor_environment_such_as_supermarkets_and_applying_its_data_to_ML_and_AI/attachment/6169a07db3729f0f618c5f7b/AS%3A1079198231855104%401634312317507/download/Machine_Learning_for_Wireless_Networks_with_Artifi.pdf",
+      "snippet": "… , with an emphasis on both new analytical techniques from neural networks … machine learning using neural networks, we introduce a classification of the various types of neural networks…",
+      "publication_info": {
+        "summary": "M Chen, U Challita, W Saad, C Yin… - arXiv preprint arXiv …, 2017 - researchgate.net",
+        "authors": [
+          {
+            "name": "M Chen",
+            "link": "https://scholar.google.com/citations?user=Pe3kIocAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=Pe3kIocAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "Pe3kIocAAAAJ"
+          },
+          {
+            "name": "U Challita",
+            "link": "https://scholar.google.com/citations?user=MaO8grEAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=MaO8grEAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "MaO8grEAAAAJ"
+          },
+          {
+            "name": "W Saad",
+            "link": "https://scholar.google.com/citations?user=kYDNA0UAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=kYDNA0UAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "kYDNA0UAAAAJ"
+          },
+          {
+            "name": "C Yin",
+            "link": "https://scholar.google.com/citations?user=dy_63i0AAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=dy_63i0AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "dy_63i0AAAAJ"
+          }
+        ]
+      },
+      "authors": [
+        "M Chen",
+        "U Challita",
+        "W Saad",
+        "C Yin"
+      ],
+      "year": 2017,
+      "citation_count": 332,
+      "venue": "M Chen, U Challita, W Saad, C Yin…",
+      "search_keyword": "neural networks machine learning",
+      "scraped_at": "2025-08-30T17:25:41.431903",
+      "abstract": "… , with an emphasis on both new analytical techniques from neural networks … machine learning using neural networks, we introduce a classification of the various types of neural networks…"
+    },
+    {
+      "title": "Neural networks and deep learning",
+      "link": "https://link.springer.com/content/pdf/10.1007/978-3-031-29642-0.pdf",
+      "snippet": "… of neural learning. Understanding the relationship between traditional machine learning and neural networks … The simulation of various machine learning models with neural networks is …",
+      "publication_info": {
+        "summary": "CC Aggarwal - 2018 - Springer",
+        "authors": [
+          {
+            "name": "CC Aggarwal",
+            "link": "https://scholar.google.com/citations?user=x_wsduUAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=x_wsduUAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "x_wsduUAAAAJ"
+          }
+        ]
+      },
+      "authors": [
+        "CC Aggarwal"
+      ],
+      "year": 2018,
+      "citation_count": 4473,
+      "venue": "CC Aggarwal",
+      "search_keyword": "neural networks machine learning",
+      "scraped_at": "2025-08-30T17:25:41.431905",
+      "abstract": "… of neural learning. Understanding the relationship between traditional machine learning and neural networks … The simulation of various machine learning models with neural networks is …"
+    },
+    {
+      "title": "Machine learning methods in the environmental sciences: Neural networks and kernels",
+      "link": "https://books.google.com/books?hl=en&lr=&id=z_LIZwiKA3EC&oi=fnd&pg=PR9&dq=neural+networks+machine+learning&ots=AmjixO2vJJ&sig=fxDRlkP65I6ikVlAE6_mxARDWao",
+      "snippet": "… In the 1990s, machine learning methods began to infiltrate … presents machine learning methods (mainly neural network … by exotic terms like neural networks, support vector machines, …",
+      "publication_info": {
+        "summary": "WW Hsieh - 2009 - books.google.com",
+        "authors": [
+          {
+            "name": "WW Hsieh",
+            "link": "https://scholar.google.com/citations?user=nr4rdYYAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=nr4rdYYAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "nr4rdYYAAAAJ"
+          }
+        ]
+      },
+      "authors": [
+        "WW Hsieh"
+      ],
+      "year": 2009,
+      "citation_count": 492,
+      "venue": "WW Hsieh",
+      "search_keyword": "neural networks machine learning",
+      "scraped_at": "2025-08-30T17:25:41.431908",
+      "abstract": "… In the 1990s, machine learning methods began to infiltrate … presents machine learning methods (mainly neural network … by exotic terms like neural networks, support vector machines, …"
+    },
+    {
+      "title": "Machine learning in neural networks",
+      "link": "https://link.springer.com/chapter/10.1007/978-981-32-9721-0_7",
+      "snippet": "… by leveraging machine learning and neural network approaches. … using machine learning, deep learning, and neural network … First, we describe different machine learning approaches …",
+      "publication_info": {
+        "summary": "E Lin, SJ Tsai - Frontiers in Psychiatry: Artificial Intelligence, Precision …, 2019 - Springer",
+        "authors": [
+          {
+            "name": "E Lin",
+            "link": "https://scholar.google.com/citations?user=_NC8XTAAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=_NC8XTAAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "_NC8XTAAAAAJ"
+          },
+          {
+            "name": "SJ Tsai",
+            "link": "https://scholar.google.com/citations?user=pfWHCtUAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=pfWHCtUAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "pfWHCtUAAAAJ"
+          }
+        ]
+      },
+      "authors": [
+        "E Lin",
+        "SJ Tsai"
+      ],
+      "year": 2019,
+      "citation_count": 17,
+      "venue": "E Lin, SJ Tsai",
+      "search_keyword": "neural networks machine learning",
+      "scraped_at": "2025-08-30T17:25:41.431911",
+      "abstract": "… by leveraging machine learning and neural network approaches. … using machine learning, deep learning, and neural network … First, we describe different machine learning approaches …"
+    },
+    {
+      "title": "What is machine learning, artificial neural networks and deep learning?—Examples of practical applications in medicine",
+      "link": "https://www.mdpi.com/2075-4418/13/15/2582",
+      "snippet": "… Based on the number of neural networks, we distinguished between ANNs, which are neural networks consisting of a single hidden layer, and DNNs, which are neural networks that …",
+      "publication_info": {
+        "summary": "J Kufel, K Bargieł-Łączek, S Kocot, M Koźlik… - Diagnostics, 2023 - mdpi.com",
+        "authors": [
+          {
+            "name": "J Kufel",
+            "link": "https://scholar.google.com/citations?user=JHJHh1hdr3gC&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=JHJHh1hdr3gC&engine=google_scholar_author&hl=en",
+            "author_id": "JHJHh1hdr3gC"
+          },
+          {
+            "name": "S Kocot",
+            "link": "https://scholar.google.com/citations?user=W-_7-MYAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=W-_7-MYAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "W-_7-MYAAAAJ"
+          }
+        ]
+      },
+      "authors": [
+        "J Kufel",
+        "S Kocot"
+      ],
+      "year": 2023,
+      "citation_count": 263,
+      "venue": "J Kufel, K Bargieł-Łączek, S Kocot, M Koźlik…",
+      "search_keyword": "neural networks machine learning",
+      "scraped_at": "2025-08-30T17:25:41.431914",
+      "abstract": "… Based on the number of neural networks, we distinguished between ANNs, which are neural networks consisting of a single hidden layer, and DNNs, which are neural networks that …"
+    },
+    {
+      "title": "Application of neural networks and other machine learning algorithms to DNA sequence analysis",
+      "link": "https://www.taylorfrancis.com/chapters/edit/10.4324/9780429501463-15/application-neural-networks-machine-learning-algorithms-dna-sequence-analysis-lapedes-barnes-burks-farber-sirotkin",
+      "snippet": "… In this article we report initial, quantitative results on application of simple neural networks and simple machine learning methods, to two problems in DN A sequence analysis. The two …",
+      "publication_info": {
+        "summary": "A Lapedes, C Barnes, C Burks, R Farber… - Computers and …, 2018 - taylorfrancis.com",
+        "authors": [
+          {
+            "name": "C Burks",
+            "link": "https://scholar.google.com/citations?user=RfP2WfMAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=RfP2WfMAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "RfP2WfMAAAAJ"
+          }
+        ]
+      },
+      "authors": [
+        "C Burks"
+      ],
+      "year": 2018,
+      "citation_count": 122,
+      "venue": "A Lapedes, C Barnes, C Burks, R Farber…",
+      "search_keyword": "neural networks machine learning",
+      "scraped_at": "2025-08-30T17:25:41.431917",
+      "abstract": "… In this article we report initial, quantitative results on application of simple neural networks and simple machine learning methods, to two problems in DN A sequence analysis. The two …"
+    },
+    {
+      "title": "Artificial intelligent model with neural network machine learning for the diagnosis of orthognathic surgery",
+      "link": "https://journals.lww.com/jcraniofacialsurgery/fulltext/2019/10000/Artificial_Intelligent_Model_With_Neural_Network.16.aspx",
+      "snippet": "… The learning was carried out in 3 stages, and 4 best performing … model using neural network machine learning could be … surgery cases using neural network machine learning. The …",
+      "publication_info": {
+        "summary": "HI Choi, SK Jung, SH Baek, WH Lim… - Journal of …, 2019 - journals.lww.com",
+        "authors": [
+          {
+            "name": "SK Jung",
+            "link": "https://scholar.google.com/citations?user=iremunwAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=iremunwAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "iremunwAAAAJ"
+          }
+        ]
+      },
+      "authors": [
+        "SK Jung"
+      ],
+      "year": 2019,
+      "citation_count": 189,
+      "venue": "HI Choi, SK Jung, SH Baek, WH Lim…",
+      "search_keyword": "neural networks machine learning",
+      "scraped_at": "2025-08-30T17:25:41.431920",
+      "abstract": "… The learning was carried out in 3 stages, and 4 best performing … model using neural network machine learning could be … surgery cases using neural network machine learning. The …"
+    },
+    {
+      "title": "The role of artificial neural network and machine learning in utilizing spatial information",
+      "link": "https://link.springer.com/article/10.1007/s41324-022-00494-x",
+      "snippet": "… , and reinforcement learning. The objective of the study is to present the role of artificial neural networks and machine learning in utilizing spatial information. Machine learning and AI …",
+      "publication_info": {
+        "summary": "A Goel, AK Goel, A Kumar - Spatial Information Research, 2023 - Springer",
+        "authors": [
+          {
+            "name": "A Goel",
+            "link": "https://scholar.google.com/citations?user=AHOAij4AAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=AHOAij4AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "AHOAij4AAAAJ"
+          },
+          {
+            "name": "AK Goel",
+            "link": "https://scholar.google.com/citations?user=Nk7anpUAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=Nk7anpUAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "Nk7anpUAAAAJ"
+          }
+        ]
+      },
+      "authors": [
+        "A Goel",
+        "AK Goel"
+      ],
+      "year": 2023,
+      "citation_count": 227,
+      "venue": "A Goel, AK Goel, A Kumar",
+      "search_keyword": "neural networks machine learning",
+      "scraped_at": "2025-08-30T17:25:41.431923",
+      "abstract": "… , and reinforcement learning. The objective of the study is to present the role of artificial neural networks and machine learning in utilizing spatial information. Machine learning and AI …"
+    },
+    {
+      "title": "iNNvestigate neural networks!",
+      "link": "http://www.jmlr.org/papers/v20/18-540.html",
+      "snippet": "… We expect that this library will support the field of analyzing machine learning and facilitate research using neural networks in domains such as drug design or medical image analysis. …",
+      "publication_info": {
+        "summary": "M Alber, S Lapuschkin, P Seegerer, M Hägele… - … of machine learning …, 2019 - jmlr.org",
+        "authors": [
+          {
+            "name": "M Alber",
+            "link": "https://scholar.google.com/citations?user=pnOLBcoAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=pnOLBcoAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "pnOLBcoAAAAJ"
+          },
+          {
+            "name": "S Lapuschkin",
+            "link": "https://scholar.google.com/citations?user=wpLQuroAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=wpLQuroAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "wpLQuroAAAAJ"
+          },
+          {
+            "name": "P Seegerer",
+            "link": "https://scholar.google.com/citations?user=6382yXMAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=6382yXMAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "6382yXMAAAAJ"
+          },
+          {
+            "name": "M Hägele",
+            "link": "https://scholar.google.com/citations?user=qx1K3OoAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=qx1K3OoAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "qx1K3OoAAAAJ"
+          }
+        ]
+      },
+      "authors": [
+        "M Alber",
+        "S Lapuschkin",
+        "P Seegerer",
+        "M Hägele"
+      ],
+      "year": 2019,
+      "citation_count": 482,
+      "venue": "M Alber, S Lapuschkin, P Seegerer, M Hägele…",
+      "search_keyword": "neural networks machine learning",
+      "scraped_at": "2025-08-30T17:25:41.431926",
+      "abstract": "… We expect that this library will support the field of analyzing machine learning and facilitate research using neural networks in domains such as drug design or medical image analysis. …"
+    },
+    {
+      "title": "State-of-the-art review on energy and load forecasting in microgrids using artificial neural networks, machine learning, and deep learning techniques",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0378779623006818",
+      "snippet": "… This paper discusses the significance of artificial neural network (ANN), machine learning (ML), and Deep Learning (DL) techniques in predicting renewable energy and load demand in …",
+      "publication_info": {
+        "summary": "R Wazirali, E Yaghoubi, MSS Abujazar… - Electric power systems …, 2023 - Elsevier",
+        "authors": [
+          {
+            "name": "R Wazirali",
+            "link": "https://scholar.google.com/citations?user=8rs8H2sAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=8rs8H2sAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "8rs8H2sAAAAJ"
+          },
+          {
+            "name": "E Yaghoubi",
+            "link": "https://scholar.google.com/citations?user=zakroxwAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=zakroxwAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "zakroxwAAAAJ"
+          },
+          {
+            "name": "MSS Abujazar",
+            "link": "https://scholar.google.com/citations?user=knWashgAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=knWashgAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "knWashgAAAAJ"
+          }
+        ]
+      },
+      "authors": [
+        "R Wazirali",
+        "E Yaghoubi",
+        "MSS Abujazar"
+      ],
+      "year": 2023,
+      "citation_count": 235,
+      "venue": "R Wazirali, E Yaghoubi, MSS Abujazar…",
+      "search_keyword": "neural networks machine learning",
+      "scraped_at": "2025-08-30T17:25:41.431931",
+      "abstract": "… This paper discusses the significance of artificial neural network (ANN), machine learning (ML), and Deep Learning (DL) techniques in predicting renewable energy and load demand in …"
+    },
+    {
+      "title": "Examining the ability of artificial neural networks machine learning models to accurately predict complications following posterior lumbar spine fusion",
+      "link": "https://journals.lww.com/spinejournal/fulltext/2018/06150/Examining_the_Ability_of_Artificial_Neural.14.aspx",
+      "snippet": "… The aim of this study was to train and validate machine learning models to identify risk … Machine learning models such as artificial neural networks (ANNs) are valuable tools for …",
+      "publication_info": {
+        "summary": "JS Kim, RK Merrill, V Arvind, D Kaji, SD Pasik… - Spine, 2018 - journals.lww.com",
+        "authors": [
+          {
+            "name": "JS Kim",
+            "link": "https://scholar.google.com/citations?user=5RTZZRMAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=5RTZZRMAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "5RTZZRMAAAAJ"
+          },
+          {
+            "name": "V Arvind",
+            "link": "https://scholar.google.com/citations?user=2-3KQXkAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=2-3KQXkAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "2-3KQXkAAAAJ"
+          }
+        ]
+      },
+      "authors": [
+        "JS Kim",
+        "V Arvind"
+      ],
+      "year": 2018,
+      "citation_count": 199,
+      "venue": "JS Kim, RK Merrill, V Arvind, D Kaji, SD Pasik…",
+      "search_keyword": "neural networks machine learning",
+      "scraped_at": "2025-08-30T17:25:41.431934",
+      "abstract": "… The aim of this study was to train and validate machine learning models to identify risk … Machine learning models such as artificial neural networks (ANNs) are valuable tools for …"
+    },
+    {
+      "title": "Machine learning for information retrieval: Neural networks, symbolic learning, and genetic algorithms",
+      "link": "https://asistdl.onlinelibrary.wiley.com/doi/abs/10.1002/(SICI)1097-4571(199504)46:3%3C194::AID-ASI4%3E3.0.CO;2-S",
+      "snippet": "… After the overview, we present in detail a neural network implementation (Hopfield network), a symbolic learning implementation (ID3 and IDSR), and a genetic algorithms implementa…",
+      "publication_info": {
+        "summary": "H Chen - Journal of the American society for Information …, 1995 - Wiley Online Library",
+        "authors": [
+          {
+            "name": "H Chen",
+            "link": "https://scholar.google.com/citations?user=ypvW54sAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=ypvW54sAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "ypvW54sAAAAJ"
+          }
+        ]
+      },
+      "authors": [
+        "H Chen"
+      ],
+      "year": 1995,
+      "citation_count": 460,
+      "venue": "H Chen",
+      "search_keyword": "neural networks machine learning",
+      "scraped_at": "2025-08-30T17:25:41.431937",
+      "abstract": "… After the overview, we present in detail a neural network implementation (Hopfield network), a symbolic learning implementation (ID3 and IDSR), and a genetic algorithms implementa…"
+    },
+    {
+      "title": "Verification for machine learning, autonomy, and neural networks survey",
+      "link": "https://arxiv.org/abs/1810.01989",
+      "snippet": "… Neural Networks but future revisions will include the other sub-domains. Neural Networks are … feedback linearization design of neural network controllers, neural network control for dis- …",
+      "publication_info": {
+        "summary": "W Xiang, P Musau, AA Wild, DM Lopez… - arXiv preprint arXiv …, 2018 - arxiv.org",
+        "authors": [
+          {
+            "name": "W Xiang",
+            "link": "https://scholar.google.com/citations?user=Vm_7JP8AAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=Vm_7JP8AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "Vm_7JP8AAAAJ"
+          },
+          {
+            "name": "P Musau",
+            "link": "https://scholar.google.com/citations?user=C2RS3i8AAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=C2RS3i8AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "C2RS3i8AAAAJ"
+          },
+          {
+            "name": "DM Lopez",
+            "link": "https://scholar.google.com/citations?user=kgpZCIAAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=kgpZCIAAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "kgpZCIAAAAAJ"
+          }
+        ]
+      },
+      "authors": [
+        "W Xiang",
+        "P Musau",
+        "DM Lopez"
+      ],
+      "year": 2018,
+      "citation_count": 126,
+      "venue": "W Xiang, P Musau, AA Wild, DM Lopez…",
+      "search_keyword": "neural networks machine learning",
+      "scraped_at": "2025-08-30T17:25:41.431940",
+      "abstract": "… Neural Networks but future revisions will include the other sub-domains. Neural Networks are … feedback linearization design of neural network controllers, neural network control for dis- …"
+    },
+    {
+      "title": "Applications of artificial neural networks and machine learning in civil engineering",
+      "link": "https://link.springer.com/content/pdf/10.1007/978-3-031-66051-1.pdf",
+      "snippet": "… The aim of the present book is to provide different applications of Artificial Neural Networks (… trained artificial neural networks. Chapter 3 provides the use of artificial neural networks and …",
+      "publication_info": {
+        "summary": "A Kaveh - 2024 - Springer",
+        "authors": [
+          {
+            "name": "A Kaveh",
+            "link": "https://scholar.google.com/citations?user=O0b2DJoAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=O0b2DJoAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "O0b2DJoAAAAJ"
+          }
+        ]
+      },
+      "authors": [
+        "A Kaveh"
+      ],
+      "year": 2024,
+      "citation_count": 245,
+      "venue": "A Kaveh",
+      "search_keyword": "neural networks machine learning",
+      "scraped_at": "2025-08-30T17:25:43.414966",
+      "abstract": "… The aim of the present book is to provide different applications of Artificial Neural Networks (… trained artificial neural networks. Chapter 3 provides the use of artificial neural networks and …"
+    },
+    {
+      "title": "Evaluation of different machine learning methods and deep-learning convolutional neural networks for landslide detection",
+      "link": "https://www.mdpi.com/2072-4292/11/2/196",
+      "snippet": "… of machine learning methods, ie, artificial neural network (ANN), support vector machines (SVM) and random forest (RF), and different deep-learning convolution neural networks (CNNs…",
+      "publication_info": {
+        "summary": "O Ghorbanzadeh, T Blaschke, K Gholamnia… - Remote Sensing, 2019 - mdpi.com",
+        "authors": [
+          {
+            "name": "O Ghorbanzadeh",
+            "link": "https://scholar.google.com/citations?user=UimSzh4AAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=UimSzh4AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "UimSzh4AAAAJ"
+          },
+          {
+            "name": "T Blaschke",
+            "link": "https://scholar.google.com/citations?user=kMroJzUAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=kMroJzUAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "kMroJzUAAAAJ"
+          },
+          {
+            "name": "K Gholamnia",
+            "link": "https://scholar.google.com/citations?user=5VpolpwAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=5VpolpwAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "5VpolpwAAAAJ"
+          }
+        ]
+      },
+      "authors": [
+        "O Ghorbanzadeh",
+        "T Blaschke",
+        "K Gholamnia"
+      ],
+      "year": 2019,
+      "citation_count": 845,
+      "venue": "O Ghorbanzadeh, T Blaschke, K Gholamnia…",
+      "search_keyword": "neural networks machine learning",
+      "scraped_at": "2025-08-30T17:25:43.414980",
+      "abstract": "… of machine learning methods, ie, artificial neural network (ANN), support vector machines (SVM) and random forest (RF), and different deep-learning convolution neural networks (CNNs…"
+    },
+    {
+      "title": "An empirical comparison of pattern recognition, neural nets, and machine learning classification methods.",
+      "link": "http://www.utm.mx/~jjf/rp/RPA6.pdf",
+      "snippet": "… for a newer technique such as a comparison of neural nets with nearest neighbor techniques. In this … Because of the recent heightened interest in neural nets, and in particular the back …",
+      "publication_info": {
+        "summary": "SM Weiss, I Kapouleas - IJCAI, 1989 - utm.mx"
+      },
+      "authors": [],
+      "year": 1989,
+      "citation_count": 704,
+      "venue": "SM Weiss, I Kapouleas",
+      "search_keyword": "neural networks machine learning",
+      "scraped_at": "2025-08-30T17:25:43.414983",
+      "abstract": "… for a newer technique such as a comparison of neural nets with nearest neighbor techniques. In this … Because of the recent heightened interest in neural nets, and in particular the back …"
+    },
+    {
+      "title": "An introduction to convolutional neural networks",
+      "link": "https://arxiv.org/abs/1511.08458",
+      "snippet": "… of machine learning has taken a dramatic twist in recent times, with the rise of the Artificial Neural Network (… forms of artificial intelligence in common machine learning tasks. One of the …",
+      "publication_info": {
+        "summary": "K O'shea, R Nash - arXiv preprint arXiv:1511.08458, 2015 - arxiv.org",
+        "authors": [
+          {
+            "name": "K O'shea",
+            "link": "https://scholar.google.com/citations?user=VpwaS2AAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=VpwaS2AAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "VpwaS2AAAAAJ"
+          }
+        ]
+      },
+      "authors": [
+        "K O'shea"
+      ],
+      "year": 2015,
+      "citation_count": 6275,
+      "venue": "K O'shea, R Nash",
+      "search_keyword": "neural networks machine learning",
+      "scraped_at": "2025-08-30T17:25:43.414987",
+      "abstract": "… of machine learning has taken a dramatic twist in recent times, with the rise of the Artificial Neural Network (… forms of artificial intelligence in common machine learning tasks. One of the …"
+    },
+    {
+      "title": "Fundamentals of artificial neural networks and deep learning",
+      "link": "https://link.springer.com/chapter/10.1007/978-3-030-89010-0_10",
+      "snippet": "… neural networks and deep learning methods. We describe the inspiration for artificial neural networks and how the methods of deep learning … of artificial neural networks that play an …",
+      "publication_info": {
+        "summary": "OA Montesinos López, A Montesinos López… - … machine learning …, 2022 - Springer",
+        "authors": [
+          {
+            "name": "OA Montesinos López",
+            "link": "https://scholar.google.com/citations?user=gt1y6VcAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=gt1y6VcAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "gt1y6VcAAAAJ"
+          },
+          {
+            "name": "A Montesinos López",
+            "link": "https://scholar.google.com/citations?user=5OrGsS0AAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=5OrGsS0AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "5OrGsS0AAAAJ"
+          }
+        ]
+      },
+      "authors": [
+        "OA Montesinos López",
+        "A Montesinos López"
+      ],
+      "year": 2022,
+      "citation_count": 324,
+      "venue": "OA Montesinos López, A Montesinos López…",
+      "search_keyword": "neural networks machine learning",
+      "scraped_at": "2025-08-30T17:25:43.414990",
+      "abstract": "… neural networks and deep learning methods. We describe the inspiration for artificial neural networks and how the methods of deep learning … of artificial neural networks that play an …"
+    },
+    {
+      "title": "Neural networks and deep learning: a textbook",
+      "link": "https://dlib.hust.edu.vn/handle/HUST/24439",
+      "snippet": "… between traditional machine learning and neural networks is the … of various machine learning models with neural networks is … neural networks push the envelope of traditional machine …",
+      "publication_info": {
+        "summary": "A Charu C - 2018 - dlib.hust.edu.vn"
+      },
+      "authors": [],
+      "year": 2018,
+      "citation_count": 104,
+      "venue": "A Charu C",
+      "search_keyword": "neural networks machine learning",
+      "scraped_at": "2025-08-30T17:25:43.414993",
+      "abstract": "… between traditional machine learning and neural networks is the … of various machine learning models with neural networks is … neural networks push the envelope of traditional machine …"
+    },
+    {
+      "title": "Scientific machine learning through physics–informed neural networks: Where we are and what's next",
+      "link": "https://link.springer.com/article/10.1007/S10915-022-01939-Z",
+      "snippet": "… neural networks are increasingly being used to tackle classical applied mathematics problems such as partial differential equations (PDEs) utilizing machine learning … Deep learning has …",
+      "publication_info": {
+        "summary": "S Cuomo, VS Di Cola, F Giampaolo, G Rozza… - Journal of Scientific …, 2022 - Springer",
+        "authors": [
+          {
+            "name": "S Cuomo",
+            "link": "https://scholar.google.com/citations?user=thoceN0AAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=thoceN0AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "thoceN0AAAAJ"
+          },
+          {
+            "name": "VS Di Cola",
+            "link": "https://scholar.google.com/citations?user=hwGL4xAAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=hwGL4xAAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "hwGL4xAAAAAJ"
+          },
+          {
+            "name": "F Giampaolo",
+            "link": "https://scholar.google.com/citations?user=I8q5NwUAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=I8q5NwUAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "I8q5NwUAAAAJ"
+          },
+          {
+            "name": "G Rozza",
+            "link": "https://scholar.google.com/citations?user=5LtMTMwAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=5LtMTMwAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "5LtMTMwAAAAJ"
+          }
+        ]
+      },
+      "authors": [
+        "S Cuomo",
+        "VS Di Cola",
+        "F Giampaolo",
+        "G Rozza"
+      ],
+      "year": 2022,
+      "citation_count": 2182,
+      "venue": "S Cuomo, VS Di Cola, F Giampaolo, G Rozza…",
+      "search_keyword": "neural networks machine learning",
+      "scraped_at": "2025-08-30T17:25:43.414998",
+      "abstract": "… neural networks are increasingly being used to tackle classical applied mathematics problems such as partial differential equations (PDEs) utilizing machine learning … Deep learning has …"
+    },
+    {
+      "title": "Machine learning‐neural networks, genetic algorithms and fuzzy systems",
+      "link": "https://www.emerald.com/insight/content/doi/10.1108/k.1999.28.3.317.5/full/html",
+      "snippet": "… on neural nets, we describe a number of ingenious new ways of integrating neural network models … solving paradigms to create powerful hybrids with improved learning performance. …",
+      "publication_info": {
+        "summary": "H Adeli - Kybernetes, 1999 - emerald.com",
+        "authors": [
+          {
+            "name": "H Adeli",
+            "link": "https://scholar.google.com/citations?user=TQMpoh8AAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=TQMpoh8AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "TQMpoh8AAAAJ"
+          }
+        ]
+      },
+      "authors": [
+        "H Adeli"
+      ],
+      "year": 1999,
+      "citation_count": 847,
+      "venue": "H Adeli",
+      "search_keyword": "neural networks machine learning",
+      "scraped_at": "2025-08-30T17:25:43.415001",
+      "abstract": "… on neural nets, we describe a number of ingenious new ways of integrating neural network models … solving paradigms to create powerful hybrids with improved learning performance. …"
+    },
+    {
+      "title": "Machine learning topological invariants with neural networks",
+      "link": "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.120.066401",
+      "snippet": "… with chiral symmetry, the neural network can predict their … remarkable success that the neural network can capture the … up the neural network, we confirm that the network does learn …",
+      "publication_info": {
+        "summary": "P Zhang, H Shen, H Zhai - Physical review letters, 2018 - APS",
+        "authors": [
+          {
+            "name": "P Zhang",
+            "link": "https://scholar.google.com/citations?user=xvhhFXgAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=xvhhFXgAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "xvhhFXgAAAAJ"
+          },
+          {
+            "name": "H Shen",
+            "link": "https://scholar.google.com/citations?user=GzaSQrgAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=GzaSQrgAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "GzaSQrgAAAAJ"
+          },
+          {
+            "name": "H Zhai",
+            "link": "https://scholar.google.com/citations?user=Lhc7LL8AAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=Lhc7LL8AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "Lhc7LL8AAAAJ"
+          }
+        ]
+      },
+      "authors": [
+        "P Zhang",
+        "H Shen",
+        "H Zhai"
+      ],
+      "year": 2018,
+      "citation_count": 314,
+      "venue": "P Zhang, H Shen, H Zhai",
+      "search_keyword": "neural networks machine learning",
+      "scraped_at": "2025-08-30T17:25:43.415004",
+      "abstract": "… with chiral symmetry, the neural network can predict their … remarkable success that the neural network can capture the … up the neural network, we confirm that the network does learn …"
+    },
+    {
+      "title": "On the analyses of medical images using traditional machine learning techniques and convolutional neural networks",
+      "link": "https://link.springer.com/article/10.1007/s11831-023-09899-9",
+      "snippet": "… Convolutional neural network (CNN) has shown dissuasive accomplishment on different … CNN is a special type of Neural Network, which has compelling and effective learning ability to …",
+      "publication_info": {
+        "summary": "S Iqbal, A N. Qureshi, J Li, T Mahmood - Archives of Computational …, 2023 - Springer",
+        "authors": [
+          {
+            "name": "S Iqbal",
+            "link": "https://scholar.google.com/citations?user=Cj7u9FkAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=Cj7u9FkAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "Cj7u9FkAAAAJ"
+          },
+          {
+            "name": "A N. Qureshi",
+            "link": "https://scholar.google.com/citations?user=d9nVT5UDwXcC&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=d9nVT5UDwXcC&engine=google_scholar_author&hl=en",
+            "author_id": "d9nVT5UDwXcC"
+          },
+          {
+            "name": "J Li",
+            "link": "https://scholar.google.com/citations?user=yMRStxYAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=yMRStxYAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "yMRStxYAAAAJ"
+          },
+          {
+            "name": "T Mahmood",
+            "link": "https://scholar.google.com/citations?user=MUp81toAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=MUp81toAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "MUp81toAAAAJ"
+          }
+        ]
+      },
+      "authors": [
+        "S Iqbal",
+        "A N. Qureshi",
+        "J Li",
+        "T Mahmood"
+      ],
+      "year": 2023,
+      "citation_count": 175,
+      "venue": "S Iqbal, A N. Qureshi, J Li, T Mahmood",
+      "search_keyword": "neural networks machine learning",
+      "scraped_at": "2025-08-30T17:25:43.415007",
+      "abstract": "… Convolutional neural network (CNN) has shown dissuasive accomplishment on different … CNN is a special type of Neural Network, which has compelling and effective learning ability to …"
+    },
+    {
+      "title": "Neural additive models: Interpretable machine learning with neural nets",
+      "link": "https://proceedings.neurips.cc/paper/2021/hash/251bd0442dfcc53b5a761e050f8022b8-Abstract.html",
+      "snippet": "… In this paper, we make restrictions on the structure of neural networks, which yields a family of glass-box models called Neural Additive Models (NAMs), that are inherently interpretable …",
+      "publication_info": {
+        "summary": "R Agarwal, L Melnick, N Frosst… - Advances in neural …, 2021 - proceedings.neurips.cc",
+        "authors": [
+          {
+            "name": "R Agarwal",
+            "link": "https://scholar.google.com/citations?user=aH8AJu4AAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=aH8AJu4AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "aH8AJu4AAAAJ"
+          },
+          {
+            "name": "L Melnick",
+            "link": "https://scholar.google.com/citations?user=WqyqV7UAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=WqyqV7UAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "WqyqV7UAAAAJ"
+          }
+        ]
+      },
+      "authors": [
+        "R Agarwal",
+        "L Melnick"
+      ],
+      "year": 2021,
+      "citation_count": 646,
+      "venue": "R Agarwal, L Melnick, N Frosst…",
+      "search_keyword": "neural networks machine learning",
+      "scraped_at": "2025-08-30T17:25:43.415010",
+      "abstract": "… In this paper, we make restrictions on the structure of neural networks, which yields a family of glass-box models called Neural Additive Models (NAMs), that are inherently interpretable …"
+    },
+    {
+      "title": "All-optical machine learning using diffractive deep neural networks",
+      "link": "https://www.science.org/doi/abs/10.1126/science.aat8084",
+      "snippet": "… deep learning framework in which the neural network … network can statistically learn. Whereas the inference and prediction mechanism of the physical network is all optical, the learning …",
+      "publication_info": {
+        "summary": "X Lin, Y Rivenson, NT Yardimci, M Veli, Y Luo… - Science, 2018 - science.org",
+        "authors": [
+          {
+            "name": "X Lin",
+            "link": "https://scholar.google.com/citations?user=Z9hIhiEAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=Z9hIhiEAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "Z9hIhiEAAAAJ"
+          },
+          {
+            "name": "Y Rivenson",
+            "link": "https://scholar.google.com/citations?user=gaktRVgAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=gaktRVgAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "gaktRVgAAAAJ"
+          },
+          {
+            "name": "NT Yardimci",
+            "link": "https://scholar.google.com/citations?user=0bD_Iy4AAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=0bD_Iy4AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "0bD_Iy4AAAAJ"
+          },
+          {
+            "name": "M Veli",
+            "link": "https://scholar.google.com/citations?user=LzEwLaUAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=LzEwLaUAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "LzEwLaUAAAAJ"
+          }
+        ]
+      },
+      "authors": [
+        "X Lin",
+        "Y Rivenson",
+        "NT Yardimci",
+        "M Veli"
+      ],
+      "year": 2018,
+      "citation_count": 2406,
+      "venue": "X Lin, Y Rivenson, NT Yardimci, M Veli, Y Luo…",
+      "search_keyword": "neural networks machine learning",
+      "scraped_at": "2025-08-30T17:25:43.415013",
+      "abstract": "… deep learning framework in which the neural network … network can statistically learn. Whereas the inference and prediction mechanism of the physical network is all optical, the learning …"
+    },
+    {
+      "title": "Artificial neural networks and machine learning techniques applied to ground penetrating radar: A review",
+      "link": "https://www.emerald.com/insight/content/doi/10.1016/j.aci.2018.10.001/full/html",
+      "snippet": "… Currently used in a wide range of applications, Artificial Neural Networks (ANNs) associated with Machine Learning (ML) techniques have been applied to improve the GPR NDE. This …",
+      "publication_info": {
+        "summary": "XL Travassos, SL Avila, N Ida - Applied Computing and Informatics, 2021 - emerald.com",
+        "authors": [
+          {
+            "name": "XL Travassos",
+            "link": "https://scholar.google.com/citations?user=hogtriQAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=hogtriQAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "hogtriQAAAAJ"
+          },
+          {
+            "name": "SL Avila",
+            "link": "https://scholar.google.com/citations?user=09AP8WMAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=09AP8WMAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "09AP8WMAAAAJ"
+          }
+        ]
+      },
+      "authors": [
+        "XL Travassos",
+        "SL Avila"
+      ],
+      "year": 2021,
+      "citation_count": 166,
+      "venue": "XL Travassos, SL Avila, N Ida",
+      "search_keyword": "neural networks machine learning",
+      "scraped_at": "2025-08-30T17:25:43.415016",
+      "abstract": "… Currently used in a wide range of applications, Artificial Neural Networks (ANNs) associated with Machine Learning (ML) techniques have been applied to improve the GPR NDE. This …"
+    },
+    {
+      "title": "Bindsnet: A machine learning-oriented spiking neural networks library in python",
+      "link": "https://www.frontiersin.org/articles/10.3389/fninf.2018.00089/full",
+      "snippet": "… of machine learning. In this paper, we describe a new Python package for the simulation of … neural networks, specifically geared toward machine learning and reinforcement learning. …",
+      "publication_info": {
+        "summary": "H Hazan, DJ Saunders, H Khan, D Patel… - Frontiers in …, 2018 - frontiersin.org",
+        "authors": [
+          {
+            "name": "H Hazan",
+            "link": "https://scholar.google.com/citations?user=M8ayghUAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=M8ayghUAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "M8ayghUAAAAJ"
+          },
+          {
+            "name": "DJ Saunders",
+            "link": "https://scholar.google.com/citations?user=Wy-X_j4AAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=Wy-X_j4AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "Wy-X_j4AAAAJ"
+          },
+          {
+            "name": "D Patel",
+            "link": "https://scholar.google.com/citations?user=PnQtZegAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=PnQtZegAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "PnQtZegAAAAJ"
+          }
+        ]
+      },
+      "authors": [
+        "H Hazan",
+        "DJ Saunders",
+        "D Patel"
+      ],
+      "year": 2018,
+      "citation_count": 382,
+      "venue": "H Hazan, DJ Saunders, H Khan, D Patel…",
+      "search_keyword": "neural networks machine learning",
+      "scraped_at": "2025-08-30T17:25:43.415020",
+      "abstract": "… of machine learning. In this paper, we describe a new Python package for the simulation of … neural networks, specifically geared toward machine learning and reinforcement learning. …"
+    },
+    {
+      "title": "Machine learning and artificial neural network accelerated computational discoveries in materials science",
+      "link": "https://wires.onlinelibrary.wiley.com/doi/abs/10.1002/wcms.1450",
+      "snippet": "… the ANN models, which are based on the biological neural networks,42 have also been widely used in computational studies. A neural network is composed of three parts: an input layer…",
+      "publication_info": {
+        "summary": "Y Hong, B Hou, H Jiang, J Zhang - Wiley Interdisciplinary …, 2020 - Wiley Online Library",
+        "authors": [
+          {
+            "name": "Y Hong",
+            "link": "https://scholar.google.com/citations?user=MmOr1JkAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=MmOr1JkAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "MmOr1JkAAAAJ"
+          },
+          {
+            "name": "B Hou",
+            "link": "https://scholar.google.com/citations?user=BkJNjq0AAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=BkJNjq0AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "BkJNjq0AAAAJ"
+          },
+          {
+            "name": "J Zhang",
+            "link": "https://scholar.google.com/citations?user=PjBTMRcAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=PjBTMRcAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "PjBTMRcAAAAJ"
+          }
+        ]
+      },
+      "authors": [
+        "Y Hong",
+        "B Hou",
+        "J Zhang"
+      ],
+      "year": 2020,
+      "citation_count": 147,
+      "venue": "Y Hong, B Hou, H Jiang, J Zhang",
+      "search_keyword": "neural networks machine learning",
+      "scraped_at": "2025-08-30T17:25:43.415022",
+      "abstract": "… the ANN models, which are based on the biological neural networks,42 have also been widely used in computational studies. A neural network is composed of three parts: an input layer…"
+    },
+    {
+      "title": "House price prediction using machine learning and neural networks",
+      "link": "https://ieeexplore.ieee.org/abstract/document/8473231/",
+      "snippet": "… are fed as input to the neural network. We use neural network applied with boosted regression to increase the accuracy of the result. Neural network does the job pretty well by …",
+      "publication_info": {
+        "summary": "A Varma, A Sarma, S Doshi… - 2018 second international …, 2018 - ieeexplore.ieee.org"
+      },
+      "authors": [],
+      "year": 2018,
+      "citation_count": 195,
+      "venue": "A Varma, A Sarma, S Doshi…",
+      "search_keyword": "neural networks machine learning",
+      "scraped_at": "2025-08-30T17:25:43.415025",
+      "abstract": "… are fed as input to the neural network. We use neural network applied with boosted regression to increase the accuracy of the result. Neural network does the job pretty well by …"
+    },
+    {
+      "title": "A predictive analytics approach for stroke prediction using machine learning and neural networks",
+      "link": "https://www.sciencedirect.com/science/article/pii/S2772442522000090",
+      "snippet": "… Furthermore, a perceptron neural network using these four attributes provides the highest accuracy rate and lowest miss rate compared to using all available input features and other …",
+      "publication_info": {
+        "summary": "S Dev, H Wang, CS Nwosu, N Jain, B Veeravalli… - Healthcare …, 2022 - Elsevier",
+        "authors": [
+          {
+            "name": "S Dev",
+            "link": "https://scholar.google.com/citations?user=_akXw8IAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=_akXw8IAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "_akXw8IAAAAJ"
+          },
+          {
+            "name": "H Wang",
+            "link": "https://scholar.google.com/citations?user=zYma17IAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=zYma17IAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "zYma17IAAAAJ"
+          },
+          {
+            "name": "B Veeravalli",
+            "link": "https://scholar.google.com/citations?user=IqAJttsAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=IqAJttsAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "IqAJttsAAAAJ"
+          }
+        ]
+      },
+      "authors": [
+        "S Dev",
+        "H Wang",
+        "B Veeravalli"
+      ],
+      "year": 2022,
+      "citation_count": 229,
+      "venue": "S Dev, H Wang, CS Nwosu, N Jain, B Veeravalli…",
+      "search_keyword": "neural networks machine learning",
+      "scraped_at": "2025-08-30T17:25:43.415029",
+      "abstract": "… Furthermore, a perceptron neural network using these four attributes provides the highest accuracy rate and lowest miss rate compared to using all available input features and other …"
+    },
+    {
+      "title": "DoS attack detection using machine learning and neural network",
+      "link": "https://ieeexplore.ieee.org/abstract/document/8697702/",
+      "snippet": "… In this work, we have applied machine learning algorithm RF as well as Neural Network algorithm MLP to detect DoS attacks. The proposed system is used to classify the packet is …",
+      "publication_info": {
+        "summary": "S Wankhede, D Kshirsagar - 2018 Fourth International …, 2018 - ieeexplore.ieee.org",
+        "authors": [
+          {
+            "name": "S Wankhede",
+            "link": "https://scholar.google.com/citations?user=Q5AaSAEAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=Q5AaSAEAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "Q5AaSAEAAAAJ"
+          },
+          {
+            "name": "D Kshirsagar",
+            "link": "https://scholar.google.com/citations?user=GsDgjCAAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=GsDgjCAAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "GsDgjCAAAAAJ"
+          }
+        ]
+      },
+      "authors": [
+        "S Wankhede",
+        "D Kshirsagar"
+      ],
+      "year": 2018,
+      "citation_count": 123,
+      "venue": "S Wankhede, D Kshirsagar",
+      "search_keyword": "neural networks machine learning",
+      "scraped_at": "2025-08-30T17:25:43.415032",
+      "abstract": "… In this work, we have applied machine learning algorithm RF as well as Neural Network algorithm MLP to detect DoS attacks. The proposed system is used to classify the packet is …"
+    },
+    {
+      "title": "Field inversion and machine learning with embedded neural networks: Physics-consistent neural network training",
+      "link": "https://arc.aiaa.org/doi/pdf/10.2514/6.2019-3200",
+      "snippet": "… Neural networks are commonly used in machine learning … The input to the neural network is some subset of the flow … feed forward neural network the input to the j-th neuron (xj) is …",
+      "publication_info": {
+        "summary": "JR Holland, JD Baeder, K Duraisamy - AIAA Aviation 2019 Forum, 2019 - arc.aiaa.org",
+        "authors": [
+          {
+            "name": "JD Baeder",
+            "link": "https://scholar.google.com/citations?user=YcZacD4AAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=YcZacD4AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "YcZacD4AAAAJ"
+          },
+          {
+            "name": "K Duraisamy",
+            "link": "https://scholar.google.com/citations?user=8F2oaQwAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=8F2oaQwAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "8F2oaQwAAAAJ"
+          }
+        ]
+      },
+      "authors": [
+        "JD Baeder",
+        "K Duraisamy"
+      ],
+      "year": 2019,
+      "citation_count": 118,
+      "venue": "JR Holland, JD Baeder, K Duraisamy",
+      "search_keyword": "neural networks machine learning",
+      "scraped_at": "2025-08-30T17:25:43.415035",
+      "abstract": "… Neural networks are commonly used in machine learning … The input to the neural network is some subset of the flow … feed forward neural network the input to the j-th neuron (xj) is …"
+    },
+    {
+      "title": "Machine learning material properties from the periodic table using convolutional neural networks",
+      "link": "https://pubs.rsc.org/en/content/articlehtml/2018/sc/c8sc02648c",
+      "snippet": "… machine learning algorithms, convolutional neural networks (… A CNN consists of multilayer neural networks, of which at … as perceptron and fully connected neural networks, 12,13 CNNs …",
+      "publication_info": {
+        "summary": "X Zheng, P Zheng, RZ Zhang - Chemical science, 2018 - pubs.rsc.org"
+      },
+      "authors": [],
+      "year": 2018,
+      "citation_count": 152,
+      "venue": "X Zheng, P Zheng, RZ Zhang",
+      "search_keyword": "neural networks machine learning",
+      "scraped_at": "2025-08-30T17:25:43.415037",
+      "abstract": "… machine learning algorithms, convolutional neural networks (… A CNN consists of multilayer neural networks, of which at … as perceptron and fully connected neural networks, 12,13 CNNs …"
+    },
+    {
+      "title": "Towards a mathematical understanding of neural network-based machine learning: what we know and what we don't",
+      "link": "https://arxiv.org/abs/2009.10713",
+      "snippet": "… In Section 3, we focus on the function spaces developed for neural network models. Section … loss functionals in machine learning. Training dynamics for network weights are discussed …",
+      "publication_info": {
+        "summary": "C Ma, S Wojtowytsch, L Wu - arXiv preprint arXiv:2009.10713, 2020 - arxiv.org",
+        "authors": [
+          {
+            "name": "C Ma",
+            "link": "https://scholar.google.com/citations?user=n2BTRgUAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=n2BTRgUAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "n2BTRgUAAAAJ"
+          },
+          {
+            "name": "S Wojtowytsch",
+            "link": "https://scholar.google.com/citations?user=vnluGycAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=vnluGycAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "vnluGycAAAAJ"
+          },
+          {
+            "name": "L Wu",
+            "link": "https://scholar.google.com/citations?user=CMweeYcAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=CMweeYcAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "CMweeYcAAAAJ"
+          }
+        ]
+      },
+      "authors": [
+        "C Ma",
+        "S Wojtowytsch",
+        "L Wu"
+      ],
+      "year": 2009,
+      "citation_count": 151,
+      "venue": "C Ma, S Wojtowytsch, L Wu",
+      "search_keyword": "neural networks machine learning",
+      "scraped_at": "2025-08-30T17:25:45.515030",
+      "abstract": "… In Section 3, we focus on the function spaces developed for neural network models. Section … loss functionals in machine learning. Training dynamics for network weights are discussed …"
+    },
+    {
+      "title": "Machine learning, neural and statistical classification",
+      "link": "https://dl.acm.org/doi/abs/10.5555/212782",
+      "snippet": "… Considered in this paper is the learning of interval neural networks, … neural network for support vector machine (SVM) learning in pattern classification and regression. The SVM learning …",
+      "publication_info": {
+        "summary": "D Michie, DJ Spiegelhalter, CC Taylor, J Campbell - 1995 - dl.acm.org",
+        "authors": [
+          {
+            "name": "DJ Spiegelhalter",
+            "link": "https://scholar.google.com/citations?user=oz7MFu0AAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=oz7MFu0AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "oz7MFu0AAAAJ"
+          },
+          {
+            "name": "CC Taylor",
+            "link": "https://scholar.google.com/citations?user=lzAq3qcAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=lzAq3qcAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "lzAq3qcAAAAJ"
+          }
+        ]
+      },
+      "authors": [
+        "DJ Spiegelhalter",
+        "CC Taylor"
+      ],
+      "year": 1995,
+      "citation_count": 4427,
+      "venue": "D Michie, DJ Spiegelhalter, CC Taylor, J Campbell",
+      "search_keyword": "neural networks machine learning",
+      "scraped_at": "2025-08-30T17:25:45.515041",
+      "abstract": "… Considered in this paper is the learning of interval neural networks, … neural network for support vector machine (SVM) learning in pattern classification and regression. The SVM learning …"
+    },
+    {
+      "title": "A survey of stochastic computing neural networks for machine learning applications",
+      "link": "https://ieeexplore.ieee.org/abstract/document/9159931/",
+      "snippet": "… and learning algorithms. A multilayer perceptron (MLP) is a type of artificial neural networks (ANNs… An MLP supports gradient descent-based supervised learning, such as the backward-…",
+      "publication_info": {
+        "summary": "Y Liu, S Liu, Y Wang, F Lombardi… - … Networks and Learning …, 2020 - ieeexplore.ieee.org",
+        "authors": [
+          {
+            "name": "S Liu",
+            "link": "https://scholar.google.com/citations?user=Shjv_9YAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=Shjv_9YAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "Shjv_9YAAAAJ"
+          },
+          {
+            "name": "Y Wang",
+            "link": "https://scholar.google.com/citations?user=a7akgIEAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=a7akgIEAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "a7akgIEAAAAJ"
+          },
+          {
+            "name": "F Lombardi",
+            "link": "https://scholar.google.com/citations?user=xUFpv8kAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=xUFpv8kAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "xUFpv8kAAAAJ"
+          }
+        ]
+      },
+      "authors": [
+        "S Liu",
+        "Y Wang",
+        "F Lombardi"
+      ],
+      "year": 2020,
+      "citation_count": 222,
+      "venue": "Y Liu, S Liu, Y Wang, F Lombardi…",
+      "search_keyword": "neural networks machine learning",
+      "scraped_at": "2025-08-30T17:25:45.515047",
+      "abstract": "… and learning algorithms. A multilayer perceptron (MLP) is a type of artificial neural networks (ANNs… An MLP supports gradient descent-based supervised learning, such as the backward-…"
+    },
+    {
+      "title": "Applying neural-network-based machine learning to additive manufacturing: current applications, challenges, and future perspectives",
+      "link": "https://www.sciencedirect.com/science/article/pii/S2095809918307732",
+      "snippet": "… Today, the machine learning (ML) method has been demonstrated to be a valid way to … Among ML algorithms, the neural network (NN) is the most widely used model due to the large …",
+      "publication_info": {
+        "summary": "X Qi, G Chen, Y Li, X Cheng, C Li - Engineering, 2019 - Elsevier",
+        "authors": [
+          {
+            "name": "X Qi",
+            "link": "https://scholar.google.com/citations?user=HOwir_sAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=HOwir_sAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "HOwir_sAAAAJ"
+          },
+          {
+            "name": "C Li",
+            "link": "https://scholar.google.com/citations?user=QxWq8TkAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=QxWq8TkAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "QxWq8TkAAAAJ"
+          }
+        ]
+      },
+      "authors": [
+        "X Qi",
+        "C Li"
+      ],
+      "year": 2019,
+      "citation_count": 631,
+      "venue": "X Qi, G Chen, Y Li, X Cheng, C Li",
+      "search_keyword": "neural networks machine learning",
+      "scraped_at": "2025-08-30T17:25:45.515051",
+      "abstract": "… Today, the machine learning (ML) method has been demonstrated to be a valid way to … Among ML algorithms, the neural network (NN) is the most widely used model due to the large …"
+    },
+    {
+      "title": "Brain tumor detection using deep neural network and machine learning algorithm",
+      "link": "https://ieeexplore.ieee.org/abstract/document/8964846/",
+      "snippet": "… One of the most practical and important methods is to use Deep Neural Network (DNN). In this paper, a Convolutional Neural Network (CNN) has been used to detect a tumor through …",
+      "publication_info": {
+        "summary": "M Siar, M Teshnehlab - 2019 9th international conference on …, 2019 - ieeexplore.ieee.org",
+        "authors": [
+          {
+            "name": "M Siar",
+            "link": "https://scholar.google.com/citations?user=Jsvcl8sAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=Jsvcl8sAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "Jsvcl8sAAAAJ"
+          },
+          {
+            "name": "M Teshnehlab",
+            "link": "https://scholar.google.com/citations?user=QFZMqoQAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=QFZMqoQAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "QFZMqoQAAAAJ"
+          }
+        ]
+      },
+      "authors": [
+        "M Siar",
+        "M Teshnehlab"
+      ],
+      "year": 2019,
+      "citation_count": 282,
+      "venue": "M Siar, M Teshnehlab",
+      "search_keyword": "neural networks machine learning",
+      "scraped_at": "2025-08-30T17:25:45.515055",
+      "abstract": "… One of the most practical and important methods is to use Deep Neural Network (DNN). In this paper, a Convolutional Neural Network (CNN) has been used to detect a tumor through …"
+    },
+    {
+      "title": "A machine learning approach for predicting hidden links in supply chain with graph neural networks",
+      "link": "https://www.tandfonline.com/doi/abs/10.1080/00207543.2021.1956697",
+      "snippet": "… as a link prediction problem from the field of Machine Learning (ML) and propose the use of … the buyer with Graph Neural Networks (GNN). Using a real automotive network as a test case…",
+      "publication_info": {
+        "summary": "EE Kosasih, A Brintrup - International Journal of Production …, 2022 - Taylor & Francis",
+        "authors": [
+          {
+            "name": "EE Kosasih",
+            "link": "https://scholar.google.com/citations?user=FkVCqHIAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=FkVCqHIAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "FkVCqHIAAAAJ"
+          },
+          {
+            "name": "A Brintrup",
+            "link": "https://scholar.google.com/citations?user=8HJL8cAAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=8HJL8cAAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "8HJL8cAAAAAJ"
+          }
+        ]
+      },
+      "authors": [
+        "EE Kosasih",
+        "A Brintrup"
+      ],
+      "year": 2022,
+      "citation_count": 199,
+      "venue": "EE Kosasih, A Brintrup",
+      "search_keyword": "neural networks machine learning",
+      "scraped_at": "2025-08-30T17:25:45.515058",
+      "abstract": "… as a link prediction problem from the field of Machine Learning (ML) and propose the use of … the buyer with Graph Neural Networks (GNN). Using a real automotive network as a test case…"
+    },
+    {
+      "title": "Neural networks and statistical learning",
+      "link": "https://books.google.com/books?hl=en&lr=&id=wzK8BAAAQBAJ&oi=fnd&pg=PR8&dq=neural+networks+machine+learning&ots=7nU4tIqEe1&sig=G27DDT59E-aKlwG_V_e-jDezDVQ",
+      "snippet": "… knowledge of neural network or machine learning concepts. … all the major neural network models and statistical learning … of neural network and statistical learning approaches to …",
+      "publication_info": {
+        "summary": "KL Du, MNS Swamy - 2013 - books.google.com",
+        "authors": [
+          {
+            "name": "KL Du",
+            "link": "https://scholar.google.com/citations?user=DGGGG7oAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=DGGGG7oAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "DGGGG7oAAAAJ"
+          },
+          {
+            "name": "MNS Swamy",
+            "link": "https://scholar.google.com/citations?user=_CQfjBIAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=_CQfjBIAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "_CQfjBIAAAAJ"
+          }
+        ]
+      },
+      "authors": [
+        "KL Du",
+        "MNS Swamy"
+      ],
+      "year": 2013,
+      "citation_count": 912,
+      "venue": "KL Du, MNS Swamy",
+      "search_keyword": "neural networks machine learning",
+      "scraped_at": "2025-08-30T17:25:45.515061",
+      "abstract": "… knowledge of neural network or machine learning concepts. … all the major neural network models and statistical learning … of neural network and statistical learning approaches to …"
+    },
+    {
+      "title": "Neural networks for machine learning lecture 6a overview of mini-batch gradient descent",
+      "link": "http://www.cs.toronto.edu/~hinton/coursera/lecture6/lec6.pdf",
+      "snippet": "• The standard momentum method first computes the gradient at the current location and then takes a big jump in the direction of the updated accumulated gradient.• Ilya Sutskever(…",
+      "publication_info": {
+        "summary": "G Hinton, N Srivastava, K Swersky - Cited on, 2012 - cs.toronto.edu",
+        "authors": [
+          {
+            "name": "G Hinton",
+            "link": "https://scholar.google.com/citations?user=JicYPdAAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=JicYPdAAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "JicYPdAAAAAJ"
+          },
+          {
+            "name": "N Srivastava",
+            "link": "https://scholar.google.com/citations?user=s1PgoeUAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=s1PgoeUAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "s1PgoeUAAAAJ"
+          },
+          {
+            "name": "K Swersky",
+            "link": "https://scholar.google.com/citations?user=IrixA8MAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=IrixA8MAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "IrixA8MAAAAJ"
+          }
+        ]
+      },
+      "authors": [
+        "G Hinton",
+        "N Srivastava",
+        "K Swersky"
+      ],
+      "year": 2012,
+      "citation_count": 2489,
+      "venue": "G Hinton, N Srivastava, K Swersky",
+      "search_keyword": "neural networks machine learning",
+      "scraped_at": "2025-08-30T17:25:45.515064",
+      "abstract": "• The standard momentum method first computes the gradient at the current location and then takes a big jump in the direction of the updated accumulated gradient.• Ilya Sutskever(…"
+    },
+    {
+      "title": "A machine learning model for skin disease classification using convolution neural network",
+      "link": "https://www.researchgate.net/profile/Viswanatha-Allugunti-2/publication/361228242_A_machine_learning_model_for_skin_disease_classification_using_convolution_neural_network/links/62a46284a3fe3e3df86dc1d0/A-machine-learning-model-for-skin-disease-classification-using-convolution-neural-network.pdf",
+      "snippet": "… Deep learning (DL) and the standard non-parametric machine learning method are … topologies of the convolutional neural network (CNN), which are neural network algorithms. The …",
+      "publication_info": {
+        "summary": "VR Allugunti - … Journal of Computing, Programming and Database …, 2022 - researchgate.net"
+      },
+      "authors": [],
+      "year": 2022,
+      "citation_count": 256,
+      "venue": "VR Allugunti",
+      "search_keyword": "neural networks machine learning",
+      "scraped_at": "2025-08-30T17:25:45.515067",
+      "abstract": "… Deep learning (DL) and the standard non-parametric machine learning method are … topologies of the convolutional neural network (CNN), which are neural network algorithms. The …"
+    },
+    {
+      "title": "Performance evaluation of different machine learning methods and deep-learning based convolutional neural network for health decision making",
+      "link": "https://link.springer.com/chapter/10.1007/978-3-030-33820-6_8",
+      "snippet": "… which uses different layers of neural network that decide … different machine learning algorithms and deep neural networks … that convolution neural network based deep learning method …",
+      "publication_info": {
+        "summary": "AK Sahoo, C Pradhan, H Das - Nature inspired computing for data science, 2019 - Springer",
+        "authors": [
+          {
+            "name": "AK Sahoo",
+            "link": "https://scholar.google.com/citations?user=xaOLqGMAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=xaOLqGMAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "xaOLqGMAAAAJ"
+          },
+          {
+            "name": "C Pradhan",
+            "link": "https://scholar.google.com/citations?user=PAyEzaMAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=PAyEzaMAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "PAyEzaMAAAAJ"
+          },
+          {
+            "name": "H Das",
+            "link": "https://scholar.google.com/citations?user=OnjKfNQAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=OnjKfNQAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "OnjKfNQAAAAJ"
+          }
+        ]
+      },
+      "authors": [
+        "AK Sahoo",
+        "C Pradhan",
+        "H Das"
+      ],
+      "year": 2019,
+      "citation_count": 155,
+      "venue": "AK Sahoo, C Pradhan, H Das",
+      "search_keyword": "neural networks machine learning",
+      "scraped_at": "2025-08-30T17:25:45.515070",
+      "abstract": "… which uses different layers of neural network that decide … different machine learning algorithms and deep neural networks … that convolution neural network based deep learning method …"
+    },
+    {
+      "title": "SkyNet: an efficient and robust neural network training tool for machine learning in astronomy",
+      "link": "https://academic.oup.com/mnras/article-abstract/441/2/1741/1071156",
+      "snippet": "… of our generic neural network training algorithm, called SkyNet. This efficient and robust machine learning tool is able to train large and deep feed-forward neural networks, including …",
+      "publication_info": {
+        "summary": "P Graff, F Feroz, MP Hobson… - Monthly Notices of the …, 2014 - academic.oup.com",
+        "authors": [
+          {
+            "name": "P Graff",
+            "link": "https://scholar.google.com/citations?user=k9SFchAAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=k9SFchAAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "k9SFchAAAAAJ"
+          },
+          {
+            "name": "F Feroz",
+            "link": "https://scholar.google.com/citations?user=guO8l_MAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=guO8l_MAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "guO8l_MAAAAJ"
+          },
+          {
+            "name": "MP Hobson",
+            "link": "https://scholar.google.com/citations?user=3RE-fwkAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=3RE-fwkAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "3RE-fwkAAAAJ"
+          }
+        ]
+      },
+      "authors": [
+        "P Graff",
+        "F Feroz",
+        "MP Hobson"
+      ],
+      "year": 2014,
+      "citation_count": 146,
+      "venue": "P Graff, F Feroz, MP Hobson…",
+      "search_keyword": "neural networks machine learning",
+      "scraped_at": "2025-08-30T17:25:45.515073",
+      "abstract": "… of our generic neural network training algorithm, called SkyNet. This efficient and robust machine learning tool is able to train large and deep feed-forward neural networks, including …"
+    },
+    {
+      "title": "Machine learning for pore-water pressure time-series prediction: Application of recurrent neural networks",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1674987120301134",
+      "snippet": "… To explore the applicability and advantages of recurrent neural networks (RNNs) on PWP … ) are adopted and compared with a traditional static artificial neural network (ANN), ie, multi-…",
+      "publication_info": {
+        "summary": "X Wei, L Zhang, HQ Yang, L Zhang, YP Yao - Geoscience Frontiers, 2021 - Elsevier",
+        "authors": [
+          {
+            "name": "X Wei",
+            "link": "https://scholar.google.com/citations?user=Bs4I0eAAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=Bs4I0eAAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "Bs4I0eAAAAAJ"
+          },
+          {
+            "name": "L Zhang",
+            "link": "https://scholar.google.com/citations?user=8q4_VTEAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=8q4_VTEAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "8q4_VTEAAAAJ"
+          },
+          {
+            "name": "HQ Yang",
+            "link": "https://scholar.google.com/citations?user=A3NarnQAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=A3NarnQAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "A3NarnQAAAAJ"
+          },
+          {
+            "name": "L Zhang",
+            "link": "https://scholar.google.com/citations?user=pgbtUwkAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=pgbtUwkAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "pgbtUwkAAAAJ"
+          },
+          {
+            "name": "YP Yao",
+            "link": "https://scholar.google.com/citations?user=A4vwmeYAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=A4vwmeYAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "A4vwmeYAAAAJ"
+          }
+        ]
+      },
+      "authors": [
+        "X Wei",
+        "L Zhang",
+        "HQ Yang",
+        "L Zhang",
+        "YP Yao"
+      ],
+      "year": 2021,
+      "citation_count": 223,
+      "venue": "X Wei, L Zhang, HQ Yang, L Zhang, YP Yao",
+      "search_keyword": "neural networks machine learning",
+      "scraped_at": "2025-08-30T17:25:45.515077",
+      "abstract": "… To explore the applicability and advantages of recurrent neural networks (RNNs) on PWP … ) are adopted and compared with a traditional static artificial neural network (ANN), ie, multi-…"
+    },
+    {
+      "title": "Machine learning algorithms: a review",
+      "link": "https://www.academia.edu/download/59817925/IRJET-V6I217620190621-73452-h5pwu7.pdf",
+      "snippet": "… Neural networks The artificial neural network model is based on biological theory of neurons … The neurons of one layer are fully connected to neurons of next layer in the neural network […",
+      "publication_info": {
+        "summary": "D Pandey, K Niwaria, B Chourasia - Mach. Learn, 2019 - academia.edu"
+      },
+      "authors": [],
+      "year": 2019,
+      "citation_count": 4882,
+      "venue": "D Pandey, K Niwaria, B Chourasia",
+      "search_keyword": "neural networks machine learning",
+      "scraped_at": "2025-08-30T17:25:45.515079",
+      "abstract": "… Neural networks The artificial neural network model is based on biological theory of neurons … The neurons of one layer are fully connected to neurons of next layer in the neural network […"
+    },
+    {
+      "title": "Unifying machine learning and quantum chemistry with a deep neural network for molecular wavefunctions",
+      "link": "https://www.nature.com/articles/s41467-019-12875-2",
+      "snippet": "… We train separate neural networks for several data sets of water as well as ethanol, … Details on the neural network architecture In the following we describe the neural network …",
+      "publication_info": {
+        "summary": "KT Schütt, M Gastegger, A Tkatchenko… - Nature …, 2019 - nature.com",
+        "authors": [
+          {
+            "name": "KT Schütt",
+            "link": "https://scholar.google.com/citations?user=0e49RfgAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=0e49RfgAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "0e49RfgAAAAJ"
+          },
+          {
+            "name": "M Gastegger",
+            "link": "https://scholar.google.com/citations?user=7uRFCHMAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=7uRFCHMAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "7uRFCHMAAAAJ"
+          },
+          {
+            "name": "A Tkatchenko",
+            "link": "https://scholar.google.com/citations?user=o2t1Pv8AAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=o2t1Pv8AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "o2t1Pv8AAAAJ"
+          }
+        ]
+      },
+      "authors": [
+        "KT Schütt",
+        "M Gastegger",
+        "A Tkatchenko"
+      ],
+      "year": 2019,
+      "citation_count": 545,
+      "venue": "KT Schütt, M Gastegger, A Tkatchenko…",
+      "search_keyword": "neural networks machine learning",
+      "scraped_at": "2025-08-30T17:25:45.515082",
+      "abstract": "… We train separate neural networks for several data sets of water as well as ethanol, … Details on the neural network architecture In the following we describe the neural network …"
+    },
+    {
+      "title": "Solar radiation machine learning production depend on training neural networks with ant colony optimization algorithms",
+      "link": "https://www.researchgate.net/profile/El-Sayed-El-Kenawy/publication/342134825_Solar_Radiation_Machine_Learning_Production_Depend_on_Training_Neural_Networks_with_Ant_Colony_Optimization_Algorithms/links/5efbefc1a6fdcc4ca4407f7d/Solar-Radiation-Machine-Learning-Production-Depend-on-Training-Neural-Networks-with-Ant-Colony-Optimization-Algorithms.pdf",
+      "snippet": "… This paper investigates new machine learning model meanly depend on an Artificial Neural Network (ANN) and Ant Colony Optimization (ACO). The prediction accuracy of the solar …",
+      "publication_info": {
+        "summary": "E El-kenawy - International Journal of Advanced Research in …, 2018 - researchgate.net"
+      },
+      "authors": [],
+      "year": 2018,
+      "citation_count": 179,
+      "venue": "E El-kenawy",
+      "search_keyword": "neural networks machine learning",
+      "scraped_at": "2025-08-30T17:25:45.515086",
+      "abstract": "… This paper investigates new machine learning model meanly depend on an Artificial Neural Network (ANN) and Ant Colony Optimization (ACO). The prediction accuracy of the solar …"
+    },
+    {
+      "title": "Machine learning predictive models for mineral prospectivity: An evaluation of neural networks, random forest, regression trees and support vector machines",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0169136815000037",
+      "snippet": "… The performances of a series of MLAs, namely, artificial neural networks (ANNs), regression trees (RTs), random forest (RF) and support vector machines (SVMs) in mineral …",
+      "publication_info": {
+        "summary": "V Rodriguez-Galiano, M Sanchez-Castillo… - Ore geology …, 2015 - Elsevier",
+        "authors": [
+          {
+            "name": "V Rodriguez-Galiano",
+            "link": "https://scholar.google.com/citations?user=TGnU5-AAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=TGnU5-AAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "TGnU5-AAAAAJ"
+          }
+        ]
+      },
+      "authors": [
+        "V Rodriguez-Galiano"
+      ],
+      "year": 2015,
+      "citation_count": 1593,
+      "venue": "V Rodriguez-Galiano, M Sanchez-Castillo…",
+      "search_keyword": "neural networks machine learning",
+      "scraped_at": "2025-08-30T17:25:45.515089",
+      "abstract": "… The performances of a series of MLAs, namely, artificial neural networks (ANNs), regression trees (RTs), random forest (RF) and support vector machines (SVMs) in mineral …"
+    },
+    {
+      "title": "Overview of artificial neural networks",
+      "link": "https://link.springer.com/content/pdf/10.1007/978-1-60327-101-1.pdf#page=24",
+      "snippet": "… Abstract The artificial neural network (ANN), or simply neural network, is a machine learning … Several commonly used learning methods and network setups are discussed briefly at the …",
+      "publication_info": {
+        "summary": "J Zou, Y Han, SS So - Artificial neural networks: methods and applications, 2008 - Springer",
+        "authors": [
+          {
+            "name": "SS So",
+            "link": "https://scholar.google.com/citations?user=ZFt0g1UAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=ZFt0g1UAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "ZFt0g1UAAAAJ"
+          }
+        ]
+      },
+      "authors": [
+        "SS So"
+      ],
+      "year": 2008,
+      "citation_count": 917,
+      "venue": "J Zou, Y Han, SS So",
+      "search_keyword": "neural networks machine learning",
+      "scraped_at": "2025-08-30T17:25:45.515092",
+      "abstract": "… Abstract The artificial neural network (ANN), or simply neural network, is a machine learning … Several commonly used learning methods and network setups are discussed briefly at the …"
+    },
+    {
+      "title": "Comparing the prediction performance of a Deep Learning Neural Network model with conventional machine learning models in landslide susceptibility assessment",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0341816219305685",
+      "snippet": "… Learning Neural Network (DLNN) model in landslide susceptibility assessments and compare its predictive performance with state-of-the-art machine learning … The learning ability of the …",
+      "publication_info": {
+        "summary": "DT Bui, P Tsangaratos, VT Nguyen, N Van Liem… - Catena, 2020 - Elsevier",
+        "authors": [
+          {
+            "name": "P Tsangaratos",
+            "link": "https://scholar.google.com/citations?user=orhdj54AAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=orhdj54AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "orhdj54AAAAJ"
+          },
+          {
+            "name": "N Van Liem",
+            "link": "https://scholar.google.com/citations?user=2gG2HP4AAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=2gG2HP4AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "2gG2HP4AAAAJ"
+          }
+        ]
+      },
+      "authors": [
+        "P Tsangaratos",
+        "N Van Liem"
+      ],
+      "year": 2020,
+      "citation_count": 444,
+      "venue": "DT Bui, P Tsangaratos, VT Nguyen, N Van Liem…",
+      "search_keyword": "neural networks machine learning",
+      "scraped_at": "2025-08-30T17:25:45.515096",
+      "abstract": "… Learning Neural Network (DLNN) model in landslide susceptibility assessments and compare its predictive performance with state-of-the-art machine learning … The learning ability of the …"
+    },
+    {
+      "title": "State-of-charge estimation of Li-ion batteries using deep neural networks: A machine learning approach",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0378775318307080",
+      "snippet": "… In this paper, a novel approach using Deep Feedforward Neural Networks (DNN) is used for battery SOC estimation where battery measurements are directly mapped to SOC. Training …",
+      "publication_info": {
+        "summary": "E Chemali, PJ Kollmeyer, M Preindl, A Emadi - Journal of Power Sources, 2018 - Elsevier",
+        "authors": [
+          {
+            "name": "E Chemali",
+            "link": "https://scholar.google.com/citations?user=1koGbsYAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=1koGbsYAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "1koGbsYAAAAJ"
+          },
+          {
+            "name": "PJ Kollmeyer",
+            "link": "https://scholar.google.com/citations?user=lv--0icAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=lv--0icAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "lv--0icAAAAJ"
+          },
+          {
+            "name": "M Preindl",
+            "link": "https://scholar.google.com/citations?user=5yQsBEMAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=5yQsBEMAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "5yQsBEMAAAAJ"
+          },
+          {
+            "name": "A Emadi",
+            "link": "https://scholar.google.com/citations?user=f576KTMAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=f576KTMAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "f576KTMAAAAJ"
+          }
+        ]
+      },
+      "authors": [
+        "E Chemali",
+        "PJ Kollmeyer",
+        "M Preindl",
+        "A Emadi"
+      ],
+      "year": 2018,
+      "citation_count": 821,
+      "venue": "E Chemali, PJ Kollmeyer, M Preindl, A Emadi",
+      "search_keyword": "neural networks machine learning",
+      "scraped_at": "2025-08-30T17:25:45.515099",
+      "abstract": "… In this paper, a novel approach using Deep Feedforward Neural Networks (DNN) is used for battery SOC estimation where battery measurements are directly mapped to SOC. Training …"
+    },
+    {
+      "title": "Deep learning in neural networks: An overview",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0893608014002135",
+      "snippet": "… neural networks (including recurrent ones) have won numerous contests in pattern recognition and machine learning… I review deep supervised learning (also recapitulating the history of …",
+      "publication_info": {
+        "summary": "J Schmidhuber - Neural networks, 2015 - Elsevier",
+        "authors": [
+          {
+            "name": "J Schmidhuber",
+            "link": "https://scholar.google.com/citations?user=gLnCTgIAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=gLnCTgIAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "gLnCTgIAAAAJ"
+          }
+        ]
+      },
+      "authors": [
+        "J Schmidhuber"
+      ],
+      "year": 2015,
+      "citation_count": 25580,
+      "venue": "J Schmidhuber",
+      "search_keyword": "neural networks machine learning",
+      "scraped_at": "2025-08-30T17:25:45.515101",
+      "abstract": "… neural networks (including recurrent ones) have won numerous contests in pattern recognition and machine learning… I review deep supervised learning (also recapitulating the history of …"
+    }
+  ]
+}

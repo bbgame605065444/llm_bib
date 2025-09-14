@@ -1,0 +1,1 @@
+python conference_links.py --base-url https://papers.cool/venue/AAAI?show=5000 --conf-csv AAAI2025_conferences.csv --all-csv my_all_links.csv

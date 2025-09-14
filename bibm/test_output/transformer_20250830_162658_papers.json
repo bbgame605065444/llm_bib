@@ -1,0 +1,794 @@
+{
+  "metadata": {
+    "search_keyword": "transformer",
+    "total_results": 20,
+    "scraped_at": "2025-08-30T16:26:58.679856",
+    "scraper_version": "1.0"
+  },
+  "results": [
+    {
+      "title": "Transformer in transformer",
+      "link": "https://proceedings.neurips.cc/paper/2021/hash/854d9fca60b4bd07f9bb215d59ef5561-Abstract.html",
+      "snippet": "… Transformer is a new kind of neural architecture which encodes the input data as powerful features via the attention mechanism. Basically, the visual transformers … visual transformers …",
+      "publication_info": {
+        "summary": "K Han, A Xiao, E Wu, J Guo, C Xu… - Advances in neural …, 2021 - proceedings.neurips.cc",
+        "authors": [
+          {
+            "name": "K Han",
+            "link": "https://scholar.google.com/citations?user=vThoBVcAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=vThoBVcAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "vThoBVcAAAAJ"
+          },
+          {
+            "name": "A Xiao",
+            "link": "https://scholar.google.com/citations?user=Q2J2qK4AAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=Q2J2qK4AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "Q2J2qK4AAAAJ"
+          },
+          {
+            "name": "J Guo",
+            "link": "https://scholar.google.com/citations?user=UnAbd4gAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=UnAbd4gAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "UnAbd4gAAAAJ"
+          },
+          {
+            "name": "C Xu",
+            "link": "https://scholar.google.com/citations?user=-CJ5LkMAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=-CJ5LkMAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "-CJ5LkMAAAAJ"
+          }
+        ]
+      },
+      "authors": [
+        "K Han",
+        "A Xiao",
+        "J Guo",
+        "C Xu"
+      ],
+      "year": 2021,
+      "citation_count": 2351,
+      "venue": "K Han, A Xiao, E Wu, J Guo, C Xu…",
+      "search_keyword": "transformer",
+      "scraped_at": "2025-08-30T16:26:58.679680",
+      "abstract": "… Transformer is a new kind of neural architecture which encodes the input data as powerful features via the attention mechanism. Basically, the visual transformers … visual transformers …"
+    },
+    {
+      "title": "A survey on vision transformer",
+      "link": "https://ieeexplore.ieee.org/abstract/document/9716741/",
+      "snippet": "… transformer is receiving more and more attention from the computer vision community. In this paper, we review these vision transformer … transformer methods for pushing transformer into …",
+      "publication_info": {
+        "summary": "K Han, Y Wang, H Chen, X Chen, J Guo… - IEEE transactions on …, 2022 - ieeexplore.ieee.org",
+        "authors": [
+          {
+            "name": "K Han",
+            "link": "https://scholar.google.com/citations?user=vThoBVcAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=vThoBVcAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "vThoBVcAAAAJ"
+          },
+          {
+            "name": "Y Wang",
+            "link": "https://scholar.google.com/citations?user=isizOkYAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=isizOkYAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "isizOkYAAAAJ"
+          },
+          {
+            "name": "H Chen",
+            "link": "https://scholar.google.com/citations?user=wZ9N88gAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=wZ9N88gAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "wZ9N88gAAAAJ"
+          },
+          {
+            "name": "X Chen",
+            "link": "https://scholar.google.com/citations?user=tuGWUVIAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=tuGWUVIAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "tuGWUVIAAAAJ"
+          },
+          {
+            "name": "J Guo",
+            "link": "https://scholar.google.com/citations?user=UnAbd4gAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=UnAbd4gAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "UnAbd4gAAAAJ"
+          }
+        ]
+      },
+      "authors": [
+        "K Han",
+        "Y Wang",
+        "H Chen",
+        "X Chen",
+        "J Guo"
+      ],
+      "year": 2022,
+      "citation_count": 3826,
+      "venue": "K Han, Y Wang, H Chen, X Chen, J Guo…",
+      "search_keyword": "transformer",
+      "scraped_at": "2025-08-30T16:26:58.679696",
+      "abstract": "… transformer is receiving more and more attention from the computer vision community. In this paper, we review these vision transformer … transformer methods for pushing transformer into …"
+    },
+    {
+      "title": "Image transformer",
+      "link": "http://proceedings.mlr.press/v80/parmar18a.html",
+      "snippet": "Image generation has been successfully cast as an autoregressive sequence generation or transformation problem. Recent work has shown that self-attention is an effective way of …",
+      "publication_info": {
+        "summary": "N Parmar, A Vaswani, J Uszkoreit… - International …, 2018 - proceedings.mlr.press",
+        "authors": [
+          {
+            "name": "N Parmar",
+            "link": "https://scholar.google.com/citations?user=q2YXPSgAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=q2YXPSgAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "q2YXPSgAAAAJ"
+          },
+          {
+            "name": "A Vaswani",
+            "link": "https://scholar.google.com/citations?user=oR9sCGYAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=oR9sCGYAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "oR9sCGYAAAAJ"
+          },
+          {
+            "name": "J Uszkoreit",
+            "link": "https://scholar.google.com/citations?user=mOG0bwsAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=mOG0bwsAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "mOG0bwsAAAAJ"
+          }
+        ]
+      },
+      "authors": [
+        "N Parmar",
+        "A Vaswani",
+        "J Uszkoreit"
+      ],
+      "year": 2018,
+      "citation_count": 2390,
+      "venue": "N Parmar, A Vaswani, J Uszkoreit…",
+      "search_keyword": "transformer",
+      "scraped_at": "2025-08-30T16:26:58.679702",
+      "abstract": "Image generation has been successfully cast as an autoregressive sequence generation or transformation problem. Recent work has shown that self-attention is an effective way of …"
+    },
+    {
+      "title": "Point transformer",
+      "link": "https://openaccess.thecvf.com/content/ICCV2021/html/Zhao_Point_Transformer_ICCV_2021_paper.html?ref=;",
+      "snippet": "… We begin by briefly revisiting the general formulation of transformers and self-attention operators. Then we present the point transformer layer for 3D point cloud processing. Lastly, we …",
+      "publication_info": {
+        "summary": "H Zhao, L Jiang, J Jia, PHS Torr… - Proceedings of the …, 2021 - openaccess.thecvf.com",
+        "authors": [
+          {
+            "name": "H Zhao",
+            "link": "https://scholar.google.com/citations?user=4uE10I0AAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=4uE10I0AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "4uE10I0AAAAJ"
+          },
+          {
+            "name": "L Jiang",
+            "link": "https://scholar.google.com/citations?user=5cIodxsAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=5cIodxsAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "5cIodxsAAAAJ"
+          },
+          {
+            "name": "J Jia",
+            "link": "https://scholar.google.com/citations?user=XPAkzTEAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=XPAkzTEAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "XPAkzTEAAAAJ"
+          },
+          {
+            "name": "PHS Torr",
+            "link": "https://scholar.google.com/citations?user=kPxa2w0AAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=kPxa2w0AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "kPxa2w0AAAAJ"
+          }
+        ]
+      },
+      "authors": [
+        "H Zhao",
+        "L Jiang",
+        "J Jia",
+        "PHS Torr"
+      ],
+      "year": 2021,
+      "citation_count": 3030,
+      "venue": "H Zhao, L Jiang, J Jia, PHS Torr…",
+      "search_keyword": "transformer",
+      "scraped_at": "2025-08-30T16:26:58.679706",
+      "abstract": "… We begin by briefly revisiting the general formulation of transformers and self-attention operators. Then we present the point transformer layer for 3D point cloud processing. Lastly, we …"
+    },
+    {
+      "title": "Transformer engineering",
+      "link": "https://api.taylorfrancis.com/content/books/mono/download?identifierName=doi&identifierValue=10.1201/b13011&type=googlepdf",
+      "snippet": "… of transformers: rectifier transformers, HVDC converter transformers, furnace transformers, … , gas-insulated transformers are lighter than oil-immersed transformers. The dielectric strength …",
+      "publication_info": {
+        "summary": "SV Kulkarni, SA Khaparde - 2004 - api.taylorfrancis.com",
+        "authors": [
+          {
+            "name": "SV Kulkarni",
+            "link": "https://scholar.google.com/citations?user=udLCYSQAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=udLCYSQAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "udLCYSQAAAAJ"
+          },
+          {
+            "name": "SA Khaparde",
+            "link": "https://scholar.google.com/citations?user=mPlbpUAAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=mPlbpUAAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "mPlbpUAAAAAJ"
+          }
+        ]
+      },
+      "authors": [
+        "SV Kulkarni",
+        "SA Khaparde"
+      ],
+      "year": 2004,
+      "citation_count": 1535,
+      "venue": "SV Kulkarni, SA Khaparde",
+      "search_keyword": "transformer",
+      "scraped_at": "2025-08-30T16:26:58.679710",
+      "abstract": "… of transformers: rectifier transformers, HVDC converter transformers, furnace transformers, … , gas-insulated transformers are lighter than oil-immersed transformers. The dielectric strength …"
+    },
+    {
+      "title": "Reformer: The efficient transformer",
+      "link": "https://arxiv.org/abs/2001.04451",
+      "snippet": "… We call a model that behaves like this a shared-QK Transformer. It turns out that sharing QK does not affect the performance of Transformer, even if we additionally normalize the length …",
+      "publication_info": {
+        "summary": "N Kitaev, Ł Kaiser, A Levskaya - arXiv preprint arXiv:2001.04451, 2020 - arxiv.org",
+        "authors": [
+          {
+            "name": "N Kitaev",
+            "link": "https://scholar.google.com/citations?user=ikq9m9QAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=ikq9m9QAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "ikq9m9QAAAAJ"
+          },
+          {
+            "name": "Ł Kaiser",
+            "link": "https://scholar.google.com/citations?user=JWmiQR0AAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=JWmiQR0AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "JWmiQR0AAAAJ"
+          },
+          {
+            "name": "A Levskaya",
+            "link": "https://scholar.google.com/citations?user=dN9QZfEAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=dN9QZfEAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "dN9QZfEAAAAJ"
+          }
+        ]
+      },
+      "authors": [
+        "N Kitaev",
+        "Ł Kaiser",
+        "A Levskaya"
+      ],
+      "year": 2001,
+      "citation_count": 3759,
+      "venue": "N Kitaev, Ł Kaiser, A Levskaya",
+      "search_keyword": "transformer",
+      "scraped_at": "2025-08-30T16:26:58.679714",
+      "abstract": "… We call a model that behaves like this a shared-QK Transformer. It turns out that sharing QK does not affect the performance of Transformer, even if we additionally normalize the length …"
+    },
+    {
+      "title": "The illustrated transformer",
+      "link": "http://ql2or36v53.dating.yourdigitalperson.com/xszIN024T.pdf",
+      "snippet": "… Transformer – a model that uses attention to boost the speed with which these models can be trained. The Transformer … The biggest benefit, however, comes from how The Transformer …",
+      "publication_info": {
+        "summary": "J Alammar - The Illustrated Transformer–Jay …, 2018 - ql2or36v53.dating.yourdigitalperson …",
+        "authors": [
+          {
+            "name": "J Alammar",
+            "link": "https://scholar.google.com/citations?user=EXmtWyoAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=EXmtWyoAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "EXmtWyoAAAAJ"
+          }
+        ]
+      },
+      "authors": [
+        "J Alammar"
+      ],
+      "year": 2018,
+      "citation_count": 423,
+      "venue": "J Alammar",
+      "search_keyword": "transformer",
+      "scraped_at": "2025-08-30T16:26:58.679717",
+      "abstract": "… Transformer – a model that uses attention to boost the speed with which these models can be trained. The Transformer … The biggest benefit, however, comes from how The Transformer …"
+    },
+    {
+      "title": "MSA transformer",
+      "link": "http://proceedings.mlr.press/v139/rao21a.html?utm_source=miragenews&utm_medium=miragenews&utm_campaign=news",
+      "snippet": "Unsupervised protein language models trained across millions of diverse sequences learn structure and function of proteins. Protein language models studied to date have been …",
+      "publication_info": {
+        "summary": "RM Rao, J Liu, R Verkuil, J Meier… - International …, 2021 - proceedings.mlr.press",
+        "authors": [
+          {
+            "name": "RM Rao",
+            "link": "https://scholar.google.com/citations?user=LasDaRkAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=LasDaRkAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "LasDaRkAAAAJ"
+          },
+          {
+            "name": "J Meier",
+            "link": "https://scholar.google.com/citations?user=2M0OltAAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=2M0OltAAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "2M0OltAAAAAJ"
+          }
+        ]
+      },
+      "authors": [
+        "RM Rao",
+        "J Meier"
+      ],
+      "year": 2021,
+      "citation_count": 838,
+      "venue": "RM Rao, J Liu, R Verkuil, J Meier…",
+      "search_keyword": "transformer",
+      "scraped_at": "2025-08-30T16:26:58.679721",
+      "abstract": "Unsupervised protein language models trained across millions of diverse sequences learn structure and function of proteins. Protein language models studied to date have been …"
+    },
+    {
+      "title": "Rwkv: Reinventing rnns for the transformer era",
+      "link": "https://arxiv.org/abs/2305.13048",
+      "snippet": "Transformers have revolutionized almost all natural … to match the same performance as Transformers due to limitations in … efficient parallelizable training of transformers with the efficient …",
+      "publication_info": {
+        "summary": "B Peng, E Alcaide, Q Anthony, A Albalak… - arXiv preprint arXiv …, 2023 - arxiv.org",
+        "authors": [
+          {
+            "name": "Q Anthony",
+            "link": "https://scholar.google.com/citations?user=GDm6BIAAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=GDm6BIAAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "GDm6BIAAAAAJ"
+          },
+          {
+            "name": "A Albalak",
+            "link": "https://scholar.google.com/citations?user=F6J_7d8AAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=F6J_7d8AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "F6J_7d8AAAAJ"
+          }
+        ]
+      },
+      "authors": [
+        "Q Anthony",
+        "A Albalak"
+      ],
+      "year": 2023,
+      "citation_count": 739,
+      "venue": "B Peng, E Alcaide, Q Anthony, A Albalak…",
+      "search_keyword": "transformer",
+      "scraped_at": "2025-08-30T16:26:58.679724",
+      "abstract": "Transformers have revolutionized almost all natural … to match the same performance as Transformers due to limitations in … efficient parallelizable training of transformers with the efficient …"
+    },
+    {
+      "title": "Transformer technology in molecular science",
+      "link": "https://wires.onlinelibrary.wiley.com/doi/abs/10.1002/wcms.1725",
+      "snippet": "… of transformers in molecular science are very widespread, in this review, we only focus on the technical aspects of transformer … into the algorithms of transformer-based machine learning …",
+      "publication_info": {
+        "summary": "J Jiang, L Ke, L Chen, B Dou, Y Zhu… - Wiley …, 2024 - Wiley Online Library",
+        "authors": [
+          {
+            "name": "J Jiang",
+            "link": "https://scholar.google.com/citations?user=W1M1PEUAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=W1M1PEUAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "W1M1PEUAAAAJ"
+          },
+          {
+            "name": "L Chen",
+            "link": "https://scholar.google.com/citations?user=GYBIciwAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=GYBIciwAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "GYBIciwAAAAJ"
+          }
+        ]
+      },
+      "authors": [
+        "J Jiang",
+        "L Chen"
+      ],
+      "year": 2024,
+      "citation_count": 32,
+      "venue": "J Jiang, L Ke, L Chen, B Dou, Y Zhu…",
+      "search_keyword": "transformer",
+      "scraped_at": "2025-08-30T16:26:58.679727",
+      "abstract": "… of transformers in molecular science are very widespread, in this review, we only focus on the technical aspects of transformer … into the algorithms of transformer-based machine learning …"
+    },
+    {
+      "title": "The J & P transformer book: a practical technology of the power transformer",
+      "link": "https://books.google.com/books?hl=en&lr=&id=qjR6kTmZvmQC&oi=fnd&pg=PR9&dq=transformer&ots=_UGDcuX3yF&sig=S5fDn-XSyYoypMgStfPOgZlgQJA",
+      "snippet": "… ; Installation of transformers; Designing an installation. The J & P Transformer Book is the … design, installation, and maintenance of power transformers. It is also invaluable as a textbook …",
+      "publication_info": {
+        "summary": "MJ Heathcote - 1998 - books.google.com"
+      },
+      "authors": [],
+      "year": 1998,
+      "citation_count": 859,
+      "venue": "MJ Heathcote",
+      "search_keyword": "transformer",
+      "scraped_at": "2025-08-30T16:26:58.679730",
+      "abstract": "… ; Installation of transformers; Designing an installation. The J & P Transformer Book is the … design, installation, and maintenance of power transformers. It is also invaluable as a textbook …"
+    },
+    {
+      "title": "Video swin transformer",
+      "link": "http://openaccess.thecvf.com/content/CVPR2022/html/Liu_Video_Swin_Transformer_CVPR_2022_paper.html",
+      "snippet": "… CNNs to Transformers, where pure Transformer architectures … These video models are all built on Transformer layers that … bias of locality in video Transformers, which leads to a better …",
+      "publication_info": {
+        "summary": "Z Liu, J Ning, Y Cao, Y Wei, Z Zhang… - Proceedings of the …, 2022 - openaccess.thecvf.com",
+        "authors": [
+          {
+            "name": "Z Liu",
+            "link": "https://scholar.google.com/citations?user=9DbprTIAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=9DbprTIAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "9DbprTIAAAAJ"
+          },
+          {
+            "name": "J Ning",
+            "link": "https://scholar.google.com/citations?user=hW0AexsAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=hW0AexsAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "hW0AexsAAAAJ"
+          },
+          {
+            "name": "Y Cao",
+            "link": "https://scholar.google.com/citations?user=iRUO1ckAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=iRUO1ckAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "iRUO1ckAAAAJ"
+          },
+          {
+            "name": "Y Wei",
+            "link": "https://scholar.google.com/citations?user=xwudKb4AAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=xwudKb4AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "xwudKb4AAAAJ"
+          }
+        ]
+      },
+      "authors": [
+        "Z Liu",
+        "J Ning",
+        "Y Cao",
+        "Y Wei"
+      ],
+      "year": 2022,
+      "citation_count": 2551,
+      "venue": "Z Liu, J Ning, Y Cao, Y Wei, Z Zhang…",
+      "search_keyword": "transformer",
+      "scraped_at": "2025-08-30T16:26:58.679733",
+      "abstract": "… CNNs to Transformers, where pure Transformer architectures … These video models are all built on Transformer layers that … bias of locality in video Transformers, which leads to a better …"
+    },
+    {
+      "title": "A survey on visual transformer",
+      "link": "https://arxiv.org/abs/2012.12556",
+      "snippet": "… transformer is receiving more and more attention from the computer vision community. In this paper, we review these vision transformer … transformer methods for pushing transformer into …",
+      "publication_info": {
+        "summary": "K Han, Y Wang, H Chen, X Chen, J Guo, Z Liu… - arXiv preprint arXiv …, 2020 - arxiv.org",
+        "authors": [
+          {
+            "name": "K Han",
+            "link": "https://scholar.google.com/citations?user=vThoBVcAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=vThoBVcAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "vThoBVcAAAAJ"
+          },
+          {
+            "name": "Y Wang",
+            "link": "https://scholar.google.com/citations?user=isizOkYAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=isizOkYAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "isizOkYAAAAJ"
+          },
+          {
+            "name": "H Chen",
+            "link": "https://scholar.google.com/citations?user=wZ9N88gAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=wZ9N88gAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "wZ9N88gAAAAJ"
+          },
+          {
+            "name": "X Chen",
+            "link": "https://scholar.google.com/citations?user=tuGWUVIAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=tuGWUVIAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "tuGWUVIAAAAJ"
+          },
+          {
+            "name": "J Guo",
+            "link": "https://scholar.google.com/citations?user=UnAbd4gAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=UnAbd4gAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "UnAbd4gAAAAJ"
+          },
+          {
+            "name": "Z Liu",
+            "link": "https://scholar.google.com/citations?user=bihqxP4AAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=bihqxP4AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "bihqxP4AAAAJ"
+          }
+        ]
+      },
+      "authors": [
+        "K Han",
+        "Y Wang",
+        "H Chen",
+        "X Chen",
+        "J Guo",
+        "Z Liu"
+      ],
+      "year": 2020,
+      "citation_count": 429,
+      "venue": "K Han, Y Wang, H Chen, X Chen, J Guo, Z Liu…",
+      "search_keyword": "transformer",
+      "scraped_at": "2025-08-30T16:26:58.679736",
+      "abstract": "… transformer is receiving more and more attention from the computer vision community. In this paper, we review these vision transformer … transformer methods for pushing transformer into …"
+    },
+    {
+      "title": "Transformer tracking",
+      "link": "http://openaccess.thecvf.com/content/CVPR2021/html/Chen_Transformer_Tracking_CVPR_2021_paper.html",
+      "snippet": "… [22]), we attempt to introduce Transformer into the tracking field. Different from DETR, … Transformer as it is not very matched with the tracking task. We adopt the core idea of Transformer …",
+      "publication_info": {
+        "summary": "X Chen, B Yan, J Zhu, D Wang… - Proceedings of the …, 2021 - openaccess.thecvf.com",
+        "authors": [
+          {
+            "name": "X Chen",
+            "link": "https://scholar.google.com/citations?user=A04HWTIAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=A04HWTIAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "A04HWTIAAAAJ"
+          },
+          {
+            "name": "B Yan",
+            "link": "https://scholar.google.com/citations?user=3f8qn4cAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=3f8qn4cAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "3f8qn4cAAAAJ"
+          },
+          {
+            "name": "J Zhu",
+            "link": "https://scholar.google.com/citations?user=j_gYsS8AAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=j_gYsS8AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "j_gYsS8AAAAJ"
+          },
+          {
+            "name": "D Wang",
+            "link": "https://scholar.google.com/citations?user=nVgPQpoAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=nVgPQpoAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "nVgPQpoAAAAJ"
+          }
+        ]
+      },
+      "authors": [
+        "X Chen",
+        "B Yan",
+        "J Zhu",
+        "D Wang"
+      ],
+      "year": 2021,
+      "citation_count": 1597,
+      "venue": "X Chen, B Yan, J Zhu, D Wang…",
+      "search_keyword": "transformer",
+      "scraped_at": "2025-08-30T16:26:58.679740",
+      "abstract": "… [22]), we attempt to introduce Transformer into the tracking field. Different from DETR, … Transformer as it is not very matched with the tracking task. We adopt the core idea of Transformer …"
+    },
+    {
+      "title": "Transformer for graphs: An overview from architecture perspective",
+      "link": "https://arxiv.org/abs/2202.08455",
+      "snippet": "… systematic evaluations for these Transformer variants are, however… Transformers in graph-structured data. Concretely, we provide a comprehensive review of over 20 Graph …",
+      "publication_info": {
+        "summary": "E Min, R Chen, Y Bian, T Xu, K Zhao, W Huang… - arXiv preprint arXiv …, 2022 - arxiv.org",
+        "authors": [
+          {
+            "name": "E Min",
+            "link": "https://scholar.google.com/citations?user=u4bYF3UAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=u4bYF3UAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "u4bYF3UAAAAJ"
+          },
+          {
+            "name": "Y Bian",
+            "link": "https://scholar.google.com/citations?user=oZBTlBkAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=oZBTlBkAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "oZBTlBkAAAAJ"
+          },
+          {
+            "name": "T Xu",
+            "link": "https://scholar.google.com/citations?user=6gIs5YMAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=6gIs5YMAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "6gIs5YMAAAAJ"
+          },
+          {
+            "name": "K Zhao",
+            "link": "https://scholar.google.com/citations?user=ZPCRhOsAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=ZPCRhOsAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "ZPCRhOsAAAAJ"
+          },
+          {
+            "name": "W Huang",
+            "link": "https://scholar.google.com/citations?user=0yNkmO4AAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=0yNkmO4AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "0yNkmO4AAAAJ"
+          }
+        ]
+      },
+      "authors": [
+        "E Min",
+        "Y Bian",
+        "T Xu",
+        "K Zhao",
+        "W Huang"
+      ],
+      "year": 2022,
+      "citation_count": 248,
+      "venue": "E Min, R Chen, Y Bian, T Xu, K Zhao, W Huang…",
+      "search_keyword": "transformer",
+      "scraped_at": "2025-08-30T16:26:58.679744",
+      "abstract": "… systematic evaluations for these Transformer variants are, however… Transformers in graph-structured data. Concretely, we provide a comprehensive review of over 20 Graph …"
+    },
+    {
+      "title": "A review of transformer losses",
+      "link": "https://www.tandfonline.com/doi/abs/10.1080/15325000902918990",
+      "snippet": "… This article presents an extensive survey of current research on the transformer loss … the transformer loss problem remains an active research area. This article classified the transformer …",
+      "publication_info": {
+        "summary": "JC Olivares-Galván, PS Georgilakis… - Electric Power …, 2009 - Taylor & Francis",
+        "authors": [
+          {
+            "name": "JC Olivares-Galván",
+            "link": "https://scholar.google.com/citations?user=IuBR4NUAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=IuBR4NUAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "IuBR4NUAAAAJ"
+          },
+          {
+            "name": "PS Georgilakis",
+            "link": "https://scholar.google.com/citations?user=BngAZzAAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=BngAZzAAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "BngAZzAAAAAJ"
+          }
+        ]
+      },
+      "authors": [
+        "JC Olivares-Galván",
+        "PS Georgilakis"
+      ],
+      "year": 2009,
+      "citation_count": 106,
+      "venue": "JC Olivares-Galván, PS Georgilakis…",
+      "search_keyword": "transformer",
+      "scraped_at": "2025-08-30T16:26:58.679747",
+      "abstract": "… This article presents an extensive survey of current research on the transformer loss … the transformer loss problem remains an active research area. This article classified the transformer …"
+    },
+    {
+      "title": "Longformer: The long-document transformer",
+      "link": "https://arxiv.org/abs/2004.05150",
+      "snippet": "Transformer-based models are unable to process long sequences due to their self-attention … Following prior work on long-sequence transformers, we evaluate Longformer on character-…",
+      "publication_info": {
+        "summary": "I Beltagy, ME Peters, A Cohan - arXiv preprint arXiv:2004.05150, 2020 - arxiv.org",
+        "authors": [
+          {
+            "name": "I Beltagy",
+            "link": "https://scholar.google.com/citations?user=jkV6H1gAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=jkV6H1gAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "jkV6H1gAAAAJ"
+          },
+          {
+            "name": "ME Peters",
+            "link": "https://scholar.google.com/citations?user=K5nCPZwAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=K5nCPZwAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "K5nCPZwAAAAJ"
+          },
+          {
+            "name": "A Cohan",
+            "link": "https://scholar.google.com/citations?user=baI7IY0AAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=baI7IY0AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "baI7IY0AAAAJ"
+          }
+        ]
+      },
+      "authors": [
+        "I Beltagy",
+        "ME Peters",
+        "A Cohan"
+      ],
+      "year": 2004,
+      "citation_count": 5636,
+      "venue": "I Beltagy, ME Peters, A Cohan",
+      "search_keyword": "transformer",
+      "scraped_at": "2025-08-30T16:26:58.679750",
+      "abstract": "Transformer-based models are unable to process long sequences due to their self-attention … Following prior work on long-sequence transformers, we evaluate Longformer on character-…"
+    },
+    {
+      "title": "Point transformer",
+      "link": "https://ieeexplore.ieee.org/abstract/document/9552005/",
+      "snippet": "In this work, we present Point Transformer, a deep neural network that operates directly on unordered and unstructured point sets. We design Point Transformer to extract local and …",
+      "publication_info": {
+        "summary": "N Engel, V Belagiannis, K Dietmayer - IEEE access, 2021 - ieeexplore.ieee.org",
+        "authors": [
+          {
+            "name": "N Engel",
+            "link": "https://scholar.google.com/citations?user=k5JHFKcAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=k5JHFKcAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "k5JHFKcAAAAJ"
+          },
+          {
+            "name": "V Belagiannis",
+            "link": "https://scholar.google.com/citations?user=4IlWd90AAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=4IlWd90AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "4IlWd90AAAAJ"
+          },
+          {
+            "name": "K Dietmayer",
+            "link": "https://scholar.google.com/citations?user=u49itfsAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=u49itfsAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "u49itfsAAAAJ"
+          }
+        ]
+      },
+      "authors": [
+        "N Engel",
+        "V Belagiannis",
+        "K Dietmayer"
+      ],
+      "year": 2021,
+      "citation_count": 320,
+      "venue": "N Engel, V Belagiannis, K Dietmayer",
+      "search_keyword": "transformer",
+      "scraped_at": "2025-08-30T16:26:58.679755",
+      "abstract": "In this work, we present Point Transformer, a deep neural network that operates directly on unordered and unstructured point sets. We design Point Transformer to extract local and …"
+    },
+    {
+      "title": "The evolved transformer",
+      "link": "http://proceedings.mlr.press/v97/so19a",
+      "snippet": "… the strength of the Transformer architecture on sequence … for a better alternative to the Transformer. We first construct a … our initial population with the Transformer. To directly search on …",
+      "publication_info": {
+        "summary": "D So, Q Le, C Liang - International conference on machine …, 2019 - proceedings.mlr.press",
+        "authors": [
+          {
+            "name": "D So",
+            "link": "https://scholar.google.com/citations?user=NmDY9BMAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=NmDY9BMAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "NmDY9BMAAAAJ"
+          },
+          {
+            "name": "Q Le",
+            "link": "https://scholar.google.com/citations?user=vfT6-XIAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=vfT6-XIAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "vfT6-XIAAAAJ"
+          },
+          {
+            "name": "C Liang",
+            "link": "https://scholar.google.com/citations?user=ILQ8_ekAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=ILQ8_ekAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "ILQ8_ekAAAAJ"
+          }
+        ]
+      },
+      "authors": [
+        "D So",
+        "Q Le",
+        "C Liang"
+      ],
+      "year": 2019,
+      "citation_count": 592,
+      "venue": "D So, Q Le, C Liang",
+      "search_keyword": "transformer",
+      "scraped_at": "2025-08-30T16:26:58.679759",
+      "abstract": "… the strength of the Transformer architecture on sequence … for a better alternative to the Transformer. We first construct a … our initial population with the Transformer. To directly search on …"
+    },
+    {
+      "title": "A transformer model for retrosynthesis",
+      "link": "https://link.springer.com/chapter/10.1007/978-3-030-30493-5_78",
+      "snippet": "We describe a Transformer model for a retrosynthetic reaction prediction task. The model is trained on 45 033 experimental reaction examples extracted from USA patents. It can …",
+      "publication_info": {
+        "summary": "P Karpov, G Godin, IV Tetko - International conference on artificial neural …, 2019 - Springer",
+        "authors": [
+          {
+            "name": "P Karpov",
+            "link": "https://scholar.google.com/citations?user=0aX5DuIAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=0aX5DuIAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "0aX5DuIAAAAJ"
+          },
+          {
+            "name": "G Godin",
+            "link": "https://scholar.google.com/citations?user=VgiMHMsAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=VgiMHMsAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "VgiMHMsAAAAJ"
+          },
+          {
+            "name": "IV Tetko",
+            "link": "https://scholar.google.com/citations?user=eMe8DOkAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=eMe8DOkAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "eMe8DOkAAAAJ"
+          }
+        ]
+      },
+      "authors": [
+        "P Karpov",
+        "G Godin",
+        "IV Tetko"
+      ],
+      "year": 2019,
+      "citation_count": 176,
+      "venue": "P Karpov, G Godin, IV Tetko",
+      "search_keyword": "transformer",
+      "scraped_at": "2025-08-30T16:26:58.679762",
+      "abstract": "We describe a Transformer model for a retrosynthetic reaction prediction task. The model is trained on 45 033 experimental reaction examples extracted from USA patents. It can …"
+    }
+  ]
+}

@@ -1,0 +1,547 @@
+{
+  "metadata": {
+    "search_keyword": "neural networks",
+    "total_results": 20,
+    "scraped_at": "2025-08-30T17:06:46.020913",
+    "scraper_version": "1.0"
+  },
+  "results": [
+    {
+      "title": "Neural networks",
+      "link": "https://books.google.com/books?hl=en&lr=&id=ZEID3w9STOUC&oi=fnd&pg=PA1&dq=neural+networks&ots=sAMzB_UCVJ&sig=cdwnTuxNEHSN0fhCnlqiEJNiJzk",
+      "snippet": "… Because neural network models have strong relationships with statistical models, we also discuss the interpretation of neural networks as statistical models in each chapter. The …",
+      "publication_info": {
+        "summary": "H Abdi, D Valentin, B Edelman - 1999 - books.google.com",
+        "authors": [
+          {
+            "name": "H Abdi",
+            "link": "https://scholar.google.com/citations?user=Tyd1NtYAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=Tyd1NtYAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "Tyd1NtYAAAAJ"
+          },
+          {
+            "name": "D Valentin",
+            "link": "https://scholar.google.com/citations?user=4huXuwEAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=4huXuwEAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "4huXuwEAAAAJ"
+          }
+        ]
+      },
+      "authors": [
+        "H Abdi",
+        "D Valentin"
+      ],
+      "year": 1999,
+      "citation_count": 353,
+      "venue": "H Abdi, D Valentin, B Edelman",
+      "search_keyword": "neural networks",
+      "scraped_at": "2025-08-30T17:06:46.020739",
+      "abstract": "… Because neural network models have strong relationships with statistical models, we also discuss the interpretation of neural networks as statistical models in each chapter. The …"
+    },
+    {
+      "title": "An introduction to neural networks",
+      "link": "https://www.taylorfrancis.com/books/mono/10.1201/9781315273570/introduction-neural-networks-kevin-gurney",
+      "snippet": "… The term “Neural networks” is a very evocative one. It suggests machines that are … One of the main tasks of this book is to demystify neural networks and show how, while they indeed …",
+      "publication_info": {
+        "summary": "K Gurney - 2018 - taylorfrancis.com",
+        "authors": [
+          {
+            "name": "K Gurney",
+            "link": "https://scholar.google.com/citations?user=tlrn2ToAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=tlrn2ToAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "tlrn2ToAAAAJ"
+          }
+        ]
+      },
+      "authors": [
+        "K Gurney"
+      ],
+      "year": 2018,
+      "citation_count": 3531,
+      "venue": "K Gurney",
+      "search_keyword": "neural networks",
+      "scraped_at": "2025-08-30T17:06:46.020755",
+      "abstract": "… The term “Neural networks” is a very evocative one. It suggests machines that are … One of the main tasks of this book is to demystify neural networks and show how, while they indeed …"
+    },
+    {
+      "title": "Neural networks and their applications",
+      "link": "https://pubs.aip.org/aip/rsi/article-abstract/65/6/1803/682910",
+      "snippet": "… , and where neural network techniques have much to offer. Of the many neural network models … respectively as the multilayer perceptron and the radial basis function network. These …",
+      "publication_info": {
+        "summary": "CM Bishop - Review of scientific instruments, 1994 - pubs.aip.org",
+        "authors": [
+          {
+            "name": "CM Bishop",
+            "link": "https://scholar.google.com/citations?user=gsr-K3ADUvAC&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=gsr-K3ADUvAC&engine=google_scholar_author&hl=en",
+            "author_id": "gsr-K3ADUvAC"
+          }
+        ]
+      },
+      "authors": [
+        "CM Bishop"
+      ],
+      "year": 1994,
+      "citation_count": 1466,
+      "venue": "CM Bishop",
+      "search_keyword": "neural networks",
+      "scraped_at": "2025-08-30T17:06:46.020760",
+      "abstract": "… , and where neural network techniques have much to offer. Of the many neural network models … respectively as the multilayer perceptron and the radial basis function network. These …"
+    },
+    {
+      "title": "An introduction to neural networks",
+      "link": "https://books.google.com/books?hl=en&lr=&id=_ib4vPdB76gC&oi=fnd&pg=PP11&dq=neural+networks&ots=WddxQbzLRc&sig=D66-4QvPTujN54ynKCEcVyQqFq4",
+      "snippet": "… This book introduces some important neural network algorithms and has been used as a textbook for a college-level neural network course. The main emphasis is on the biology and …",
+      "publication_info": {
+        "summary": "JA Anderson - 1995 - books.google.com"
+      },
+      "authors": [],
+      "year": 1995,
+      "citation_count": 2208,
+      "venue": "JA Anderson",
+      "search_keyword": "neural networks",
+      "scraped_at": "2025-08-30T17:06:46.020763",
+      "abstract": "… This book introduces some important neural network algorithms and has been used as a textbook for a college-level neural network course. The main emphasis is on the biology and …"
+    },
+    {
+      "title": "Neural networks: an introduction",
+      "link": "https://books.google.com/books?hl=en&lr=&id=on0QBwAAQBAJ&oi=fnd&pg=PA3&dq=neural+networks&ots=e4uGLXAxSa&sig=QOU79cgOYoMDDcOPWW3A1PL11EI",
+      "snippet": "… neural network models. Even in the most successful areas of application of neural networks, ie … recognition has not yet been solved by neural networks in a satisfactory way, although we …",
+      "publication_info": {
+        "summary": "B Müller, J Reinhardt, MT Strickland - 2012 - books.google.com",
+        "authors": [
+          {
+            "name": "B Müller",
+            "link": "https://scholar.google.com/citations?user=dNS161AAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=dNS161AAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "dNS161AAAAAJ"
+          }
+        ]
+      },
+      "authors": [
+        "B Müller"
+      ],
+      "year": 2012,
+      "citation_count": 1456,
+      "venue": "B Müller, J Reinhardt, MT Strickland",
+      "search_keyword": "neural networks",
+      "scraped_at": "2025-08-30T17:06:46.020766",
+      "abstract": "… neural network models. Even in the most successful areas of application of neural networks, ie … recognition has not yet been solved by neural networks in a satisfactory way, although we …"
+    },
+    {
+      "title": "A comprehensive foundation",
+      "link": "https://ieeexplore.ieee.org/iel4/91/8807/x0153119.pdf",
+      "snippet": "Written from an engineering perspective, NEURAL NETWORKS provides a comprehensive, up-… and is filled with examples so that readers can see real applications of neural networks. …",
+      "publication_info": {
+        "summary": "S Haykin, N Network - Neural networks, 2004 - ieeexplore.ieee.org"
+      },
+      "authors": [],
+      "year": 2004,
+      "citation_count": 1430,
+      "venue": "S Haykin, N Network",
+      "search_keyword": "neural networks",
+      "scraped_at": "2025-08-30T17:06:46.020770",
+      "abstract": "Written from an engineering perspective, NEURAL NETWORKS provides a comprehensive, up-… and is filled with examples so that readers can see real applications of neural networks. …"
+    },
+    {
+      "title": "Overview of artificial neural networks",
+      "link": "https://link.springer.com/content/pdf/10.1007/978-1-60327-101-1.pdf#page=24",
+      "snippet": "… neural network gives birth to an artificial neural network (ANN). In this chapter, we first discuss the biological neural networks … Finally, we review several examples of neural networks. …",
+      "publication_info": {
+        "summary": "J Zou, Y Han, SS So - Artificial neural networks: methods and applications, 2008 - Springer",
+        "authors": [
+          {
+            "name": "SS So",
+            "link": "https://scholar.google.com/citations?user=ZFt0g1UAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=ZFt0g1UAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "ZFt0g1UAAAAJ"
+          }
+        ]
+      },
+      "authors": [
+        "SS So"
+      ],
+      "year": 2008,
+      "citation_count": 917,
+      "venue": "J Zou, Y Han, SS So",
+      "search_keyword": "neural networks",
+      "scraped_at": "2025-08-30T17:06:46.020774",
+      "abstract": "… neural network gives birth to an artificial neural network (ANN). In this chapter, we first discuss the biological neural networks … Finally, we review several examples of neural networks. …"
+    },
+    {
+      "title": "An overview of neural network",
+      "link": "https://www.academia.edu/download/89062715/10.11648.j.ajnna.20190501.12.pdf",
+      "snippet": "… a brief overview of artificial neural network. The artificial neural network learns by updating the network architecture and connection weights so that the network can efficiently perform a …",
+      "publication_info": {
+        "summary": "M Islam, G Chen, S Jin - American Journal of Neural Networks and …, 2019 - academia.edu",
+        "authors": [
+          {
+            "name": "M Islam",
+            "link": "https://scholar.google.com/citations?user=r8AzDS0AAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=r8AzDS0AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "r8AzDS0AAAAJ"
+          }
+        ]
+      },
+      "authors": [
+        "M Islam"
+      ],
+      "year": 2019,
+      "citation_count": 195,
+      "venue": "M Islam, G Chen, S Jin",
+      "search_keyword": "neural networks",
+      "scraped_at": "2025-08-30T17:06:46.020780",
+      "abstract": "… a brief overview of artificial neural network. The artificial neural network learns by updating the network architecture and connection weights so that the network can efficiently perform a …"
+    },
+    {
+      "title": "Introduction to artificial neural networks",
+      "link": "https://journals.lww.com/eurojgh/abstract/2007/12000/introduction_to_artificial_neural_networks.5.aspx",
+      "snippet": "The coupling of computer science and theoretical bases such as nonlinear dynamics and chaos theory allows the creation of ‘intelligent’agents, such as artificial neural networks (ANNs)…",
+      "publication_info": {
+        "summary": "E Grossi, M Buscema - European journal of gastroenterology & …, 2007 - journals.lww.com",
+        "authors": [
+          {
+            "name": "E Grossi",
+            "link": "https://scholar.google.com/citations?user=U1wFwHwAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=U1wFwHwAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "U1wFwHwAAAAJ"
+          },
+          {
+            "name": "M Buscema",
+            "link": "https://scholar.google.com/citations?user=aNqmGxEAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=aNqmGxEAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "aNqmGxEAAAAJ"
+          }
+        ]
+      },
+      "authors": [
+        "E Grossi",
+        "M Buscema"
+      ],
+      "year": 2007,
+      "citation_count": 501,
+      "venue": "E Grossi, M Buscema",
+      "search_keyword": "neural networks",
+      "scraped_at": "2025-08-30T17:06:46.020783",
+      "abstract": "The coupling of computer science and theoretical bases such as nonlinear dynamics and chaos theory allows the creation of ‘intelligent’agents, such as artificial neural networks (ANNs)…"
+    },
+    {
+      "title": "Artificial neural networks",
+      "link": "https://books.google.com/books?hl=en&lr=&id=RTtvUVU_xL4C&oi=fnd&pg=PR9&dq=neural+networks&ots=Geb2AnBINA&sig=1osIyorR0icHpxX4QgGSqE3D2og",
+      "snippet": "… problem to suit an existing neural network architecture is considered for illustration. The chapter also analyzes issues in the development of neural network models for practical problems…",
+      "publication_info": {
+        "summary": "B Yegnanarayana - 2009 - books.google.com",
+        "authors": [
+          {
+            "name": "B Yegnanarayana",
+            "link": "https://scholar.google.com/citations?user=e9YThaYAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=e9YThaYAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "e9YThaYAAAAJ"
+          }
+        ]
+      },
+      "authors": [
+        "B Yegnanarayana"
+      ],
+      "year": 2009,
+      "citation_count": 2478,
+      "venue": "B Yegnanarayana",
+      "search_keyword": "neural networks",
+      "scraped_at": "2025-08-30T17:06:46.020787",
+      "abstract": "… problem to suit an existing neural network architecture is considered for illustration. The chapter also analyzes issues in the development of neural network models for practical problems…"
+    },
+    {
+      "title": "The basic ideas in neural networks",
+      "link": "https://go.gale.com/ps/i.do?id=GALE%7CA15061351&sid=googleScholar&v=2.1&it=r&linkaccess=abs&issn=00010782&p=AONE&sw=w",
+      "snippet": "… of such neural network systems; … neuron as the basic processing unit. Each such processing unit is characterized by an activity level (representing the state of polarization of a neuron…",
+      "publication_info": {
+        "summary": "DE Rumelhart, B Widrow, MA Lehr - Communications of the ACM, 1994 - go.gale.com",
+        "authors": [
+          {
+            "name": "MA Lehr",
+            "link": "https://scholar.google.com/citations?user=T6SqIpEAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=T6SqIpEAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "T6SqIpEAAAAJ"
+          }
+        ]
+      },
+      "authors": [
+        "MA Lehr"
+      ],
+      "year": 1994,
+      "citation_count": 723,
+      "venue": "DE Rumelhart, B Widrow, MA Lehr",
+      "search_keyword": "neural networks",
+      "scraped_at": "2025-08-30T17:06:46.020790",
+      "abstract": "… of such neural network systems; … neuron as the basic processing unit. Each such processing unit is characterized by an activity level (representing the state of polarization of a neuron…"
+    },
+    {
+      "title": "Tensorizing neural networks",
+      "link": "https://proceedings.neurips.cc/paper/2015/hash/6855456e2fe46a9d49d3d3af4f57443d-Abstract.html",
+      "snippet": "… We will refer to a neural network with one or … neural network with 1024 hidden units and replace both fully-connected layers by the TT-layers. By setting all the TT-ranks in the network to …",
+      "publication_info": {
+        "summary": "A Novikov, D Podoprikhin, A Osokin… - Advances in neural …, 2015 - proceedings.neurips.cc",
+        "authors": [
+          {
+            "name": "A Novikov",
+            "link": "https://scholar.google.com/citations?user=jMUkLqwAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=jMUkLqwAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "jMUkLqwAAAAJ"
+          },
+          {
+            "name": "D Podoprikhin",
+            "link": "https://scholar.google.com/citations?user=EXmjt9wAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=EXmjt9wAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "EXmjt9wAAAAJ"
+          },
+          {
+            "name": "A Osokin",
+            "link": "https://scholar.google.com/citations?user=R9MXY8wAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=R9MXY8wAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "R9MXY8wAAAAJ"
+          }
+        ]
+      },
+      "authors": [
+        "A Novikov",
+        "D Podoprikhin",
+        "A Osokin"
+      ],
+      "year": 2015,
+      "citation_count": 1183,
+      "venue": "A Novikov, D Podoprikhin, A Osokin…",
+      "search_keyword": "neural networks",
+      "scraped_at": "2025-08-30T17:06:46.020793",
+      "abstract": "… We will refer to a neural network with one or … neural network with 1024 hidden units and replace both fully-connected layers by the TT-layers. By setting all the TT-ranks in the network to …"
+    },
+    {
+      "title": "Development and application of artificial neural network",
+      "link": "https://link.springer.com/article/10.1007/s11277-017-5224-x",
+      "snippet": "… Therefore, this paper reviews and summarizes artificial neural network, and hopes that … neural network. This paper first reviews the development history of artificial neural network and its …",
+      "publication_info": {
+        "summary": "Y Wu, J Feng - Wireless Personal Communications, 2018 - Springer"
+      },
+      "authors": [],
+      "year": 2018,
+      "citation_count": 779,
+      "venue": "Y Wu, J Feng",
+      "search_keyword": "neural networks",
+      "scraped_at": "2025-08-30T17:06:46.020796",
+      "abstract": "… Therefore, this paper reviews and summarizes artificial neural network, and hopes that … neural network. This paper first reviews the development history of artificial neural network and its …"
+    },
+    {
+      "title": "Neural networks for control",
+      "link": "https://books.google.com/books?hl=en&lr=&id=prjMtIr_yT8C&oi=fnd&pg=PR2&dq=neural+networks&ots=-4Q4qyY6km&sig=0pp31-vLQ0KRoxFiX_-WWvoFd9A",
+      "snippet": "… the art in the use of neural networks for control. By neural networks we mean engineered computational … Today neural networks are actively explored in artificial intelligence, psychology, …",
+      "publication_info": {
+        "summary": "WT Miller, RS Sutton, PJ Werbos - 1995 - books.google.com",
+        "authors": [
+          {
+            "name": "RS Sutton",
+            "link": "https://scholar.google.com/citations?user=6m4wv6gAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=6m4wv6gAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "6m4wv6gAAAAJ"
+          }
+        ]
+      },
+      "authors": [
+        "RS Sutton"
+      ],
+      "year": 1995,
+      "citation_count": 1814,
+      "venue": "WT Miller, RS Sutton, PJ Werbos",
+      "search_keyword": "neural networks",
+      "scraped_at": "2025-08-30T17:06:46.020799",
+      "abstract": "… the art in the use of neural networks for control. By neural networks we mean engineered computational … Today neural networks are actively explored in artificial intelligence, psychology, …"
+    },
+    {
+      "title": "Slimmable neural networks",
+      "link": "https://arxiv.org/abs/1812.08928",
+      "snippet": "… We present a simple and general method to train a single neural network executable at different … individual networks with different width configurations, we train a shared network with …",
+      "publication_info": {
+        "summary": "J Yu, L Yang, N Xu, J Yang, T Huang - arXiv preprint arXiv:1812.08928, 2018 - arxiv.org",
+        "authors": [
+          {
+            "name": "J Yu",
+            "link": "https://scholar.google.com/citations?user=-CLCMk4AAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=-CLCMk4AAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "-CLCMk4AAAAJ"
+          },
+          {
+            "name": "L Yang",
+            "link": "https://scholar.google.com/citations?user=XptEO8oAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=XptEO8oAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "XptEO8oAAAAJ"
+          },
+          {
+            "name": "N Xu",
+            "link": "https://scholar.google.com/citations?user=dRDZBoEAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=dRDZBoEAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "dRDZBoEAAAAJ"
+          },
+          {
+            "name": "J Yang",
+            "link": "https://scholar.google.com/citations?user=HWFvq_wAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=HWFvq_wAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "HWFvq_wAAAAJ"
+          },
+          {
+            "name": "T Huang",
+            "link": "https://scholar.google.com/citations?user=rGF6-WkAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=rGF6-WkAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "rGF6-WkAAAAJ"
+          }
+        ]
+      },
+      "authors": [
+        "J Yu",
+        "L Yang",
+        "N Xu",
+        "J Yang",
+        "T Huang"
+      ],
+      "year": 2018,
+      "citation_count": 767,
+      "venue": "J Yu, L Yang, N Xu, J Yang, T Huang",
+      "search_keyword": "neural networks",
+      "scraped_at": "2025-08-30T17:06:46.020802",
+      "abstract": "… We present a simple and general method to train a single neural network executable at different … individual networks with different width configurations, we train a shared network with …"
+    },
+    {
+      "title": "iNNvestigate neural networks!",
+      "link": "http://www.jmlr.org/papers/v20/18-540.html",
+      "snippet": "… the most complex neural network architectures. Despite these arguments neural networks are … analysis of image classifications for variety of state-of-the-art neural network architectures. …",
+      "publication_info": {
+        "summary": "M Alber, S Lapuschkin, P Seegerer, M Hägele… - Journal of machine …, 2019 - jmlr.org",
+        "authors": [
+          {
+            "name": "M Alber",
+            "link": "https://scholar.google.com/citations?user=pnOLBcoAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=pnOLBcoAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "pnOLBcoAAAAJ"
+          },
+          {
+            "name": "S Lapuschkin",
+            "link": "https://scholar.google.com/citations?user=wpLQuroAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=wpLQuroAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "wpLQuroAAAAJ"
+          },
+          {
+            "name": "P Seegerer",
+            "link": "https://scholar.google.com/citations?user=6382yXMAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=6382yXMAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "6382yXMAAAAJ"
+          },
+          {
+            "name": "M Hägele",
+            "link": "https://scholar.google.com/citations?user=qx1K3OoAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=qx1K3OoAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "qx1K3OoAAAAJ"
+          }
+        ]
+      },
+      "authors": [
+        "M Alber",
+        "S Lapuschkin",
+        "P Seegerer",
+        "M Hägele"
+      ],
+      "year": 2019,
+      "citation_count": 482,
+      "venue": "M Alber, S Lapuschkin, P Seegerer, M Hägele…",
+      "search_keyword": "neural networks",
+      "scraped_at": "2025-08-30T17:06:46.020805",
+      "abstract": "… the most complex neural network architectures. Despite these arguments neural networks are … analysis of image classifications for variety of state-of-the-art neural network architectures. …"
+    },
+    {
+      "title": "Neural networks: An overview",
+      "link": "https://pubs.acs.org/doi/pdf/10.1021/ac00006a739",
+      "snippet": "… “neural network” bring a hopeful vision to scientists and engineers … The neural network exemplifies the paradox that the … Irrespective of the ebb and flow of neural-net enthusiasm, two …",
+      "publication_info": {
+        "summary": "PA Jansson - Analytical chemistry, 1991 - ACS Publications",
+        "authors": [
+          {
+            "name": "PA Jansson",
+            "link": "https://scholar.google.com/citations?user=ZCDa5XoAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=ZCDa5XoAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "ZCDa5XoAAAAJ"
+          }
+        ]
+      },
+      "authors": [
+        "PA Jansson"
+      ],
+      "year": 1991,
+      "citation_count": 222,
+      "venue": "PA Jansson",
+      "search_keyword": "neural networks",
+      "scraped_at": "2025-08-30T17:06:46.020809",
+      "abstract": "… “neural network” bring a hopeful vision to scientists and engineers … The neural network exemplifies the paradox that the … Irrespective of the ebb and flow of neural-net enthusiasm, two …"
+    },
+    {
+      "title": "Building neural networks",
+      "link": "https://books.google.com/books?hl=en&lr=&id=RaRbNBqGR1oC&oi=fnd&pg=PA1&dq=neural+networks&ots=2lgBUraoD6&sig=qFgXAlij6giA_8P3KyYtZypXq74",
+      "snippet": "… information processing, a review chapter in which I summarize the operation of the most popular neural network processing models, a chapter dedicated to the practical issues of …",
+      "publication_info": {
+        "summary": "DM Skapura - 1996 - books.google.com"
+      },
+      "authors": [],
+      "year": 1996,
+      "citation_count": 590,
+      "venue": "DM Skapura",
+      "search_keyword": "neural networks",
+      "scraped_at": "2025-08-30T17:06:46.020811",
+      "abstract": "… information processing, a review chapter in which I summarize the operation of the most popular neural network processing models, a chapter dedicated to the practical issues of …"
+    },
+    {
+      "title": "How neural networks learn from experience",
+      "link": "https://www.jstor.org/stable/24939221",
+      "snippet": "… by creating networks of artificial neurons. We con struct these neural networks by first trying … our models are necessarily gross idealizations of real networks of neurons. Naturally, we en …",
+      "publication_info": {
+        "summary": "GE Hinton - Scientific American, 1992 - JSTOR",
+        "authors": [
+          {
+            "name": "GE Hinton",
+            "link": "https://scholar.google.com/citations?user=JicYPdAAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=JicYPdAAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "JicYPdAAAAAJ"
+          }
+        ]
+      },
+      "authors": [
+        "GE Hinton"
+      ],
+      "year": 1992,
+      "citation_count": 756,
+      "venue": "GE Hinton",
+      "search_keyword": "neural networks",
+      "scraped_at": "2025-08-30T17:06:46.020813",
+      "abstract": "… by creating networks of artificial neurons. We con struct these neural networks by first trying … our models are necessarily gross idealizations of real networks of neurons. Naturally, we en …"
+    },
+    {
+      "title": "Applying neural networks: a practical guide",
+      "link": "https://books.google.com/books?hl=en&lr=&id=bq0YnP4BNKsC&oi=fnd&pg=PP7&dq=neural+networks&ots=BYHxMSdKMh&sig=H1xtlvd-TcxfgkRB6M20QhJLAYc",
+      "snippet": "… neural network technology to real world applications. With this book and a neural network … able to confidently run and manage a neural computing based project. The base techniques …",
+      "publication_info": {
+        "summary": "K Swingler - 1996 - books.google.com",
+        "authors": [
+          {
+            "name": "K Swingler",
+            "link": "https://scholar.google.com/citations?user=fOiZdtAAAAAJ&hl=en&num=20&oi=sra",
+            "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=fOiZdtAAAAAJ&engine=google_scholar_author&hl=en",
+            "author_id": "fOiZdtAAAAAJ"
+          }
+        ]
+      },
+      "authors": [
+        "K Swingler"
+      ],
+      "year": 1996,
+      "citation_count": 1282,
+      "venue": "K Swingler",
+      "search_keyword": "neural networks",
+      "scraped_at": "2025-08-30T17:06:46.020816",
+      "abstract": "… neural network technology to real world applications. With this book and a neural network … able to confidently run and manage a neural computing based project. The base techniques …"
+    }
+  ]
+}

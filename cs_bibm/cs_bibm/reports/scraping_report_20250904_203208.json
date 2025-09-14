@@ -1,0 +1,465 @@
+{
+  "statistics": {
+    "conferences_scraped": 22,
+    "papers_found": 58383,
+    "papers_inserted": 58364,
+    "papers_updated": 19,
+    "arxiv_matches": 38142,
+    "errors": 0,
+    "start_time": "2025-09-03 03:23:18.551365",
+    "end_time": "2025-09-04 20:32:08.010653"
+  },
+  "conference_results": {
+    "CVPR": {
+      "conference": "CVPR",
+      "years_scraped": [
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "total_papers": 6000,
+      "papers_by_year": {
+        "2020": 1000,
+        "2021": 1000,
+        "2022": 1000,
+        "2023": 1000,
+        "2024": 1000,
+        "2025": 1000
+      },
+      "arxiv_matches": 4036,
+      "errors": []
+    },
+    "NeurIPS": {
+      "conference": "NeurIPS",
+      "years_scraped": [
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "total_papers": 5000,
+      "papers_by_year": {
+        "2020": 1000,
+        "2021": 1000,
+        "2022": 1000,
+        "2023": 1000,
+        "2024": 1000,
+        "2025": 0
+      },
+      "arxiv_matches": 3877,
+      "errors": []
+    },
+    "AAAI": {
+      "conference": "AAAI",
+      "years_scraped": [
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "total_papers": 6000,
+      "papers_by_year": {
+        "2020": 1000,
+        "2021": 1000,
+        "2022": 1000,
+        "2023": 1000,
+        "2024": 1000,
+        "2025": 1000
+      },
+      "arxiv_matches": 3406,
+      "errors": []
+    },
+    "ICML": {
+      "conference": "ICML",
+      "years_scraped": [
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "total_papers": 5000,
+      "papers_by_year": {
+        "2020": 1000,
+        "2021": 1000,
+        "2022": 1000,
+        "2023": 1000,
+        "2024": 1000,
+        "2025": 0
+      },
+      "arxiv_matches": 3985,
+      "errors": []
+    },
+    "INTERSPEECH": {
+      "conference": "INTERSPEECH",
+      "years_scraped": [
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "total_papers": 3999,
+      "papers_by_year": {
+        "2020": 1000,
+        "2021": 999,
+        "2022": 1000,
+        "2023": 0,
+        "2024": 1000,
+        "2025": 0
+      },
+      "arxiv_matches": 1827,
+      "errors": []
+    },
+    "IJCAI": {
+      "conference": "IJCAI",
+      "years_scraped": [
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "total_papers": 4560,
+      "papers_by_year": {
+        "2020": 845,
+        "2021": 778,
+        "2022": 1000,
+        "2023": 937,
+        "2024": 1000,
+        "2025": 0
+      },
+      "arxiv_matches": 1985,
+      "errors": []
+    },
+    "ICLR": {
+      "conference": "ICLR",
+      "years_scraped": [
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "total_papers": 5547,
+      "papers_by_year": {
+        "2020": 687,
+        "2021": 860,
+        "2022": 1000,
+        "2023": 1000,
+        "2024": 1000,
+        "2025": 1000
+      },
+      "arxiv_matches": 4288,
+      "errors": []
+    },
+    "ACL": {
+      "conference": "ACL",
+      "years_scraped": [
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "total_papers": 5999,
+      "papers_by_year": {
+        "2020": 1000,
+        "2021": 999,
+        "2022": 1000,
+        "2023": 1000,
+        "2024": 1000,
+        "2025": 1000
+      },
+      "arxiv_matches": 3960,
+      "errors": []
+    },
+    "ICCV": {
+      "conference": "ICCV",
+      "years_scraped": [
+        2021,
+        2023,
+        2025
+      ],
+      "total_papers": 2000,
+      "papers_by_year": {
+        "2021": 1000,
+        "2023": 1000,
+        "2025": 0
+      },
+      "arxiv_matches": 1398,
+      "errors": []
+    },
+    "ECCV": {
+      "conference": "ECCV",
+      "years_scraped": [
+        2020,
+        2022,
+        2024
+      ],
+      "total_papers": 3000,
+      "papers_by_year": {
+        "2020": 1000,
+        "2022": 1000,
+        "2024": 1000
+      },
+      "arxiv_matches": 2162,
+      "errors": []
+    },
+    "EMNLP": {
+      "conference": "EMNLP",
+      "years_scraped": [
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "total_papers": 5000,
+      "papers_by_year": {
+        "2020": 1000,
+        "2021": 1000,
+        "2022": 1000,
+        "2023": 1000,
+        "2024": 1000,
+        "2025": 0
+      },
+      "arxiv_matches": 3318,
+      "errors": []
+    },
+    "UAI": {
+      "conference": "UAI",
+      "years_scraped": [
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "total_papers": 1257,
+      "papers_by_year": {
+        "2020": 140,
+        "2021": 206,
+        "2022": 230,
+        "2023": 243,
+        "2024": 209,
+        "2025": 229
+      },
+      "arxiv_matches": 816,
+      "errors": []
+    },
+    "CoRL": {
+      "conference": "CoRL",
+      "years_scraped": [
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "total_papers": 991,
+      "papers_by_year": {
+        "2020": 165,
+        "2021": 166,
+        "2022": 197,
+        "2023": 199,
+        "2024": 264,
+        "2025": 0
+      },
+      "arxiv_matches": 753,
+      "errors": []
+    },
+    "NAACL": {
+      "conference": "NAACL",
+      "years_scraped": [
+        2021,
+        2024
+      ],
+      "total_papers": 1673,
+      "papers_by_year": {
+        "2021": 673,
+        "2024": 1000
+      },
+      "arxiv_matches": 1078,
+      "errors": []
+    },
+    "COLT": {
+      "conference": "COLT",
+      "years_scraped": [
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "total_papers": 943,
+      "papers_by_year": {
+        "2020": 126,
+        "2021": 140,
+        "2022": 155,
+        "2023": 170,
+        "2024": 170,
+        "2025": 182
+      },
+      "arxiv_matches": 813,
+      "errors": []
+    },
+    "MLSYS": {
+      "conference": "MLSYS",
+      "years_scraped": [
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "total_papers": 220,
+      "papers_by_year": {
+        "2020": 34,
+        "2021": 52,
+        "2022": 51,
+        "2023": 46,
+        "2024": 37,
+        "2025": 0
+      },
+      "arxiv_matches": 135,
+      "errors": []
+    },
+    "USENIX-Sec": {
+      "conference": "USENIX-Sec",
+      "years_scraped": [
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "total_papers": 0,
+      "papers_by_year": {
+        "2020": 0,
+        "2021": 0,
+        "2022": 0,
+        "2023": 0,
+        "2024": 0,
+        "2025": 0
+      },
+      "arxiv_matches": 0,
+      "errors": []
+    },
+    "IWSLT": {
+      "conference": "IWSLT",
+      "years_scraped": [
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "total_papers": 151,
+      "papers_by_year": {
+        "2020": 34,
+        "2021": 33,
+        "2022": 35,
+        "2023": 49,
+        "2024": 0,
+        "2025": 0
+      },
+      "arxiv_matches": 61,
+      "errors": []
+    },
+    "NDSS": {
+      "conference": "NDSS",
+      "years_scraped": [
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "total_papers": 704,
+      "papers_by_year": {
+        "2020": 89,
+        "2021": 87,
+        "2022": 83,
+        "2023": 94,
+        "2024": 140,
+        "2025": 211
+      },
+      "arxiv_matches": 196,
+      "errors": []
+    },
+    "COLM": {
+      "conference": "COLM",
+      "years_scraped": [
+        2024,
+        2025
+      ],
+      "total_papers": 0,
+      "papers_by_year": {
+        "2024": 0,
+        "2025": 0
+      },
+      "arxiv_matches": 0,
+      "errors": []
+    },
+    "USENIX-Fast": {
+      "conference": "USENIX-Fast",
+      "years_scraped": [
+        2020,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ],
+      "total_papers": 167,
+      "papers_by_year": {
+        "2020": 23,
+        "2021": 28,
+        "2022": 29,
+        "2023": 29,
+        "2024": 22,
+        "2025": 36
+      },
+      "arxiv_matches": 15,
+      "errors": []
+    },
+    "OSDI": {
+      "conference": "OSDI",
+      "years_scraped": [
+        2020,
+        2022,
+        2024
+      ],
+      "total_papers": 172,
+      "papers_by_year": {
+        "2020": 70,
+        "2022": 49,
+        "2024": 53
+      },
+      "arxiv_matches": 33,
+      "errors": []
+    }
+  },
+  "summary": "\nCONFERENCE SCRAPING SUMMARY\n==================================================\nDuration: 41h 8m\nConferences scraped: 22\nTotal papers found: 58,383\nPapers inserted: 58,364\nPapers updated: 19\narXiv matches: 38,142\nErrors: 0\n\nPerformance:\nPapers per minute: 23.6\nSuccess rate: 100.0%\narXiv match rate: 65.3%\\n"
+}
